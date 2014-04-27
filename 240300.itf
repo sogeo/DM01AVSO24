@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 20/04/2014  06:47:21
+GeosPro Export 27/04/2014  06:47:22
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -1656,7 +1656,7 @@ OBJE 42                SO0200002403 1068         Neubau,_Bruggweg_7             
 OBJE 43                SO0200002403 1070         Neubau_Kirchbannstrasse_22a     20140203  20140203
 OBJE 44                SO0200002403 1073         Neubau_Stockackerstrasse_20a    20140317  20140317
 OBJE 45                SO0200002403 1077         Parz._GB_478,_Rainstrasse_7     20140408  20140408
-OBJE 46                SO0200002403 1078         Ausbau_Angular                  20140410  20140410
+OBJE 46                SO0200002403 1078         Erschliessung_GB1389/1390       20140410  20140410
 OBJE 47                SO0200002403 959          Neubau_Feldstr._11              20090204  20090204
 OBJE 48                SO0200002403 961          Parzellierung_GB-Nr._1946       20090206  20090204
 OBJE 49                SO0200002403 964          Neubau_Rüttistrasse_5,_GB_1207  20090227  20090227
@@ -3208,7 +3208,7 @@ OBJE 59                SO0200002403 1072         Anbau_Zelglistrasse_3          
 OBJE 60                SO0200002403 1073         Neubau_Stockackerstrasse_20a   1  20140317 @        
 OBJE 61                SO0200002403 1074         Anbau_Jurastrasse_13           1  20140317 @        
 OBJE 62                SO0200002403 1077         Parz._GB_478,_Rainstrasse_7    1  20140408 @        
-OBJE 63                SO0200002403 1078         Ausbau_Angular                 1  20140410 @        
+OBJE 63                SO0200002403 1078         Erschliessung_GB1389/1390      1  20140410 @        
 OBJE 64                SO0200002403 958          Neubau_Feldstr._3a             1  20090204 @        
 OBJE 65                SO0200002403 959          Neubau_Feldstr._11             1  20090204 @        
 OBJE 66                SO0200002403 960          Neubau_Feldstr._13             1  20090204 @        
@@ -57975,7 +57975,7 @@ OBJE 19                SO0200002403 1065         Parz._GB_328,_Gäustrasse       
 CONT @        
 OBJE 20                SO0200002403 1075         Parz._GB_377,_Bifangstr.       0  20140326 @         @         \
 CONT @        
-OBJE 21                SO0200002403 1076         Parz._GB_2002_Unterdorf        0  20140407 @         @         \
+OBJE 21                SO0200002403 1076         Parz._GB_2002_Unterdorf        0  20140422 @         @         \
 CONT @        
 OBJE 22                SO0200002403 1077         Parz._GB_478,_Rainstrasse_7    0  20140408 @         @         \
 CONT @        
@@ -72516,11 +72516,11 @@ OBJE 7                 1                 624012.579 236606.037  100.0  1  2  1
 ELIN
 OBJE 8                 2                 624035.376 236618.745  100.0  1  2  1
 ELIN
-OBJE 9                 9                 624252.549 237309.779  100.0  1  2  1
+OBJE 9                 9                 624246.804 237304.676  100.0  1  2  1
 ELIN
 OBJE 10                7                 624147.567 237160.320 @      @  @  @ 
 ELIN
-OBJE 11                10                624259.898 237299.781  100.0  1  2  1
+OBJE 11                10                624254.153 237294.678  100.0  1  2  1
 ELIN
 OBJE 12                11                624078.121 236568.141 @      @  @  @ 
 ELIN
@@ -95854,7 +95854,7 @@ OBJE 47                SO0200002403 1070         Neubau_Kirchbannstrasse_22a    
 OBJE 48                SO0200002403 1071         Neubau_St._Peterstrasse_52a    1 20140313
 OBJE 49                SO0200002403 1073         Neubau_Stockackerstrasse_20a   1 20140317
 OBJE 50                SO0200002403 1077         Parz._GB_478,_Rainstrasse_7    1 20140408
-OBJE 51                SO0200002403 1078         Ausbau_Angular                 1 20140410
+OBJE 51                SO0200002403 1078         Erschliessung_GB1389/1390      1 20140410
 OBJE 52                SO0200002403 959          Neubau_Feldstr._11             1 20090204
 OBJE 53                SO0200002403 960          Neubau_Feldstr._13             1 20090204
 OBJE 54                SO0200002403 962          Anbau_Bachmattstr._5,_GB_1467  1 20090206
