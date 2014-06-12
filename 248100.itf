@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 04/06/2014  19:44:01
+GeosPro Export 11/06/2014  19:44:04
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -1071,6 +1071,7 @@ OBJE 42                SO0200002481 504          GN_Neubau_GB_1268              
 OBJE 43                SO0200002481 507          GN_Neubau_GB_1263              1  20140331 @        
 OBJE 44                SO0200002481 548          GN_Anbau_GB_1277               1  20140402 @        
 OBJE 45                SO0200002481 515          GN_Neubauten_GB_706_etc        1  20140407 @        
+OBJE 46                SO0200002481 549          Proj_Geb_Neubau_GB_1859        0  20140606 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
@@ -1078,6 +1079,7 @@ TABL ProjBoFlaeche
 OBJE 1                 37                0  0
 OBJE 2                 39                0  0
 OBJE 3                 41                0  0
+OBJE 4                 46                0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -1111,10 +1113,18 @@ LIPT 606840.017 259543.302
 LIPT 606839.571 259541.558
 LIPT 606844.270 259540.357
 ELIN
+OBJE 4                 4                
+STPT 606728.171 259423.087
+LIPT 606730.677 259433.798
+LIPT 606721.914 259435.848
+LIPT 606719.408 259425.137
+LIPT 606728.171 259423.087
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 OBJE 1                 3                 1             191227971
 OBJE 2                 1                 1             191221190
+OBJE 3                 4                 1             191129370
 ETAB
 TABL ProjGebaeudenummerPos
 ETAB
@@ -63220,7 +63230,7 @@ OBJE 565               564               606885.093 259369.717 @       1  2 @
 ELIN
 OBJE 566               565               606883.022 259391.907 @       1  2 @ 
 ELIN
-OBJE 567               566               606431.277 260343.364    1.3  1  2  0
+OBJE 567               566               606430.351 260343.647    1.3  1  2  0
 ELIN
 OBJE 568               567               606837.460 259343.204  122.5  1  2 @ 
 ELIN
@@ -63228,7 +63238,7 @@ OBJE 569               568               606871.699 259410.171   21.4  1  2 @
 ELIN
 OBJE 570               569               606755.983 259502.909 @       1  2 @ 
 ELIN
-OBJE 571               570               606777.713 259290.012  122.4  1  2 @ 
+OBJE 571               570               606797.362 259283.498  122.4  1  2 @ 
 ELIN
 OBJE 572               571               606640.237 259323.723 @       1  2 @ 
 ELIN
@@ -80822,6 +80832,8 @@ OBJE 96                74                @   @   606969.637 259477.760   11.8  1
 ELIN
 OBJE 97                36                @   @   606288.856 259459.374 @       1  2  1
 ELIN
+OBJE 98                34                @   @   606350.386 259469.827  103.8  1  3  0
+ELIN
 ETAB
 TABL BenanntesGebiet
 OBJE 1                 36               
@@ -88952,6 +88964,8 @@ OBJE 693               26                 34                1 1 1 0 606381.813 2
 CONT @            0
 OBJE 694               26                 34                1 1 1 0 606386.496 259417.754 @     6b           0 \
 CONT @            0
+OBJE 695               1                  10                0 1 0 0 606724.810 259429.678 @     8            0 \
+CONT @            0
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 606178.531 260190.335  100.0  1  3  1
@@ -89610,6 +89624,7 @@ OBJE 653               691               606386.010 259437.772  116.8  1  0 @
 OBJE 654               692               606392.444 259436.033  116.8  1  0 @ 
 OBJE 655               693               606381.008 259419.247  116.9  1  0 @ 
 OBJE 656               694               606387.429 259417.501  116.9  1  0 @ 
+OBJE 657               695               606725.568 259433.751  114.6  1  0 @ 
 ETAB
 TABL GebaeudeName
 ETAB

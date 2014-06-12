@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 10/06/2014  14:37:59
+GeosPro Export 11/06/2014  15:14:50
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -51714,6 +51714,7 @@ OBJE 1318              95                0 12
 OBJE 1319              86                0  3
 OBJE 1320              95                0  7
 OBJE 1321              95                0 12
+OBJE 1322              1                 0  7
 ETAB
 TABL Flaechenelement
 OBJE 1                 1                
@@ -52774,6 +52775,7 @@ OBJE 1055              417
 OBJE 1056              1318             
 OBJE 1057              1320             
 OBJE 1058              1321             
+OBJE 1059              1322             
 ETAB
 TABL Flaechenelement_Geometrie
 OBJE 1                 1                
@@ -61599,6 +61601,12 @@ LIPT 627232.048 238417.474
 LIPT 627227.335 238414.093
 LIPT 627230.132 238410.193
 LIPT 627231.351 238411.067
+ELIN
+OBJE 1064              1059             
+STPT 627699.628 240160.964
+LIPT 627701.956 240162.839
+LIPT 627700.910 240162.680
+LIPT 627699.628 240160.964
 ELIN
 ETAB
 TABL FlaechenelementSymbol
