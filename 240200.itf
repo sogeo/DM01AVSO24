@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 13/07/2014  06:17:14
+GeosPro Export 18/07/2014  17:44:31
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -2666,6 +2666,7 @@ OBJE 129               SO0200002402 PG13-03      GB_153,_Buchsweg_1             
 OBJE 130               SO0200002402 PG13-04      GB_150,_Lochgässli_12          1  20131024 @        
 OBJE 131               SO0200002402 PG14-01      GB_981_Bündenweg_15            1  20140428 @        
 OBJE 132               SO0200002402 PG14-02      GB_988,_Fröschengasse_16       1  20140610 @        
+OBJE 133               SO0200002402 PG14-03      GB_156,_Lindenweg_5            1  20140715 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 127              
@@ -2872,6 +2873,7 @@ OBJE 2                 129               0  0
 OBJE 3                 130               0  0
 OBJE 4                 131               0  0
 OBJE 5                 132               0  0
+OBJE 6                 133               0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -2913,6 +2915,15 @@ LIPT 629052.783 239784.305
 LIPT 629059.023 239770.336
 LIPT 629067.697 239774.211
 ELIN
+OBJE 6                 6                
+STPT 628606.022 239465.836
+LIPT 628599.532 239479.879
+LIPT 628589.529 239475.256
+LIPT 628593.480 239466.705
+LIPT 628597.129 239468.391
+LIPT 628599.667 239462.899
+LIPT 628606.022 239465.836
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 OBJE 1                 1                 1             191000430
@@ -2920,6 +2931,7 @@ OBJE 2                 2                 1             191126050
 OBJE 3                 3                 1             191141790
 OBJE 4                 4                 191188330             1
 OBJE 5                 5                 1             191265790
+OBJE 6                 6                 1             191246330
 ETAB
 TABL ProjGebaeudenummerPos
 OBJE 1                 1                 628653.304 240842.852 100.0  1  2  1
@@ -2927,6 +2939,7 @@ OBJE 2                 2                 628594.376 239415.814 100.0  1  2  1
 OBJE 3                 3                 628472.628 239220.138 100.0  1  2  1
 OBJE 4                 4                 629101.700 239278.250 100.0  1  2  1
 OBJE 5                 5                 629061.731 239778.249 100.0  1  2  1
+OBJE 6                 6                 628597.921 239470.501 100.0  1  2  1
 ETAB
 TABL ProjObjektname
 ETAB
@@ -64992,7 +65005,7 @@ OBJE 147               61                628606.541 239437.440  100.0  1  2  1
 ELIN
 OBJE 148               62                628626.594 239458.429  100.0  1  2 @ 
 ELIN
-OBJE 149               63                628593.654 239478.232  100.0  1  2 @ 
+OBJE 149               63                628592.168 239479.622  100.0  1  2 @ 
 ELIN
 OBJE 150               64                628611.363 239485.739  100.0  1  2 @ 
 ELIN
@@ -82627,6 +82640,7 @@ OBJE 79                SO0200002402 PG13-03      GB_153,_Buchsweg_1             
 OBJE 80                SO0200002402 PG13-04      GB_150,_Lochgässli_12          1 20131024
 OBJE 81                SO0200002402 PG14-01      GB_981_Bündenweg_15            1 20140428
 OBJE 82                SO0200002402 PG14-02      GB_988,_Fröschengasse_16       1 20140610
+OBJE 83                SO0200002402 PG14-03      GB_156,_Lindenweg_5            1 20140715
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -88486,6 +88500,8 @@ OBJE 752               1                  32                1 1 1 0 628827.280 2
 CONT @            0
 OBJE 753               1                  32                1 1 1 0 628829.135 239960.314 @     11a          1 \
 CONT @            0
+OBJE 754               83                 51                0 1 0 0 628596.861 239473.248 @     5            0 \
+CONT @            0
 ETAB
 TABL HausnummerPos
 OBJE 1                 2                 628260.688 239891.177  170.7  1  4  1
@@ -89141,6 +89157,7 @@ OBJE 650               750               628976.549 239824.829   70.7  1  4  0
 OBJE 651               751               628972.315 239818.207   71.0  1  4  0
 OBJE 652               752               628826.750 239937.183   77.0  1  4  1
 OBJE 653               753               628829.135 239960.314   53.6  1  4  0
+OBJE 654               754               628596.861 239473.248  172.4  1  0  1
 ETAB
 TABL GebaeudeName
 ETAB
