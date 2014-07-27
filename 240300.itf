@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 20/07/2014  06:47:03
+GeosPro Export 27/07/2014  06:47:07
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -3099,6 +3099,7 @@ OBJE 101               SO0200002403 PG13-01      GB_1390,_Hundsackerstrasse_22  
 OBJE 102               SO0200002403 PG13-02      GB_1914,_Bruggweg_14           1  20130911 @        
 OBJE 103               SO0200002403 PG13-03      GB_1964,_Rainstrasse_10        1  20131028 @        
 OBJE 104               SO0200002403 PG14-01      GB_2005,_Rainstrasse_3         1  20140716 @        
+OBJE 105               SO0200002403 PG14-02      GB_1993,_Alte_Str._34          1  20140723 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 100              
@@ -3320,6 +3321,7 @@ OBJE 1                 101               0  0
 OBJE 2                 102               0  0
 OBJE 3                 103               0  0
 OBJE 4                 104               0  0
+OBJE 5                 105               0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -3357,6 +3359,13 @@ LIPT 624078.927 236575.077
 LIPT 624072.512 236569.500
 LIPT 624079.729 236561.198
 LIPT 624086.144 236566.775
+ELIN
+OBJE 5                 5                
+STPT 624040.196 236605.427
+LIPT 624039.269 236615.384
+LIPT 624026.325 236614.178
+LIPT 624027.252 236604.221
+LIPT 624040.196 236605.427
 ELIN
 ETAB
 TABL ProjGebaeudenummer
@@ -76187,7 +76196,7 @@ OBJE 1016              1002              624254.153 237294.678  100.0  1  2  1
 ELIN
 OBJE 1017              1003              624080.417 236558.317 @      @  @  @ 
 ELIN
-OBJE 1018              1004              624028.599 236610.184  100.0  1  2  1
+OBJE 1018              1004              624020.579 236607.308  100.0  1  2  1
 ELIN
 ETAB
 TABL Liegenschaft_Geometrie
@@ -96351,6 +96360,7 @@ OBJE 81                SO0200002403 PG13-01      GB_1390,_Hundsackerstrasse_22  
 OBJE 82                SO0200002403 PG13-02      GB_1914,_Bruggweg_14           1 20130911
 OBJE 83                SO0200002403 PG13-03      GB_1964,_Rainstrasse_10        1 20131028
 OBJE 84                SO0200002403 PG14-01      GB_2005,_Rainstrasse_3         1 20140716
+OBJE 85                SO0200002403 PG14-02      GB_1993,_Alte_Str._34          1 20140723
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -104989,6 +104999,8 @@ OBJE 959               49                 84                1 1 1 0 623660.966 2
 CONT @          @  
 OBJE 960               84                 74                0 1 0 0 624079.179 236568.297 @     3            0 \
 CONT @          @  
+OBJE 961               85                 4                 0 1 0 0 624033.500 236609.905 @     34           0 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 624299.534 236316.727  162.5  1  0  1
@@ -105789,6 +105801,7 @@ OBJE 795               957               624261.293 236902.871   59.9  1  0  0
 OBJE 796               958               623702.311 237204.652  163.3  1  4  0
 OBJE 797               959               623660.515 236453.777   19.2  1  4  1
 OBJE 798               960               624079.179 236568.297   54.4  1  0  1
+OBJE 799               961               624033.500 236609.905   94.1  1  0  1
 ETAB
 TABL GebaeudeName
 ETAB
