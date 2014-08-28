@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 20/08/2014  20:50:19
+GeosPro Export 27/08/2014  20:50:19
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -66358,8 +66358,7 @@ OBJE 66                2                 0  67           1 0 1 1 1
 OBJE 67                2                 0  68           1 0 1 1 1
 OBJE 68                2                 0  69           1 0 1 1 1
 OBJE 69                2                 0  70           1 0 1 1 1
-OBJE 70                1                 0  71           1 0 1 1 0
-OBJE 71                1                 1  72           1 0 1 1 0
+OBJE 70                1                 1  72           1 0 1 1 0
 ETAB
 TABL LokalisationsName
 OBJE 1                 1                 Hollenackerweg                                               \
@@ -66500,9 +66499,7 @@ OBJE 68                68                Vorderer_Stierenbergweg                
 CONT @                         @                 0
 OBJE 69                69                Wahlenweidweg                                                \
 CONT @                         @                 0
-OBJE 70                70                Überzwärch                                                   \
-CONT @                         @                 0
-OBJE 71                71                Hollen                                                       \
+OBJE 70                70                Hollen                                                       \
 CONT @                         @                 0
 ETAB
 TABL LokalisationsNamePos
@@ -66659,7 +66656,6 @@ TABL BenanntesGebiet
 OBJE 1                 35               
 OBJE 2                 29               
 OBJE 3                 70               
-OBJE 4                 71               
 ETAB
 TABL BenanntesGebiet_Flaeche
 OBJE 1                 1                
@@ -66677,22 +66673,6 @@ LIPT 605137.993 246902.300
 LIPT 605318.369 246912.265
 ELIN
 OBJE 3                 3                
-STPT 606053.931 247705.302
-LIPT 606043.849 247760.071
-LIPT 606045.682 247764.686
-LIPT 606038.021 247757.036
-LIPT 606033.133 247752.154
-LIPT 606022.656 247730.659
-LIPT 606019.644 247724.699
-LIPT 606016.879 247719.226
-LIPT 606013.581 247712.697
-LIPT 606012.152 247709.870
-LIPT 606010.016 247705.642
-LIPT 606018.398 247704.217
-LIPT 606055.208 247698.365
-LIPT 606053.931 247705.302
-ELIN
-OBJE 4                 4                
 STPT 604332.415 248066.836
 LIPT 604353.250 248130.438
 LIPT 604242.768 248170.464
@@ -72540,7 +72520,7 @@ OBJE 274               1                  18                1 1 1 1 604883.037 2
 CONT @          @  
 OBJE 275               1                  11                1 1 1 1 604815.440 247826.306 @    @             0 \
 CONT @          @  
-OBJE 276               1                  71                1 1 1 0 604269.965 248102.018 @     248          0 \
+OBJE 276               1                  70                1 1 1 0 604269.965 248102.018 @     248          0 \
 CONT @            0
 OBJE 277               1                  4                 1 1 1 0 604680.144 247867.458 @     42a          0 \
 CONT @            0
