@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 03/09/2014  21:14:23
+GeosPro Export 05/09/2014  10:36:41
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -1080,13 +1080,13 @@ ETOP
 TOPI Bodenbedeckung
 TABL BBNachfuehrung
 OBJE 1                 SO0200002620 0            Nullmutation                   1  20060522 @        
-OBJE 2                 SO0200002620 295          Wüthrich_Friedrich             0 @         @        
-OBJE 3                 SO0200002620 297          Wehrli-Meury_Anton             0 @         @        
-OBJE 4                 SO0200002620 298          Kettl-Borer_Rolf_u._Claudine   0 @         @        
+OBJE 2                 SO0200002620 295          Wüthrich_Friedrich             0  20120505 @        
+OBJE 3                 SO0200002620 297          Wehrli-Meury_Anton             0  20130606 @        
+OBJE 4                 SO0200002620 298          Kettl-Borer_Rolf_u._Claudine   0  20130724 @        
 OBJE 5                 SO0200002620 292          Jeger_Martin_u._Petronela      1  20130724 @        
 OBJE 6                 SO0200002620 293          Moser_Gilbert_u._Eveline       1  20130913 @        
 OBJE 7                 SO0200002620 294          Moser-Griner_Hans              1  20130913 @        
-OBJE 8                 SO0200002620 299          Jeger-Herzig_Tobias_u._Melanie 0 @         @        
+OBJE 8                 SO0200002620 299          Jeger-Herzig_Tobias_u._Melanie 0  20140505 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
@@ -33986,13 +33986,13 @@ ETOP
 TOPI Einzelobjekte
 TABL EONachfuehrung
 OBJE 1                 SO0200002620 0            Nullmutation                   1  20060522 @        
-OBJE 2                 SO0200002620 295          Wüthrich_Friedrich             0 @         @        
-OBJE 3                 SO0200002620 297          Wehrli-Meury_Anton             0 @         @        
-OBJE 4                 SO0200002620 298          Kettl-Borer_Rolf_u._Claudine   0 @         @        
+OBJE 2                 SO0200002620 295          Wüthrich_Friedrich             0  20120505 @        
+OBJE 3                 SO0200002620 297          Wehrli-Meury_Anton             0  20130606 @        
+OBJE 4                 SO0200002620 298          Kettl-Borer_Rolf_u._Claudine   0  20130723 @        
 OBJE 5                 SO0200002620 292          Jeger_Martin_u._Petronela      1  20130724 @        
 OBJE 6                 SO0200002620 293          Moser_Gilbert_u._Eveline       1  20130913 @        
 OBJE 7                 SO0200002620 294          Moser-Griner_Hans              1  20130913 @        
-OBJE 8                 SO0200002620 299          Jeger-Herzig_Tobias_u._Melanie 0 @         @        
+OBJE 8                 SO0200002620 299          Jeger-Herzig_Tobias_u._Melanie 0  20140505 @        
 ETAB
 TABL EONachfuehrung_Perimeter
 ETAB
@@ -41563,16 +41563,12 @@ STPT 611252.160 248380.446
 LIPT 611251.534 248382.295
 ELIN
 OBJE 9                 58               
-STPT 611481.480 248474.129
-LIPT 611482.043 248474.816
-LIPT 611482.721 248474.222
-LIPT 611483.875 248475.539
-LIPT 611481.337 248477.764
-LIPT 611479.577 248475.757
+STPT 611479.577 248475.757
 LIPT 611481.337 248477.764
 LIPT 611483.875 248475.539
 LIPT 611482.721 248474.222
 LIPT 611482.043 248474.816
+LIPT 611481.480 248474.129
 ELIN
 OBJE 10                59               
 STPT 611496.489 248455.928
@@ -41590,12 +41586,10 @@ STPT 611659.549 248316.446
 LIPT 611663.361 248321.877
 ELIN
 OBJE 13                94               
-STPT 611426.469 248315.658
-LIPT 611426.208 248315.584
-LIPT 611426.893 248313.155
-LIPT 611423.046 248312.070
+STPT 611423.046 248312.070
 LIPT 611426.893 248313.155
 LIPT 611426.208 248315.584
+LIPT 611426.469 248315.658
 ELIN
 OBJE 14                102              
 STPT 611583.782 248198.377
@@ -41659,9 +41653,6 @@ LIPT 611310.278 248340.558
 ARCP 611310.791 248342.348
 LIPT 611310.758 248344.210
 LIPT 611309.246 248351.452
-LIPT 611310.758 248344.210
-ARCP 611310.791 248342.348
-LIPT 611310.278 248340.558
 ELIN
 OBJE 27                227              
 STPT 611651.448 248428.393
@@ -42078,17 +42069,13 @@ LIPT 612227.293 247754.245
 LIPT 612219.613 247752.707
 LIPT 612196.702 247750.880
 LIPT 612182.186 247748.435
-LIPT 612171.605 247747.781
+LIPT 612172.137 247747.814
 LIPT 612169.190 247747.359
 LIPT 612167.930 247743.157
 LIPT 612129.313 247735.808
 LIPT 612112.559 247730.887
 LIPT 612095.991 247732.070
 LIPT 612084.706 247729.230
-LIPT 612095.991 247732.070
-LIPT 612112.559 247730.887
-LIPT 612129.313 247735.808
-LIPT 612167.930 247743.157
 ELIN
 OBJE 67                355              
 STPT 610415.853 248672.831
@@ -43248,8 +43235,6 @@ LIPT 611540.172 248580.665
 LIPT 611548.772 248578.163
 LIPT 611550.866 248577.022
 LIPT 611551.942 248575.301
-LIPT 611550.866 248577.022
-LIPT 611548.772 248578.163
 ELIN
 OBJE 223               566              
 STPT 611557.692 248614.442
@@ -83957,7 +83942,7 @@ ETAB
 ETOP
 TOPI Gemeindegrenzen
 TABL GEMNachfuehrung
-OBJE 1                 SO0200002620 0            Nullmutation                   1 @         @        
+OBJE 1                 SO0200002620 0            Nullmutation                   1  20100101 @        
 ETAB
 TABL GEMNachfuehrung_Perimeter
 ETAB
