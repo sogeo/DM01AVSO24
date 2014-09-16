@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 03/09/2014  21:33:59
+GeosPro Export 15/09/2014  19:57:04
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -756,8 +756,8 @@ TOPI Bodenbedeckung
 TABL BBNachfuehrung
 OBJE 1                 SO0200002622 0            Nullmutation                   1  20060522 @        
 OBJE 2                 SO0200002622 315          Bonneau-Dubach                 1  20140513 @        
-OBJE 3                 SO0200002622 324          Georgis_&_Silvia_Stais         0 @         @        
-OBJE 4                 SO0200002622 325          Meury_Sven_&_Florence          0 @         @        
+OBJE 3                 SO0200002622 324          Georgis_&_Silvia_Stais         0  20140513 @        
+OBJE 4                 SO0200002622 325          Meury_Sven_&_Florence          0  20140513 @        
 OBJE 5                 SO0200002622 320          Häner-Linz_Roland              1  20140709 @        
 OBJE 6                 SO0200002622 319          Lindenberger_Franz             1  20140709 @        
 OBJE 7                 SO0200002622 318          Hänggi_Silver                  1  20140709 @        
@@ -58534,6 +58534,8 @@ ELIN
 OBJE 795               777               612190.364 248608.957  100.0  1  2  1
 ELIN
 OBJE 796               34                611598.302 249772.101   22.7  1  2  1
+STPT  611599.071  249772.101
+LIPT  611601.839  249771.409
 ELIN
 OBJE 797               63                611132.357 250219.584  195.3  1  2  1
 ELIN
@@ -74237,7 +74239,7 @@ ETAB
 ETOP
 TOPI Gemeindegrenzen
 TABL GEMNachfuehrung
-OBJE 1                 SO0200002622 0            Nullmutation                   1 @         @        
+OBJE 1                 SO0200002622 0            Nullmutation                   1  20080601 @        
 ETAB
 TABL GEMNachfuehrung_Perimeter
 ETAB
