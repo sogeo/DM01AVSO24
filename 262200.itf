@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 15/09/2014  19:57:04
+GeosPro Export 17/09/2014  21:34:07
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -763,12 +763,14 @@ OBJE 6                 SO0200002622 319          Lindenberger_Franz             
 OBJE 7                 SO0200002622 318          Hänggi_Silver                  1  20140709 @        
 OBJE 8                 SO0200002622 321          Fam._Ackermann,_Baar           1  20140710 @        
 OBJE 9                 SO0200002622 322          Stebler_Joseg                  1  20140710 @        
+OBJE 10                SO0200002622 326          Manuel_Kohler                  0  20140710 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
 TABL ProjBoFlaeche
 OBJE 1                 3                 0  0
 OBJE 2                 4                 0  0
+OBJE 3                 10                0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -789,10 +791,18 @@ LIPT 612324.129 248587.650
 LIPT 612326.245 248591.599
 LIPT 612326.598 248591.410
 ELIN
+OBJE 3                 3                
+STPT 612335.960 248528.427
+LIPT 612338.427 248538.633
+LIPT 612326.276 248541.569
+LIPT 612323.810 248531.363
+LIPT 612335.960 248528.427
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 OBJE 1                 1                 1             191220410
 OBJE 2                 2                 1             191251911
+OBJE 3                 3                 1             191158331
 ETAB
 TABL ProjGebaeudenummerPos
 ETAB
@@ -76776,6 +76786,7 @@ OBJE 3                 SO0200002622 324          Georgis_&_Silvia_Stais         
 OBJE 4                 SO0200002622 325          Meury_Sven_&_Florence          1 20140702
 OBJE 5                 SO0200002622 321          Fam._Ackermann,_Baar           1 20140710
 OBJE 6                 SO0200002622 322          Stebler_Joseg                  1 20140710
+OBJE 7                 SO0200002622 326          Manuel_Kohler                  1 20140916
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -89005,6 +89016,8 @@ OBJE 358               4                  31                0 1 0 0 612323.590 2
 CONT @          @  
 OBJE 359               5                  11                1 1 1 0 612337.134 249018.589 @     324          0 \
 CONT @            0
+OBJE 360               7                  31                0 1 0 0 612331.038 248535.011 @     330          0 \
+CONT @            0
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 612597.084 248701.348  102.3  1  3  1
@@ -89323,6 +89336,7 @@ OBJE 313               356               612125.372 249044.343   19.7  1  0 @
 OBJE 314               357               612455.862 249089.372  113.4  1  3  1
 OBJE 315               358               612327.349 248594.397   31.3  1  3  1
 OBJE 316               359               612337.134 249018.589   97.4  1  3  1
+OBJE 317               360               612325.530 248536.351   15.1  1  0  0
 ETAB
 TABL GebaeudeName
 ETAB
