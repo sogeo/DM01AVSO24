@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 12/11/2014  21:24:38
+GeosPro Export 19/11/2014  21:24:32
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -48300,7 +48300,9 @@ OBJE 2                 SO0200002620 283          Vereinigung_NV                 
 CONT @        
 OBJE 3                 SO0200002620 284          Vereinigung_NV                 1  20130606 @         @         \
 CONT @        
-OBJE 4                 SO0200002620 296          Grenzverbesserung_NV           0  20130724 @         @         \
+OBJE 4                 SO0200002620 303          Lilian_Zwahlen-Jeger           1  20141118 @         @         \
+CONT @        
+OBJE 5                 SO0200002620 296          Grenzverbesserung_NV           0  20130724 @         @         \
 CONT @        
 ETAB
 TABL LSNachfuehrung_Perimeter
@@ -54021,7 +54023,7 @@ OBJE 5712              1                  20450        611378.389 248673.031   2
 OBJE 5713              1                  20451        611327.690 248711.054   7.0 0 6 0 1
 OBJE 5714              1                  20452        611638.323 248883.799   2.0 0 2 0 1
 OBJE 5715              1                  50342        611481.688 248332.803   3.5 0 6 0 1
-OBJE 5716              4                  50503        611481.541 248333.443   2.0 0 2 0 1
+OBJE 5716              5                  50503        611481.541 248333.443   2.0 0 2 0 1
 ETAB
 TABL GrenzpunktPos
 OBJE 1                 1                 612138.403 247050.707  100.0  0  3
@@ -59744,8 +59746,8 @@ ETAB
 TABL GrenzpunktSymbol
 ETAB
 TABL ProjGrundstueck
-OBJE 1                 4                 SO0200002620 981          @               0 0 0 @         
-OBJE 2                 4                 SO0200002620 357          @               0 0 0 @         
+OBJE 1                 5                 SO0200002620 981          @               0 0 0 @         
+OBJE 2                 5                 SO0200002620 357          @               0 0 0 @         
 ETAB
 TABL ProjGrundstueckPos
 OBJE 1                 1                 611468.707 248339.737  100.0  1  2  1
