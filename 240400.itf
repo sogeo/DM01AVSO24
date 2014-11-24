@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 16/11/2014  07:17:27
+GeosPro Export 23/11/2014  07:17:06
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -2327,12 +2327,13 @@ OBJE 78                SO0200002404 1368         Anbau,_Bifangstr._43           
 OBJE 79                SO0200002404 1370         Neubau_Terrassenweg_12a         20140710  20140710
 OBJE 80                SO0200002404 1372         Parz._GB_143,_145_Babylonstr.   20140918  20140917
 OBJE 81                SO0200002404 1373         Parz._GB_256_Zonengrenze        20140904  20140904
-OBJE 82                SO0200002404 KA0023       Überwachung_Stützmauer_GB124    20091124  20091124
-OBJE 83                SO0200002404 KA-TKL       TKL_MVN_GB_312,_313             20090520  20090520
-OBJE 84                SO0200002404 NF1          Ersterhebung/NF_bis_Juli_2008   19990101  19990101
+OBJE 82                SO0200002404 1374         BR_1103_auf_GB_310              20141117  20141110
+OBJE 83                SO0200002404 KA0023       Überwachung_Stützmauer_GB124    20091124  20091124
+OBJE 84                SO0200002404 KA-TKL       TKL_MVN_GB_312,_313             20090520  20090520
+OBJE 85                SO0200002404 NF1          Ersterhebung/NF_bis_Juli_2008   19990101  19990101
 ETAB
 TABL HilfsFPNachfuehrung_Perimeter
-OBJE 1                 84               
+OBJE 1                 85               
 STPT 628557.636 238484.730
 LIPT 628503.579 238590.139
 LIPT 628498.119 238611.930
@@ -2868,7 +2869,7 @@ OBJE 139                1                 SO0200002404 24043885     627122.261 2
 CONT 7 1
 OBJE 140                1                 SO0200002404 24043886     627140.187 238790.954 @           2.0 0 @      @  \
 CONT 7 1
-OBJE 141                82                SO0200002404 911111       626893.985 238597.754 @           2.0 0 @      @  \
+OBJE 141                83                SO0200002404 911111       626893.985 238597.754 @           2.0 0 @      @  \
 CONT 7 1
 OBJE 142                38                SO0200002404 24043907     626969.945 238224.202   447.223   0.5 0    0.2  0 \
 CONT 7 1
