@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 16/12/2014  14:18:17
+GeosPro Export 21/12/2014  07:46:40
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -31603,7 +31603,7 @@ OBJE 271               52                0  3
 OBJE 272               52                0  3
 OBJE 273               52                0  3
 OBJE 274               52                0  3
-OBJE 275               52                0  3
+OBJE 275               52                0 12
 OBJE 276               52                0  3
 OBJE 277               52                0  3
 OBJE 278               52                0  3
@@ -31613,7 +31613,7 @@ OBJE 281               52                0  3
 OBJE 282               52                0  0
 OBJE 283               52                0  3
 OBJE 284               52                0  3
-OBJE 285               52                0  3
+OBJE 285               52                0 12
 OBJE 286               52                0  3
 OBJE 287               52                0  3
 OBJE 288               52                0  3
@@ -31631,7 +31631,7 @@ OBJE 299               49                0 12
 OBJE 300               49                0  0
 OBJE 301               52                0  3
 OBJE 302               52                0  3
-OBJE 303               52                0  3
+OBJE 303               52                0 12
 OBJE 304               52                0  3
 OBJE 305               52                0  3
 OBJE 306               52                0  3
@@ -31641,11 +31641,11 @@ OBJE 309               52                0  3
 OBJE 310               52                0  3
 OBJE 311               52                0  0
 OBJE 312               52                0  3
-OBJE 313               52                0  3
+OBJE 313               52                0 12
 OBJE 314               52                0  3
 OBJE 315               52                0  3
 OBJE 316               52                0  3
-OBJE 317               52                0  3
+OBJE 317               52                0 12
 OBJE 318               52                0  3
 OBJE 319               52                0  3
 OBJE 320               52                0  3
@@ -31688,7 +31688,7 @@ OBJE 356               52                0  3
 OBJE 357               52                0  3
 OBJE 358               52                0  3
 OBJE 359               52                0  3
-OBJE 360               52                0  3
+OBJE 360               52                0 12
 OBJE 361               52                0  3
 OBJE 362               52                0  3
 OBJE 363               52                0  3
@@ -31699,8 +31699,8 @@ OBJE 367               52                0  3
 OBJE 368               52                0  3
 OBJE 369               52                0  3
 OBJE 370               52                0  3
-OBJE 371               52                0  3
-OBJE 372               52                0  3
+OBJE 371               52                0 12
+OBJE 372               52                0 12
 OBJE 373               52                0  3
 OBJE 374               52                0  3
 OBJE 375               52                0  3
@@ -31791,15 +31791,15 @@ OBJE 459               52                0  3
 OBJE 460               52                0  3
 OBJE 461               52                0  3
 OBJE 462               52                0  3
-OBJE 463               52                0  3
+OBJE 463               52                0 12
 OBJE 464               52                0  3
 OBJE 465               52                0  3
 OBJE 466               52                0  3
 OBJE 467               52                0  3
 OBJE 468               52                0  3
 OBJE 469               52                0  3
-OBJE 470               52                0  3
-OBJE 471               52                0  3
+OBJE 470               52                0 12
+OBJE 471               52                0 12
 OBJE 472               52                0  3
 OBJE 473               52                0  3
 OBJE 474               10                0  3
@@ -31849,11 +31849,11 @@ OBJE 517               52                0  3
 OBJE 518               52                0  3
 OBJE 519               52                0  3
 OBJE 520               52                0  3
-OBJE 521               52                0  3
-OBJE 522               52                0  3
-OBJE 523               52                0  3
+OBJE 521               52                0 12
+OBJE 522               52                0 12
+OBJE 523               52                0 12
 OBJE 524               52                0  3
-OBJE 525               52                0  3
+OBJE 525               52                0 12
 OBJE 526               52                0  3
 OBJE 527               52                0  3
 OBJE 528               52                0  3
@@ -31864,15 +31864,15 @@ OBJE 532               52                0  3
 OBJE 533               52                0  3
 OBJE 534               52                0  3
 OBJE 535               52                0  3
-OBJE 536               52                0  3
-OBJE 537               52                0  3
-OBJE 538               52                0  3
-OBJE 539               52                0  3
-OBJE 540               52                0  3
+OBJE 536               52                0 12
+OBJE 537               52                0 12
+OBJE 538               52                0 12
+OBJE 539               52                0 12
+OBJE 540               52                0 12
 OBJE 541               52                0  3
 OBJE 542               52                0  3
 OBJE 543               52                0  3
-OBJE 544               52                0  3
+OBJE 544               52                0 12
 OBJE 545               52                0  3
 OBJE 546               52                0  3
 OBJE 547               52                0  2
@@ -32203,7 +32203,7 @@ OBJE 871               1                 0 28
 OBJE 872               2                 0  3
 OBJE 873               2                 0  3
 OBJE 874               3                 0 12
-OBJE 875               4                 0  3
+OBJE 875               4                 0 12
 OBJE 876               6                 0  1
 OBJE 877               7                 0  3
 OBJE 878               9                 0 12
@@ -32213,7 +32213,7 @@ OBJE 881               11                0  2
 OBJE 882               11                0  3
 OBJE 883               12                0  3
 OBJE 884               12                0 12
-OBJE 885               12                0  3
+OBJE 885               12                0 12
 OBJE 886               13                0 12
 OBJE 887               15                0  3
 OBJE 888               15                0  3
