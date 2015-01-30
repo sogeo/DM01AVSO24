@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 21/01/2015  21:24:41
+GeosPro Export 29/01/2015  17:00:27
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -1084,6 +1084,7 @@ OBJE 5                 SO0200002620 292          Jeger_Martin_u._Petronela      
 OBJE 6                 SO0200002620 293          Moser_Gilbert_u._Eveline       1  20130913 @        
 OBJE 7                 SO0200002620 294          Moser-Griner_Hans              1  20130913 @        
 OBJE 8                 SO0200002620 299          Jeger-Herzig_Tobias_u._Melanie 0  20140505 @        
+OBJE 9                 SO0200002620 307          Marco_u._Geraldine_Hänggi      0  20150129 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
@@ -1093,6 +1094,7 @@ OBJE 2                 2                 0  0
 OBJE 3                 3                 0  0
 OBJE 4                 4                 0  0
 OBJE 5                 8                 0  0
+OBJE 6                 9                 0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -1135,6 +1137,19 @@ LIPT 611500.984 248265.550
 LIPT 611490.352 248262.729
 LIPT 611492.788 248253.547
 LIPT 611503.420 248256.368
+ELIN
+OBJE 6                 6                
+STPT 611664.146 248355.991
+LIPT 611667.475 248360.862
+LIPT 611660.106 248365.897
+LIPT 611654.210 248357.269
+LIPT 611657.616 248354.942
+LIPT 611656.177 248352.837
+LIPT 611660.140 248350.129
+LIPT 611662.453 248353.514
+LIPT 611664.518 248352.103
+LIPT 611666.210 248354.580
+LIPT 611664.146 248355.991
 ELIN
 ETAB
 TABL ProjGebaeudenummer
@@ -33990,6 +34005,7 @@ OBJE 5                 SO0200002620 292          Jeger_Martin_u._Petronela      
 OBJE 6                 SO0200002620 293          Moser_Gilbert_u._Eveline       1  20130913 @        
 OBJE 7                 SO0200002620 294          Moser-Griner_Hans              1  20130913 @        
 OBJE 8                 SO0200002620 299          Jeger-Herzig_Tobias_u._Melanie 0  20140505 @        
+OBJE 9                 SO0200002620 307          Marco_u._Geraldine_Hänggi      0  20150129 @        
 ETAB
 TABL EONachfuehrung_Perimeter
 ETAB
@@ -86436,6 +86452,7 @@ OBJE 5                 SO0200002620 292          Jeger_Martin_u._Petronela      
 OBJE 6                 SO0200002620 293          Moser_Gilbert_u._Eveline       1 20130913
 OBJE 7                 SO0200002620 294          Moser-Griner_Hans              1 20130913
 OBJE 8                 SO0200002620 299          Jeger-Herzig_Tobias_u._Melanie 0 20130926
+OBJE 9                 SO0200002620 307          Marco_u._Geraldine_Hänggi      0 20150129
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -91498,6 +91515,8 @@ OBJE 346               7                  5                 1 1 1 0 611230.731 2
 CONT @            0
 OBJE 347               8                  14                0 1 0 0 611501.458 248260.926 @     325          0 \
 CONT @          @  
+OBJE 348               9                  17                0 1 0 0 611663.084 248362.386 @     326          0 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 611124.612 248479.080   57.2  1  3  0
@@ -91817,6 +91836,7 @@ OBJE 314               344               611530.509 248305.955  188.9  1  3  0
 OBJE 315               345               611231.650 248165.582    0.3  1  3  0
 OBJE 316               346               611232.166 248188.289    0.3  1  3  0
 OBJE 317               347               611501.458 248260.926  183.5  1  1  0
+OBJE 318               348               611663.084 248362.386  138.2 @  @  @ 
 ETAB
 TABL GebaeudeName
 ETAB
