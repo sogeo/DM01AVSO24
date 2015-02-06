@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 04/02/2015  17:14:38
+GeosPro Export 05/02/2015  08:54:12
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -60,7 +60,7 @@ TOPI FixpunkteKategorie3
 TABL LFP3Nachfuehrung
 OBJE 1                 SO0200002498 99.064       LFP2                            20100119 @        
 OBJE 2                 SO0200002498 99.2015      Pflegemut._2015                 20141211 @        
-OBJE 3                 SO0200002498 LFKE         Mig                             20010101 @        
+OBJE 3                 SO0200002498 LFKE         leer                            20010101 @        
 ETAB
 TABL LFP3Nachfuehrung_Perimeter
 ETAB
@@ -968,10 +968,10 @@ OBJE 4                 SO0200002498 32229.01     bb                             
 OBJE 5                 SO0200002498 32229.03     GB_versetzen                   1  20040512 @        
 OBJE 6                 SO0200002498 32234.01     Gebauede                       1  20040303 @        
 OBJE 7                 SO0200002498 34316.01     Gebäude                        1  20071031 @        
-OBJE 8                 SO0200002498 35062.19     Mig                            1  20110606 @        
+OBJE 8                 SO0200002498 35062.19     leer                           1  20110606 @        
 OBJE 9                 SO0200002498 35062.24     BB_berein._ad                  1  20110722 @        
 OBJE 10                SO0200002498 35199.01     Geb.                           1  20090701 @        
-OBJE 11                SO0200002498 35316.01     Mig                            1  20090717 @        
+OBJE 11                SO0200002498 35316.01     leer                           1  20090717 @        
 OBJE 12                SO0200002498 35731.01     Gebäude                        1  20100507 @        
 OBJE 13                SO0200002498 37389.01     Geb.                           1  20130702 @        
 OBJE 14                SO0200002498 37499.04     BB_ad                          1  20131028 @        
@@ -984,16 +984,16 @@ OBJE 20                SO0200002498 99.013       Strassenunterteilung           
 OBJE 21                SO0200002498 99.014       Strassenunterteilung           1  20030514 @        
 OBJE 22                SO0200002498 99.047       Wege_abgleichen_mit_Obe        1  20080729 @        
 OBJE 23                SO0200002498 99.048       Obe_abgleichen                 1  20080729 @        
-OBJE 24                SO0200002498 99.057       Mig                            1  20100112 @        
-OBJE 25                SO0200002498 99.058       Mig                            1  20100112 @        
-OBJE 26                SO0200002498 99.059       Mig                            1  20100112 @        
-OBJE 27                SO0200002498 99.060       Mig                            1  20100112 @        
-OBJE 28                SO0200002498 99.061       Mig                            1  20100112 @        
-OBJE 29                SO0200002498 99.065       Mig                            1  20100120 @        
-OBJE 30                SO0200002498 99.066       Mig                            1  20100120 @        
-OBJE 31                SO0200002498 99.067       Mig                            1  20100120 @        
+OBJE 24                SO0200002498 99.057       leer                           1  20100112 @        
+OBJE 25                SO0200002498 99.058       leer                           1  20100112 @        
+OBJE 26                SO0200002498 99.059       leer                           1  20100112 @        
+OBJE 27                SO0200002498 99.060       leer                           1  20100112 @        
+OBJE 28                SO0200002498 99.061       leer                           1  20100112 @        
+OBJE 29                SO0200002498 99.065       leer                           1  20100120 @        
+OBJE 30                SO0200002498 99.066       leer                           1  20100120 @        
+OBJE 31                SO0200002498 99.067       leer                           1  20100120 @        
 OBJE 32                SO0200002498 99.2015      Pflegemut._2015                1  20141211 @        
-OBJE 33                SO0200002498 BBKE         Mig                            1  20021231 @        
+OBJE 33                SO0200002498 BBKE         leer                           1  20021231 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
@@ -11298,7 +11298,7 @@ OBJE 4                 SO0200002498 34316.01     Gebäude                        
 OBJE 5                 SO0200002498 37389.01     Geb.                           1  20130702 @        
 OBJE 6                 SO0200002498 99.046       EO_Wege_abgleichen_mit         1  20080729 @        
 OBJE 7                 SO0200002498 99.2015      Pflegemut._2015                1  20141211 @        
-OBJE 8                 SO0200002498 EOKE         Mig                            1  20021231 @        
+OBJE 8                 SO0200002498 EOKE         leer                           1  20021231 @        
 ETAB
 TABL EONachfuehrung_Perimeter
 ETAB
@@ -12950,7 +12950,7 @@ OBJE 1                 SO0200002498 37499.05     NO_ad                          
 OBJE 2                 SO0200002498 37499.12     NO_ad                           20131031 @        
 OBJE 3                 SO0200002498 99.070       Ortsname                        20100125 @        
 OBJE 4                 SO0200002498 99.2015      Pflegemut._2015                 20141211 @        
-OBJE 5                 SO0200002498 NOKE         Mig                             20021231 @        
+OBJE 5                 SO0200002498 NOKE         leer                            20021231 @        
 ETAB
 TABL NKNachfuehrung_Perimeter
 ETAB
@@ -14909,7 +14909,7 @@ TOPI Liegenschaften
 TABL LSNachfuehrung
 OBJE 1                 SO0200002498 31890        Parz._GB_521_ab_453            1  20041216  20041216 @         \
 CONT @        
-OBJE 2                 SO0200002498 31987        Mig                            1  20051028  20051028 @         \
+OBJE 2                 SO0200002498 31987        leer                           1  20051028  20051028 @         \
 CONT @        
 OBJE 3                 SO0200002498 32582        Grenzmutation                  1  20051028  20051028 @         \
 CONT @        
@@ -14927,7 +14927,7 @@ OBJE 9                 SO0200002498 38018        Grenzmut.                      
 CONT @        
 OBJE 10                SO0200002498 99.2015      Pflegemut._2015                1  20141211 @         @         \
 CONT @        
-OBJE 11                SO0200002498 LSKE         Mig                            1  20021231  20021231 @         \
+OBJE 11                SO0200002498 LSKE         leer                           1  20021231  20021231 @         \
 CONT @        
 ETAB
 TABL LSNachfuehrung_Perimeter
@@ -19704,7 +19704,7 @@ OBJE 143               102               639035.034 251089.744  100.0  1  2  1
 ELIN
 OBJE 144               117               638839.825 250965.647  100.0  1  2  1
 ELIN
-OBJE 145               124               638681.960 251207.773  100.8  1  1  1
+OBJE 145               124               638681.260 251207.913  100.8  1  2  1
 ELIN
 OBJE 146               135               638080.907 251303.221   25.4  1  3  1
 ELIN
@@ -23459,7 +23459,7 @@ ETOP
 TOPI Rohrleitungen
 TABL RLNachfuehrung
 OBJE 1                 SO0200002498 99.2015      Pflegemut._2015                1  20141211 @        
-OBJE 2                 SO0200002498 RLKE         Mig                            1  20021231 @        
+OBJE 2                 SO0200002498 RLKE         leer                           1  20021231 @        
 ETAB
 TABL RLNachfuehrung_Perimeter
 ETAB
@@ -25658,13 +25658,13 @@ ETAB
 ETOP
 TOPI Gemeindegrenzen
 TABL GEMNachfuehrung
-OBJE 1                 SO0200002498 35062.08     Mig                            1  20101104 @        
-OBJE 2                 SO0200002498 35062.18     Mig                            1  20110606 @        
+OBJE 1                 SO0200002498 35062.08     leer                           1  20101104 @        
+OBJE 2                 SO0200002498 35062.18     leer                           1  20110606 @        
 OBJE 3                 SO0200002498 99.072       GdeRefPkt                      1  20100125 @        
 OBJE 4                 SO0200002498 99.073       HoheitsGPPos_killen            1  20141211 @        
 OBJE 5                 SO0200002498 99.2015      Pflegemut._2015                1  20141211 @        
-OBJE 6                 SO0200002498 LFKE         Mig                            1  20010101 @        
-OBJE 7                 SO0200002498 LSKE         Mig                            1  20010101 @        
+OBJE 6                 SO0200002498 LFKE         leer                           1  20010101 @        
+OBJE 7                 SO0200002498 LSKE         leer                           1  20010101 @        
 ETAB
 TABL GEMNachfuehrung_Perimeter
 ETAB
@@ -27175,7 +27175,7 @@ OBJE 6                 SO0200002498 35062.12     GA_Dl                          
 OBJE 7                 SO0200002498 35062.23     GA_ad                          1 20110722
 OBJE 8                 SO0200002498 35062.26     GA_Dl                          1 20110727
 OBJE 9                 SO0200002498 35062.27     GA_Dl                          1 20110728
-OBJE 10                SO0200002498 35316.01     Mig                            1 20090717
+OBJE 10                SO0200002498 35316.01     leer                           1 20090717
 OBJE 11                SO0200002498 35731.01     Gebäude                        1 20100507
 OBJE 12                SO0200002498 37389.01     Geb.                           1 20130702
 OBJE 13                SO0200002498 38350        Proj._Geb._-2015               0 20151231
