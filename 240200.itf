@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 08/02/2015  06:16:54
+GeosPro Export 16/02/2015  08:24:30
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -2286,7 +2286,7 @@ OBJE 89                SO0200002402 924          Neubau,_Gunzgerstr._11         
 OBJE 90                SO0200002402 932          Neubau_Egerkingerstrasse_1      20141126  20141113
 OBJE 91                SO0200002402 933          Grenzänderung_GB_148/642        20141126  20141126
 OBJE 92                SO0200002402 934          Parzellierung_GB_340            20150114  20141216
-OBJE 93                SO0200002402 935          Neubau_Fulenbacherstrasse_56,5  20150203  20150126
+OBJE 93                SO0200002402 935          Neubau_Fulenbacherstr._56,58    20150203  20150126
 OBJE 94                SO0200002402 Ing0038      Überwachung_Z60A                20110330  20110330
 OBJE 95                SO0200002402 NF1          Ersterhebung/NF_bis_Mai_2008    19990101  19990101
 ETAB
@@ -2665,7 +2665,7 @@ OBJE 129               SO0200002402 930          Neubau_Rosenweg_12a            
 OBJE 130               SO0200002402 932          Neubau_Egerkingerstrasse_1     1  20141126 @        
 OBJE 131               SO0200002402 933          Grenzänderung_GB_148/642       1  20141126 @        
 OBJE 132               SO0200002402 934          Parzellierung_GB_340           1  20150112 @        
-OBJE 133               SO0200002402 935          Neubau_Fulenbacherstrasse_56,5 1  20150203 @        
+OBJE 133               SO0200002402 935          Neubau_Fulenbacherstr._56,58   1  20150203 @        
 OBJE 134               SO0200002402 EN3          Erneuerung_DM93_nach_DM01      1  20101129 @        
 OBJE 135               SO0200002402 NF1          Ersterhebung/NF_bis_Mai_2008   1  20080429  20080429
 OBJE 136               SO0200002402 PG13-02      GB_880,_Lischmatt_23           1  20130618 @        
@@ -2675,6 +2675,7 @@ OBJE 139               SO0200002402 PG14-01      GB_981_Bündenweg_15            
 OBJE 140               SO0200002402 PG14-02      GB_988,_Fröschengasse_16       1  20140610 @        
 OBJE 141               SO0200002402 PG14-03      GB_156,_Lindenweg_5            1  20140715 @        
 OBJE 142               SO0200002402 PG14-04      GB52,_Egerkingerstrasse_2/2a   1  20141103 @        
+OBJE 143               SO0200002402 PG15-01      GB_410,_Bürgerweg_6            1  20150211 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 135              
@@ -2884,6 +2885,8 @@ OBJE 5                 140               0  0
 OBJE 6                 141               0  0
 OBJE 7                 142               0  0
 OBJE 8                 142               0  0
+OBJE 9                 143               0  0
+OBJE 10                143               0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -2952,6 +2955,24 @@ LIPT 628705.670 239966.137
 LIPT 628710.024 239955.321
 LIPT 628715.479 239957.517
 ELIN
+OBJE 9                 9                
+STPT 628435.973 239922.770
+LIPT 628423.815 239947.937
+LIPT 628412.920 239942.674
+LIPT 628416.361 239935.551
+LIPT 628415.100 239934.942
+LIPT 628420.376 239924.020
+LIPT 628421.637 239924.629
+LIPT 628425.078 239917.506
+LIPT 628435.973 239922.770
+ELIN
+OBJE 10                10               
+STPT 628412.988 239975.024
+LIPT 628406.061 239989.358
+LIPT 628400.695 239986.764
+LIPT 628407.622 239972.430
+LIPT 628412.988 239975.024
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 OBJE 1                 1                 1             191000430
@@ -2960,6 +2981,7 @@ OBJE 3                 3                 1             191141790
 OBJE 4                 4                 191188330             1
 OBJE 5                 5                 1             191265790
 OBJE 6                 6                 1             191246330
+OBJE 7                 9                 1             191253550
 ETAB
 TABL ProjGebaeudenummerPos
 OBJE 1                 1                 628653.304 240842.852 100.0  1  2  1
@@ -2968,6 +2990,7 @@ OBJE 3                 3                 628472.628 239220.138 100.0  1  2  1
 OBJE 4                 4                 629101.700 239278.250 100.0  1  2  1
 OBJE 5                 5                 629061.731 239778.249 100.0  1  2  1
 OBJE 6                 6                 628597.921 239470.501 100.0  1  2  1
+OBJE 7                 7                 628423.026 239930.311 100.0  1  2  1
 ETAB
 TABL ProjObjektname
 ETAB
@@ -40327,7 +40350,7 @@ OBJE 103               SO0200002402 928          Anbau_Länggasse_24             
 OBJE 104               SO0200002402 929          Anbau_Ussedorf_25              1  20141112 @        
 OBJE 105               SO0200002402 931          Anbau_Usserdorf_18             1  20141112 @        
 OBJE 106               SO0200002402 932          Neubau_Egerkingerstrasse_1     1  20141126 @        
-OBJE 107               SO0200002402 935          Neubau_Fulenbacherstrasse_56,5 1  20150203 @        
+OBJE 107               SO0200002402 935          Neubau_Fulenbacherstr._56,58   1  20150203 @        
 OBJE 108               SO0200002402 EN3          Erneuerung_DM93_nach_DM01      1  20101129 @        
 OBJE 109               SO0200002402 NF1          Ersterhebung/NF_bis_Mai_2008   1  20080429  20080429
 ETAB
@@ -53961,7 +53984,7 @@ OBJE 65                SO0200002402 933          Grenzänderung_GB_148/642       
 CONT @        
 OBJE 66                SO0200002402 934          Parzellierung_GB_340           0  20150114 @         @         \
 CONT @        
-OBJE 67                SO0200002402 935          Neubau_Fulenbacherstrasse_56,5 1  20150203 @         @         \
+OBJE 67                SO0200002402 935          Neubau_Fulenbacherstr._56,58   1  20150203 @         @         \
 CONT @        
 OBJE 68                SO0200002402 EN3          Erneuerung_DM93_nach_DM01      1  20120320 @         @         \
 CONT @        
@@ -82891,7 +82914,7 @@ OBJE 76                SO0200002402 924          Neubau,_Gunzgerstr._11         
 OBJE 77                SO0200002402 927          Abbruch_Lochgässli_3a          1 20141112
 OBJE 78                SO0200002402 930          Neubau_Rosenweg_12a            1 20141112
 OBJE 79                SO0200002402 932          Neubau_Egerkingerstrasse_1     1 20141126
-OBJE 80                SO0200002402 935          Neubau_Fulenbacherstrasse_56,5 1 20150203
+OBJE 80                SO0200002402 935          Neubau_Fulenbacherstr._56,58   1 20150203
 OBJE 81                SO0200002402 EN3          Erneuerung_DM93_nach_DM01      1 20101129
 OBJE 82                SO0200002402 PG13-02      GB_880,_Lischmatt_23           1 20130618
 OBJE 83                SO0200002402 PG13-03      GB_153,_Buchsweg_1             1 20130805
@@ -82900,6 +82923,7 @@ OBJE 85                SO0200002402 PG14-01      GB_981_Bündenweg_15            
 OBJE 86                SO0200002402 PG14-02      GB_988,_Fröschengasse_16       1 20140610
 OBJE 87                SO0200002402 PG14-03      GB_156,_Lindenweg_5            1 20140715
 OBJE 88                SO0200002402 PG14-04      GB52,_Egerkingerstrasse_2/2a   1 20141103
+OBJE 89                SO0200002402 PG15-01      GB_410,_Bürgerweg_6            1 20150211
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -88773,6 +88797,10 @@ OBJE 759               80                 28                1 1 1 0 628869.585 2
 CONT @            0
 OBJE 760               80                 28                1 1 1 0 628866.251 239361.728 @     56a          1 \
 CONT @          @  
+OBJE 761               89                 17                0 1 0 0 628423.769 239932.655 @     6            0 \
+CONT @            0
+OBJE 762               89                 38                0 1 0 1 628406.579 239980.328 @    @             0 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 2                 628260.688 239891.177  170.7  1  4  1
@@ -89435,6 +89463,7 @@ OBJE 657               756               628667.826 239956.939  175.5  1  0  1
 OBJE 658               758               628888.769 239349.511  183.3  1  0  1
 OBJE 659               759               628869.585 239322.414  183.3  1  0  1
 OBJE 660               760               628866.251 239361.728  183.1  1  0  1
+OBJE 661               761               628430.395 239920.408   71.3  1  4  1
 ETAB
 TABL GebaeudeName
 ETAB
