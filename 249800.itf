@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 22/02/2015  09:26:10
+GeosPro Export 25/02/2015  13:38:09
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -976,7 +976,7 @@ OBJE 12                SO0200002498 35731.01     Gebäude                        
 OBJE 13                SO0200002498 37389.01     Geb.                           1  20130702 @        
 OBJE 14                SO0200002498 37499.04     BB_ad                          1  20131028 @        
 OBJE 15                SO0200002498 37499.11     BB_ad                          1  20131031 @        
-OBJE 16                SO0200002498 38350        Proj._Geb._-2015               0  20151231 @        
+OBJE 16                SO0200002498 38350.01     Proj._Geb._-2015               0  20151231 @        
 OBJE 17                SO0200002498 99.010       Strassenunterteilung           1  20030514 @        
 OBJE 18                SO0200002498 99.011       Strassenunterteilung           1  20030514 @        
 OBJE 19                SO0200002498 99.012       Strassenunterteilung           1  20030514 @        
@@ -27178,7 +27178,7 @@ OBJE 9                 SO0200002498 35062.27     GA_Dl                          
 OBJE 10                SO0200002498 35316.01     leer                           1 20090717
 OBJE 11                SO0200002498 35731.01     Gebäude                        1 20100507
 OBJE 12                SO0200002498 37389.01     Geb.                           1 20130702
-OBJE 13                SO0200002498 38350        Proj._Geb._-2015               0 20151231
+OBJE 13                SO0200002498 38350.01     Proj._Geb._-2015               0 20151231
 OBJE 14                SO0200002498 99.2015      Pflegemut._2015                1 20141211
 ETAB
 TABL GEBNachfuehrung_Perimeter
