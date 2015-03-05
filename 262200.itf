@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 25/02/2015  21:44:06
+GeosPro Export 04/03/2015  21:44:06
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -76782,6 +76782,7 @@ OBJE 5                 SO0200002622 321          Fam._Ackermann,_Baar           
 OBJE 6                 SO0200002622 322          Stebler_Joseg                  1 20140710
 OBJE 7                 SO0200002622 326          Manuel_Kohler                  1 20140916
 OBJE 8                 SO0200002622 330          Dominic_Gigandet               0 20150102
+OBJE 9                 SO0200002622 319          Lindenberger_Franz             1 20150304
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -88978,6 +88979,8 @@ OBJE 360               7                  31                0 1 0 0 612331.038 2
 CONT @            0
 OBJE 361               8                  31                0 1 0 0 612570.323 249153.167 @     331          0 \
 CONT @          @  
+OBJE 362               9                  6                 1 1 1 0 611879.090 249071.582 @     326          1 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 612597.084 248701.348  102.3  1  3  1
@@ -89298,6 +89301,7 @@ OBJE 315               358               612327.349 248594.397   31.3  1  3  1
 OBJE 316               359               612337.134 249018.589   97.4  1  3  1
 OBJE 317               360               612325.530 248536.351   15.1  1  0  0
 OBJE 318               361               612570.323 249153.167  100.0  1  3 @ 
+OBJE 319               362               611879.090 249071.582  111.4  1  3  0
 ETAB
 TABL GebaeudeName
 ETAB
