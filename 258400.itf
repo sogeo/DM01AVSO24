@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 03/03/2015  23:09:37
+GeosPro Export 11/03/2015  14:42:06
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -43186,7 +43186,7 @@ OBJE 99                SO0200002584 99.2019      Pflegemutation_2019            
 CONT @        
 OBJE 100               SO0200002584 99.2020      Pflegemutation_2020            1  20150227 @         @         \
 CONT @        
-OBJE 101               SO0200002584 38340.05     Grenzmut.                      0  20150222 @         @         \
+OBJE 101               SO0200002584 38340.05     Grenzmutation                  0  20150222 @         @         \
 CONT @        
 ETAB
 TABL LSNachfuehrung_Perimeter
@@ -67707,7 +67707,7 @@ TABL Plan
 OBJE 1                 SO0200002584 1            TechD_Pl_01   20011018
 OBJE 2                 SO0200002584 10           TechD_Pl_10   20011018
 OBJE 3                 SO0200002584 11           TechD_Pl_11   20010314
-OBJE 4                 SO0200002584 12           TechD_Pl_12   20011018
+OBJE 4                 SO0200002584 12           sta2agi       20011018
 OBJE 5                 SO0200002584 2            TechD_Pl_02   20011018
 OBJE 6                 SO0200002584 3            TechD_Pl_03   20011018
 OBJE 7                 SO0200002584 4            TechD_Pl_04   20011018

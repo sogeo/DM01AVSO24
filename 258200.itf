@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 04/03/2015  15:37:27
+GeosPro Export 11/03/2015  14:38:41
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -38517,7 +38517,7 @@ OBJE 76                SO0200002582 38369.03     LRO-Entlassung_LS_Dl           
 CONT @        
 OBJE 77                SO0200002582 99.2015      Pflegemutation_2015            1  20150225 @         @         \
 CONT @        
-OBJE 78                SO0200002582 38147.10     Grenzmut.                      0  20150303 @         @         \
+OBJE 78                SO0200002582 38147.10     Grenzmutation                  0  20150303 @         @         \
 CONT @        
 ETAB
 TABL LSNachfuehrung_Perimeter
@@ -62016,7 +62016,7 @@ OBJE 1                 SO0200002582 1            TechD_Pl__01  20020630
 OBJE 2                 SO0200002582 10           TechD_Pl__10  20020926
 OBJE 3                 SO0200002582 11           TechD_Pl__11  20020828
 OBJE 4                 SO0200002582 12           TechD_Pl__12  20020630
-OBJE 5                 SO0200002582 13           TechD_Pl__13  20020926
+OBJE 5                 SO0200002582 13           ric2agi       20020926
 OBJE 6                 SO0200002582 2            TechD_Pl__02  20020630
 OBJE 7                 SO0200002582 3            TechD_Pl__03  20020909
 OBJE 8                 SO0200002582 4            TechD_Pl__04  20030204
