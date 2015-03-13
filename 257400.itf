@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 10/03/2015  19:21:42
+GeosPro Export 11/03/2015  18:52:29
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -29402,7 +29402,7 @@ TOPI Planeinteilungen
 TABL Plan
 OBJE 1                 SO0200002574 1            TechD_Pl_01   20001031
 OBJE 2                 SO0200002574 10           TechD_Pl_10   20001031
-OBJE 3                 SO0200002574 11           TechD_Pl_11   20030206
+OBJE 3                 SO0200002574 11           epp2agi       20030206
 OBJE 4                 SO0200002574 2            TechD_Pl_02   20001031
 OBJE 5                 SO0200002574 3            TechD_Pl_03   20001031
 OBJE 6                 SO0200002574 4            TechD_Pl_04   20001031

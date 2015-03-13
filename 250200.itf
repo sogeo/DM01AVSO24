@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 10/03/2015  18:36:11
+GeosPro Export 11/03/2015  18:07:33
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -33807,11 +33807,11 @@ OBJE 35                SO0200002502 99.2020      Pflegemutation_2020            
 CONT @        
 OBJE 36                SO0200002502 LSKE1        leer                           1  20001231  20001231 @         \
 CONT @        
-OBJE 37                SO0200002502 37854        Grenzmut.                      0  20141207 @         @         \
+OBJE 37                SO0200002502 37854        Grenzmutation                  0  20141207 @         @         \
 CONT @        
-OBJE 38                SO0200002502 38082        Grenzmut.                      0  20141207 @         @         \
+OBJE 38                SO0200002502 38082        Grenzmutation                  0  20141207 @         @         \
 CONT @        
-OBJE 39                SO0200002502 38224        Grenzmut.                      0  20141113 @         @         \
+OBJE 39                SO0200002502 38224        Grenzmutation                  0  20141113 @         @         \
 CONT @        
 OBJE 40                SO0200002502 38376.01     Belart_Immobilien_AG           0  20150309 @         @         \
 CONT @        
@@ -59543,7 +59543,7 @@ OBJE 4                 SO0200002502 12           TechD_Pl_12   20000503
 OBJE 5                 SO0200002502 13           TechD_Pl_13   20000503
 OBJE 6                 SO0200002502 14           TechD_Pl_14   20000503
 OBJE 7                 SO0200002502 15           TechD_Pl_15   20000503
-OBJE 8                 SO0200002502 16           TechD_Pl_15   20000503
+OBJE 8                 SO0200002502 16           wis2agi       20000503
 OBJE 9                 SO0200002502 2            TechD_Pl_02   20000503
 OBJE 10                SO0200002502 3            TechD_Pl_03   20030131
 OBJE 11                SO0200002502 4            TechD_Pl_04   20030131

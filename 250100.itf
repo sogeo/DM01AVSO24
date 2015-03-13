@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 10/03/2015  18:28:18
+GeosPro Export 11/03/2015  17:59:55
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -55561,17 +55561,17 @@ OBJE 86                SO0200002501 99.2019      Pflegemutation_2019            
 CONT @        
 OBJE 87                SO0200002501 99.2020      Pflegemutation_2020            1  20150304 @         @         \
 CONT @        
-OBJE 88                SO0200002501 37284        Parz                           0  20141207 @         @         \
+OBJE 88                SO0200002501 37284        Grenzmutation                  0  20141207 @         @         \
 CONT @        
-OBJE 89                SO0200002501 37884        Grenzmut.                      0  20140411 @         @         \
+OBJE 89                SO0200002501 37884        Grenzmutation                  0  20140411 @         @         \
 CONT @        
-OBJE 90                SO0200002501 38169        Grenzmut.                      0  20141207 @         @         \
+OBJE 90                SO0200002501 38169        Grenzmutation                  0  20141207 @         @         \
 CONT @        
-OBJE 91                SO0200002501 38206.2      leer                           0  20141207 @         @         \
+OBJE 91                SO0200002501 38206.2      Grenzmutation                  0  20141207 @         @         \
 CONT @        
-OBJE 92                SO0200002501 38206.3      leer                           0  20141207 @         @         \
+OBJE 92                SO0200002501 38206.3      Grenzmutation                  0  20141207 @         @         \
 CONT @        
-OBJE 93                SO0200002501 36850.1      Grenzmut.                      0  20141207 @         @         \
+OBJE 93                SO0200002501 36850.1      Grenzmutation                  0  20141207 @         @         \
 CONT @        
 ETAB
 TABL LSNachfuehrung_Perimeter
@@ -87978,7 +87978,7 @@ OBJE 6                 SO0200002501 14           TechD_Pl_14   20020830
 OBJE 7                 SO0200002501 15           TechD_Pl_15   20020416
 OBJE 8                 SO0200002501 16           TechD_Pl_16   20020416
 OBJE 9                 SO0200002501 17           TechD_Pl_17   20020830
-OBJE 10                SO0200002501 18           TechD_Pl_18   20020416
+OBJE 10                SO0200002501 18           win2agi       20020416
 OBJE 11                SO0200002501 2            TechD_Pl_02   20020415
 OBJE 12                SO0200002501 3            TechD_Pl_03   20020415
 OBJE 13                SO0200002501 4            TechD_Pl_04   20020830
