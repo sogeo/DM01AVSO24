@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 15/03/2015  11:46:54
+GeosPro Export 24/03/2015  08:35:44
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -1421,12 +1421,23 @@ OBJE 37                SO0200002425 EE1_BB_EO    Ersterhebung_Los1_BB_EO-AV02   
 OBJE 38                SO0200002425 EE1_Erg      Ersterhebung_Los1_Ergänzungen  1  20081104 @        
 OBJE 39                SO0200002425 EE1_LS_Aufl  Bereinigung_Abst._fehlende_GP  1  20091102 @        
 OBJE 40                SO0200002425 EE1_PktBer   Ersterhebung_Los1_PktBer-AV01  1  20061115 @        
+OBJE 41                SO0200002425 PG15-01      GB_837,_Herrenweg_329          1  20150317 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
 TABL ProjBoFlaeche
+OBJE 1                 41                0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
+OBJE 1                 1                
+STPT 623888.929 242582.598
+LIPT 623886.365 242593.295
+LIPT 623874.628 242590.482
+LIPT 623877.192 242579.785
+LIPT 623878.124 242575.895
+LIPT 623889.861 242578.708
+LIPT 623888.929 242582.598
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 ETAB
@@ -78954,6 +78965,7 @@ OBJE 23                SO0200002425 451          Anbau_Hauptstrasse_122b        
 OBJE 24                SO0200002425 EE1_BB_EO    Ersterhebung_Los1_BB_EO-AV02   1 20070115
 OBJE 25                SO0200002425 EE1_Erg      Ersterhebung_Los1_Ergänzungen  1 20081104
 OBJE 26                SO0200002425 EE1_PktBer   Ersterhebung_Los1_PktBer-AV01  1 20061115
+OBJE 27                SO0200002425 PG15-01      GB_837,_Herrenweg_329          1 20150317
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -85884,6 +85896,8 @@ OBJE 383               20                 17                1 1 1 1 623473.183 2
 CONT @            1
 OBJE 384               22                 18                1 1 1 0 623796.058 242567.692 @     328          0 \
 CONT @          @  
+OBJE 385               27                 12                0 1 0 0 623882.160 242584.369 @     329          0 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 623961.841 242459.530   73.1  1  0  1
@@ -86246,6 +86260,7 @@ OBJE 357               379               624018.427 242653.615   91.1  1  4 @
 OBJE 358               380               623771.570 242658.736  185.0  1  4  1
 OBJE 359               381               623796.688 242468.397   74.5  1  2  1
 OBJE 360               384               623796.058 242567.692   92.3  1  4  1
+OBJE 361               385               623880.566 242591.597   85.0  1  0  1
 ETAB
 TABL GebaeudeName
 ETAB
