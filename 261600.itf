@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 18/03/2015  20:43:47
+GeosPro Export 26/03/2015  10:15:00
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -663,11 +663,13 @@ OBJE 12                SO0200002616 372          Fidler_Remo                    
 OBJE 13                SO0200002616 373          Dreier_Romeo                   1  20140710 @        
 OBJE 14                SO0200002616 375          Wohlgemuth_&_Schmidlin         1  20140714 @        
 OBJE 15                SO0200002616 379          Silvia_Hoffmann-Rotzetter      1  20150218 @        
+OBJE 16                SO0200002616 380          Marc_Marti_u._Angelika_Huber   0  20150320 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
 TABL ProjBoFlaeche
 OBJE 1                 12                0  0
+OBJE 2                 16                0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -677,8 +679,18 @@ LIPT 610474.470 249346.867
 LIPT 610469.869 249341.751
 LIPT 610474.368 249337.706
 ELIN
+OBJE 2                 2                
+STPT 610516.264 249395.061
+LIPT 610514.030 249407.868
+LIPT 610501.026 249405.601
+LIPT 610502.186 249398.951
+LIPT 610496.768 249398.006
+LIPT 610497.842 249391.849
+LIPT 610516.264 249395.061
+ELIN
 ETAB
 TABL ProjGebaeudenummer
+OBJE 1                 2                 1            @         
 ETAB
 TABL ProjGebaeudenummerPos
 ETAB
@@ -20971,6 +20983,7 @@ OBJE 10                SO0200002616 373          Dreier_Romeo                   
 OBJE 11                SO0200002616 370          Klötzli-_Weber_Alexander       1  20140714 @        
 OBJE 12                SO0200002616 375          Wohlgemuth_&_Schmidlin         1  20140714 @        
 OBJE 13                SO0200002616 379          Silvia_Hoffmann-Rotzetter      1  20150218 @        
+OBJE 14                SO0200002616 380          Marc_Marti_u._Angelika_Huber   0  20150320 @        
 ETAB
 TABL EONachfuehrung_Perimeter
 ETAB
@@ -37272,7 +37285,7 @@ OBJE 481               440               611239.755 249786.666 @       1  2  1
 ELIN
 OBJE 482               476               610067.614 249222.619 @       1  2  1
 ELIN
-OBJE 483               477               610502.100 249401.378 @       1  2  1
+OBJE 483               477               610494.862 249404.312 @       1  2  1
 ELIN
 OBJE 484               478               610746.220 249851.388 @       1  2  1
 ELIN
@@ -47722,6 +47735,7 @@ OBJE 9                 SO0200002616 370          Klötzli-_Weber_Alexander       
 OBJE 10                SO0200002616 372          Fidler_Remo                    1 20140311
 OBJE 11                SO0200002616 373          Dreier_Romeo                   1 20140710
 OBJE 12                SO0200002616 375          Wohlgemuth_&_Schmidlin         1 20140714
+OBJE 13                SO0200002616 380          Marc_Marti_u._Angelika_Huber   0 20150320
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -51895,6 +51909,8 @@ OBJE 294               7                  48                1 1 1 0 610583.405 2
 CONT @            0
 OBJE 295               12                 53                1 1 1 0 610913.958 249481.035 @     284          0 \
 CONT @          @  
+OBJE 296               13                 23                0 1 0 0 610508.104 249405.207 @     288          0 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 610821.390 249287.636   72.6  1  3  0
@@ -52192,6 +52208,7 @@ OBJE 292               292               610889.891 249337.045   25.4  1  3 @
 OBJE 293               293               610644.245 249949.428    8.2  1  0 @ 
 OBJE 294               294               610582.700 249688.348   27.4  1  0 @ 
 OBJE 295               295               610914.573 249483.147   18.0  1  3  0
+OBJE 296               296               610507.646 249406.153   89.0  1  0  0
 ETAB
 TABL GebaeudeName
 ETAB

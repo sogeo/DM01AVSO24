@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 19/03/2015  14:41:33
+GeosPro Export 26/03/2015  10:43:23
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -786,6 +786,7 @@ OBJE 9                 SO0200002622 322          Stebler_Joseg                  
 OBJE 10                SO0200002622 326          Manuel_Kohler                  0  20140710 @        
 OBJE 11                SO0200002622 327          EG,Zullwil_Sonnenfeld          1  20150316 @        
 OBJE 12                SO0200002622 330          Dominic_Gigandet               0  20150201 @        
+OBJE 13                SO0200002622 333          Roger_u._Annelies_Schnoz       0  20150320 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
@@ -794,6 +795,7 @@ OBJE 1                 3                 0  0
 OBJE 2                 4                 0  0
 OBJE 3                 10                0  0
 OBJE 4                 12                0  0
+OBJE 5                 13                0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -832,12 +834,20 @@ LIPT 612574.182 249152.562
 LIPT 612574.183 249156.937
 LIPT 612575.483 249156.937
 ELIN
+OBJE 5                 5                
+STPT 612433.588 249091.603
+LIPT 612433.698 249100.102
+LIPT 612423.699 249100.231
+LIPT 612423.589 249091.732
+LIPT 612433.588 249091.603
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 OBJE 1                 1                 1             191220410
 OBJE 2                 2                 1             191251911
 OBJE 3                 3                 1             191158331
 OBJE 4                 4                 1             191377271
+OBJE 5                 5                 1             191347817
 ETAB
 TABL ProjGebaeudenummerPos
 ETAB
@@ -33337,6 +33347,7 @@ OBJE 5                 SO0200002622 318          Hänggi_Silver                  
 OBJE 6                 SO0200002622 321          Fam._Ackermann,_Baar           1  20140710 @        
 OBJE 7                 SO0200002622 322          Stebler_Joseg                  1  20140710 @        
 OBJE 8                 SO0200002622 330          Dominic_Gigandet               0  20150201 @        
+OBJE 9                 SO0200002622 333          Roger_u._Annelies_Schnoz       0  20150320 @        
 ETAB
 TABL EONachfuehrung_Perimeter
 ETAB
@@ -77345,6 +77356,7 @@ OBJE 7                 SO0200002622 326          Manuel_Kohler                  
 OBJE 8                 SO0200002622 330          Dominic_Gigandet               0 20150102
 OBJE 9                 SO0200002622 319          Lindenberger_Franz             1 20150304
 OBJE 10                SO0200002622 327          EG,Zullwil_Sonnenfeld          1 20150316
+OBJE 11                SO0200002622 333          Roger_u._Annelies_Schnoz       0 20150320
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -88884,6 +88896,8 @@ OBJE 361               8                  31                0 1 0 0 612570.323 2
 CONT @          @  
 OBJE 362               9                  6                 1 1 1 0 611879.090 249071.582 @     326          1 \
 CONT @          @  
+OBJE 363               11                 4                 0 1 0 0 612428.389 249092.802 @     332          0 \
+CONT @            0
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 612597.084 248701.348  102.3  1  3  1
@@ -89205,6 +89219,7 @@ OBJE 316               359               612337.134 249018.589   97.4  1  3  1
 OBJE 317               360               612325.530 248536.351   15.1  1  0  0
 OBJE 318               361               612570.323 249153.167  100.0  1  3 @ 
 OBJE 319               362               611879.090 249071.582  111.4  1  3  0
+OBJE 320               363               612428.917 249092.485  100.8  1  3  1
 ETAB
 TABL GebaeudeName
 ETAB
