@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 29/03/2015  07:17:26
+GeosPro Export 05/04/2015  07:17:36
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -3521,6 +3521,7 @@ OBJE 131               SO0200002404 1376         Neubau_Chäsiweg_35             
 OBJE 132               SO0200002404 1377         Adressenänderung_Umgangweg_39a 1  20141126 @        
 OBJE 133               SO0200002404 1381         Parz._GB_168_Bünenweg          1  20141210 @        
 OBJE 134               SO0200002404 1382         Neubau_Technikgeb._TKL         1  20150306 @        
+OBJE 135               SO0200002404 PG15-01      GB_313,_Industriestrasse_4     1  20150330 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 2                
@@ -3784,6 +3785,7 @@ OBJE 6                 109               0  0
 OBJE 7                 110               0  0
 OBJE 8                 119               0  0
 OBJE 9                 121               0  0
+OBJE 10                135               0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -3852,6 +3854,16 @@ LIPT 626524.322 240045.764
 LIPT 626433.831 240009.278
 LIPT 626482.063 239889.654
 LIPT 626572.554 239926.141
+ELIN
+OBJE 10                10               
+STPT 626097.246 239952.464
+LIPT 626039.870 240044.494
+LIPT 625949.885 239988.392
+LIPT 625988.945 239925.246
+LIPT 625994.658 239928.808
+LIPT 626015.679 239941.913
+LIPT 626033.772 239912.891
+LIPT 626097.246 239952.464
 ELIN
 ETAB
 TABL ProjGebaeudenummer
@@ -66729,7 +66741,7 @@ OBJE 65                SO0200002404 1378         Parz._GB_923_Libellenweg       
 CONT @        
 OBJE 66                SO0200002404 1381         Parz._GB_168_Bünenweg          0  20141208 @         @         \
 CONT @        
-OBJE 67                SO0200002404 1383         Parz._GB_74,75,544,547,1059    0  20150323 @         @         \
+OBJE 67                SO0200002404 1383         Parz._GB_74,75,544,547,1059    0  20150330 @         @         \
 CONT @        
 OBJE 68                SO0200002404 EN-LOS3      DM93_nach_DM01                 1  20120316 @         @         \
 CONT @        
@@ -101482,6 +101494,7 @@ OBJE 94                SO0200002404 PG13-05      GB_1093,_Libellenweg_8         
 OBJE 95                SO0200002404 PG13-07      GB_1090,_Libellenweg_4         1 20131203
 OBJE 96                SO0200002404 PG13-08      GB_241,_Allmendstrasse_19      1 20140106
 OBJE 97                SO0200002404 PG14-02      GB_322,_Neustrasse_42          1 20140623
+OBJE 98                SO0200002404 PG15-01      GB_313,_Industriestrasse_4     1 20150330
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -109890,6 +109903,8 @@ OBJE 909               83                 19                1 1 1 0 626699.379 2
 CONT @            0
 OBJE 910               88                 45                1 1 1 1 626026.822 239890.002 @    @             0 \
 CONT @          @  
+OBJE 911               98                 45                0 1 0 0 626026.916 239978.328 @     4            0 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 627471.516 238505.906   79.1  1  0  1
@@ -110701,6 +110716,7 @@ OBJE 806               906               626458.030 239951.625  175.6  1  4  1
 OBJE 807               907               626950.162 238163.476   86.4  1  0  1
 OBJE 808               908               627135.248 238451.875   60.8  1  0  0
 OBJE 809               909               626698.839 238903.532   61.2  1  4  1
+OBJE 810               911               625995.036 240016.188   64.5  1  0  1
 ETAB
 TABL GebaeudeName
 ETAB
