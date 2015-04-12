@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 05/04/2015  09:32:15
+GeosPro Export 12/04/2015  09:32:12
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -3935,6 +3935,7 @@ OBJE 47                SO0200002421 PG13-01      GB_5,_Sangetel_324             
 OBJE 48                SO0200002421 PG13-02      GB_858,_Kirchstrasse_324       1  20140110 @        
 OBJE 49                SO0200002421 PG14-01      GB_856,_Lümenfeld_325          1  20140611 @        
 OBJE 50                SO0200002421 PG15-01      GB_310,Im_Winkel_327,_327a     1  20150318 @        
+OBJE 51                SO0200002421 PG15-02      GB_1062,_Kirchstrasse_326_+_32 1  20150408 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 46               
@@ -4475,6 +4476,9 @@ OBJE 2                 48                0  0
 OBJE 3                 49                0  0
 OBJE 4                 50                0  0
 OBJE 5                 50                0  0
+OBJE 6                 51                0  0
+OBJE 7                 51                0  0
+OBJE 8                 51                0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -4520,12 +4524,35 @@ LIPT 612804.153 239493.149
 LIPT 612806.413 239485.506
 LIPT 612820.682 239489.726
 ELIN
+OBJE 6                 6                
+STPT 612673.492 239301.772
+LIPT 612670.193 239309.060
+LIPT 612661.083 239304.935
+LIPT 612664.383 239297.647
+LIPT 612673.492 239301.772
+ELIN
+OBJE 7                 7                
+STPT 612680.995 239313.833
+LIPT 612677.903 239320.666
+LIPT 612672.438 239318.187
+LIPT 612675.531 239311.355
+LIPT 612680.995 239313.833
+ELIN
+OBJE 8                 8                
+STPT 612668.954 239290.264
+LIPT 612667.032 239294.509
+LIPT 612664.190 239293.222
+LIPT 612666.112 239288.977
+LIPT 612668.954 239290.264
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 OBJE 1                 5                 1             191360610
+OBJE 2                 6                 1             191340038
 ETAB
 TABL ProjGebaeudenummerPos
 OBJE 1                 1                 612813.117 239493.403 100.0  1  2  1
+OBJE 2                 2                 612668.529 239303.037 100.0  1  2  1
 ETAB
 TABL ProjObjektname
 ETAB
@@ -68927,7 +68954,7 @@ OBJE 23                SO0200002421 368          Parz._GB_169_Dorfstrasse       
 CONT @        
 OBJE 24                SO0200002421 369          Parz._GB_172_Lörenmattstr.     0  20150115 @         @         \
 CONT @        
-OBJE 25                SO0200002421 370          Grenzänd._GB_308,_310,_746     0  20150402 @         @         \
+OBJE 25                SO0200002421 370          Grenzänd._GB_308,_310,_746     0  20150409 @         @         \
 CONT @        
 OBJE 26                SO0200002421 EN_Lie_Gem   EN_Los5_Liegenschaft_und_Hohei 1  20100224 @         @         \
 CONT @        
@@ -100712,6 +100739,7 @@ OBJE 33                SO0200002421 PG13-01      GB_5,_Sangetel_324             
 OBJE 34                SO0200002421 PG13-02      GB_858,_Kirchstrasse_324       1 20140110
 OBJE 35                SO0200002421 PG14-01      GB_856,_Lümenfeld_325          1 20140611
 OBJE 36                SO0200002421 PG15-01      GB_310,Im_Winkel_327,_327a     1 20150318
+OBJE 37                SO0200002421 PG15-02      GB_1062,_Kirchstrasse_326_+_32 1 20150408
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -109876,6 +109904,12 @@ OBJE 362               36                 21                0 1 0 0 612812.751 2
 CONT @            0
 OBJE 363               36                 21                0 1 0 0 612786.557 239481.138 @     327a         0 \
 CONT @          @  
+OBJE 364               37                 7                 0 1 0 0 612666.873 239303.360 @     326          0 \
+CONT @            0
+OBJE 365               37                 7                 0 1 0 0 612676.823 239315.675 @     326a         0 \
+CONT @          @  
+OBJE 366               37                 7                 0 1 0 0 612666.577 239291.637 @     326b         0 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 613163.578 239326.401  188.7  1  4  1
@@ -110213,6 +110247,9 @@ OBJE 332               359               612553.049 239281.330   92.9  1  0  1
 OBJE 333               361               612553.668 239340.443   84.8  1  0  1
 OBJE 334               362               612813.464 239487.906   81.7  1  4 @ 
 OBJE 335               363               612794.823 239481.808  197.1  1  0  1
+OBJE 336               364               612665.762 239306.724   72.9  1  0  1
+OBJE 337               365               612675.294 239319.153   72.9  1  0  1
+OBJE 338               366               612665.735 239293.592   72.9  1  0  1
 ETAB
 TABL GebaeudeName
 ETAB
