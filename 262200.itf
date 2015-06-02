@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 20/05/2015  21:44:44
+GeosPro Export 01/06/2015  21:32:37
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -46168,8 +46168,6 @@ OBJE 2                 SO0200002622 323          Schnoz_Placi                   
 CONT @        
 OBJE 3                 SO0200002622 327          EG,Zullwil_Sonnenfeld          1  20150316 @         @         \
 CONT @        
-OBJE 4                 SO0200002622 332          Rolf_Hänggi                    0  20150319 @         @         \
-CONT @        
 ETAB
 TABL LSNachfuehrung_Perimeter
 ETAB
@@ -51391,8 +51389,6 @@ OBJE 5214              3                  44           612272.849 249096.979   0
 OBJE 5215              1                  20276        611945.447 249126.888   2.0 0 6 0 1
 OBJE 5216              1                  20268        611956.777 249125.147   2.0 0 6 0 1
 OBJE 5217              1                  20269        611989.213 249121.183   2.0 0 6 0 1
-OBJE 5218              4                  40241        612426.053 249128.533   2.0 0 2 0 1
-OBJE 5219              4                  40242        612424.779 249104.520   2.0 0 0 0 1
 ETAB
 TABL GrenzpunktPos
 OBJE 1                 1                 611961.389 248923.468  100.0  0  3
@@ -56612,42 +56608,16 @@ OBJE 5214              5214              612273.849 249097.979  100.0  0  3
 OBJE 5215              5215              611946.447 249127.888  100.0  0  3
 OBJE 5216              5216              611957.777 249126.147  100.0  0  3
 OBJE 5217              5217              611990.213 249122.183  100.0  0  3
-OBJE 5218              5218              612425.122 249128.117  100.0  2  1
-OBJE 5219              5219              612425.779 249105.005  100.0  0  3
 ETAB
 TABL GrenzpunktSymbol
 ETAB
 TABL ProjGrundstueck
-OBJE 1                 4                 SO0200002622 985          @               0 0 0 @         
-OBJE 2                 4                 SO0200002622 1131         @               0 0 0 @         
 ETAB
 TABL ProjGrundstueckPos
-OBJE 1                 1                 612451.572 249116.190  100.0  1  2  1
-ELIN
-OBJE 2                 2                 612413.193 249116.476  100.0  1  2  1
-ELIN
 ETAB
 TABL ProjLiegenschaft
-OBJE 1                 1                 @                  1180
-OBJE 2                 2                 @                   575
 ETAB
 TABL ProjLiegenschaft_Geometrie
-OBJE 1                 1                 @ 
-STPT 612474.654 249102.657
-LIPT 612475.888 249125.883
-LIPT 612426.053 249128.533
-LIPT 612424.779 249104.520
-LIPT 612437.249 249104.056
-LIPT 612474.654 249102.657
-ELIN
-OBJE 2                 2                 @ 
-STPT 612424.779 249104.520
-LIPT 612426.053 249128.533
-LIPT 612402.362 249129.793
-LIPT 612401.067 249105.398
-LIPT 612406.445 249105.203
-LIPT 612424.779 249104.520
-ELIN
 ETAB
 TABL ProjSelbstRecht
 ETAB
