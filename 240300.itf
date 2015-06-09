@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 31/05/2015  06:47:42
+GeosPro Export 07/06/2015  06:48:00
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -3104,6 +3104,7 @@ OBJE 113               SO0200002403 PG14-04      GB_946,_Rainstrasse_12         
 OBJE 114               SO0200002403 PG15-01      GB_2003,_Bifangstrasse         1  20150126 @        
 OBJE 115               SO0200002403 PG15-02      GB_1061,_Rainstrasse_14        1  20150209 @        
 OBJE 116               SO0200002403 PG15-03      GB_2008,_Rainstrasse_16        1  20150209 @        
+OBJE 117               SO0200002403 PG15-04      GB_969,_Rainstrasse_18         1  20150602 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 108              
@@ -3329,6 +3330,7 @@ OBJE 5                 113               0  0
 OBJE 6                 114               0  0
 OBJE 7                 115               0  0
 OBJE 8                 116               0  0
+OBJE 9                 117               0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -3404,6 +3406,15 @@ LIPT 623952.255 236548.776
 LIPT 623962.719 236554.462
 LIPT 623962.003 236555.780
 LIPT 623965.254 236557.547
+ELIN
+OBJE 9                 9                
+STPT 623957.624 236578.246
+LIPT 623949.029 236594.062
+LIPT 623942.966 236590.767
+LIPT 623948.553 236580.487
+LIPT 623939.591 236575.616
+LIPT 623942.599 236570.081
+LIPT 623957.624 236578.246
 ELIN
 ETAB
 TABL ProjGebaeudenummer
@@ -58244,7 +58255,7 @@ OBJE 24                SO0200002403 1083         Parz._GB_478_Rainstrasse       
 CONT @        
 OBJE 25                SO0200002403 1084         Ausbau_Oensingerstrasse        0  20140922 @         @         \
 CONT @        
-OBJE 26                SO0200002403 1085         Parz._GB_946,_969,_1061,_1963  0  20150211 @         @         \
+OBJE 26                SO0200002403 1085         Parz._GB_946,_969,_1061,_1963  0  20150602 @         @         \
 CONT @        
 OBJE 27                SO0200002403 1090         Parz._GB_507,_1994_Hangweg     0  20141117 @         @         \
 CONT @        
@@ -58252,7 +58263,7 @@ OBJE 28                SO0200002403 1094         Grenzänd._GB_1175              
 CONT @        
 OBJE 29                SO0200002403 1095         Vereinigung_GB_1360,_1939      0  20150319 @         @         \
 CONT @        
-OBJE 30                SO0200002403 1097         Grenzänd._GB920,1421,1582      0  20150529 @         @         \
+OBJE 30                SO0200002403 1097         Grenzänd._GB920,1421,1582      0  20150605 @         @         \
 CONT @        
 OBJE 31                SO0200002403 585          Grenzänd._GB457_/_Wolfwilerstr 1  20130807 @         @         \
 CONT @        
@@ -72933,7 +72944,7 @@ OBJE 12                36                624159.324 236486.712  100.0  1  2  1
 ELIN
 OBJE 13                29                623972.428 236546.660  100.0  1  2  1
 ELIN
-OBJE 14                30                623945.094 236582.060  100.0  1  2  1
+OBJE 14                30                623938.774 236584.006  100.0  1  2  1
 ELIN
 OBJE 15                23                623966.430 236572.924  100.0  1  2  1
 ELIN
@@ -97013,6 +97024,7 @@ OBJE 91                SO0200002403 PG14-04      GB_946,_Rainstrasse_12         
 OBJE 92                SO0200002403 PG15-01      GB_2003,_Bifangstrasse         1 20150126
 OBJE 93                SO0200002403 PG15-02      GB_1061,_Rainstrasse_14        1 20150209
 OBJE 94                SO0200002403 PG15-03      GB_2008,_Rainstrasse_16        1 20150209
+OBJE 95                SO0200002403 PG15-04      GB_969,_Rainstrasse_18         1 20150602
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -105665,6 +105677,8 @@ OBJE 966               93                 74                0 1 0 0 623970.719 2
 CONT @            0
 OBJE 967               94                 74                0 1 0 0 623954.977 236556.375 @     16           0 \
 CONT @            0
+OBJE 968               95                 74                0 1 0 0 623949.968 236574.427 @     18           0 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 624299.534 236316.727  162.5  1  0  1
@@ -106474,6 +106488,7 @@ OBJE 804               964               624095.759 237118.287   49.4  1  0  1
 OBJE 805               965               624148.595 237161.213  156.3  1  4  1
 OBJE 806               966               623974.310 236561.103   68.3  1  4  1
 OBJE 807               967               623957.344 236551.883   68.3  1  4  1
+OBJE 808               968               623949.968 236574.427   68.3  1  4  1
 ETAB
 TABL GebaeudeName
 ETAB
