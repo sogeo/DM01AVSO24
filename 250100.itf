@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 08/06/2015  10:31:43
+GeosPro Export 10/06/2015  08:00:58
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -43084,6 +43084,7 @@ OBJE 119               SO0200002501 99.2019      Pflegemutation_2019            
 OBJE 120               SO0200002501 99.2020      Pflegemutation_2020            1  20150304 @        
 OBJE 121               SO0200002501 38392.01     Radermacher_Dominic            1  20150330 @        
 OBJE 122               SO0200002501 38573.01     div.Eigt.                      1  20150603 @        
+OBJE 123               SO0200002501 99.192       leer                           1  20150609 @        
 ETAB
 TABL EONachfuehrung_Perimeter
 ETAB
@@ -43832,7 +43833,7 @@ OBJE 741               73                0 12
 OBJE 742               73                0  3
 OBJE 743               74                0 12
 OBJE 744               74                0  0
-OBJE 745               74                0 42
+OBJE 745               123               0 42
 OBJE 746               74                0  0
 OBJE 747               75                0 12
 OBJE 748               75                0  0
@@ -52705,7 +52706,7 @@ ETAB
 TABL LinienelementSymbol
 ETAB
 TABL Punktelement
-OBJE 1                 745               636929.970 246072.812 200.0
+OBJE 1                 745               636929.970 246072.812   0.0
 OBJE 2                 750               637875.457 245933.601   0.0
 ETAB
 TABL Objektname
