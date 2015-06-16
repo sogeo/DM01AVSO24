@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 07/06/2015  06:18:23
+GeosPro Export 15/06/2015  10:09:39
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -2673,6 +2673,8 @@ OBJE 140               SO0200002402 933          Grenzänderung_GB_148/642       
 OBJE 141               SO0200002402 934          Parzellierung_GB_340           1  20150112 @        
 OBJE 142               SO0200002402 935          Neubau_Fulenbacherstr._56,58   1  20150203 @        
 OBJE 143               SO0200002402 PG15-01      GB_410,_Bürgerweg_6            1  20150211 @        
+OBJE 144               SO0200002402 PG15-02      GB_994,_Nesslergraben          1  20150608 @        
+OBJE 145               SO0200002402 PG15-03      GB_642,_Nesslergraben          1  20150608 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 2                
@@ -2884,6 +2886,8 @@ OBJE 7                 134               0  0
 OBJE 8                 134               0  0
 OBJE 9                 143               0  0
 OBJE 10                143               0  0
+OBJE 11                144               0  0
+OBJE 12                145               0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -2970,6 +2974,20 @@ LIPT 628400.695 239986.764
 LIPT 628407.622 239972.430
 LIPT 628412.988 239975.024
 ELIN
+OBJE 11                11               
+STPT 628496.462 239335.695
+LIPT 628492.681 239343.862
+LIPT 628482.291 239339.051
+LIPT 628486.072 239330.884
+LIPT 628496.462 239335.695
+ELIN
+OBJE 12                12               
+STPT 628477.687 239322.814
+LIPT 628473.569 239331.707
+LIPT 628459.685 239325.278
+LIPT 628463.803 239316.385
+LIPT 628477.687 239322.814
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 OBJE 1                 1                 1             191000430
@@ -2979,6 +2997,8 @@ OBJE 4                 4                 191188330             1
 OBJE 5                 5                 1             191265790
 OBJE 6                 6                 1             191246330
 OBJE 7                 9                 1             191253550
+OBJE 8                 11                1             191413652
+OBJE 9                 12                1             191413510
 ETAB
 TABL ProjGebaeudenummerPos
 OBJE 1                 1                 628653.304 240842.852 100.0  1  2  1
@@ -2988,6 +3008,8 @@ OBJE 4                 4                 629101.700 239278.250 100.0  1  2  1
 OBJE 5                 5                 629061.731 239778.249 100.0  1  2  1
 OBJE 6                 6                 628597.921 239470.501 100.0  1  2  1
 OBJE 7                 7                 628423.026 239930.311 100.0  1  2  1
+OBJE 8                 8                 628490.794 239337.037 100.0  1  2  1
+OBJE 9                 9                 628470.486 239323.800 100.0  1  2  1
 ETAB
 TABL ProjObjektname
 ETAB
@@ -53975,7 +53997,7 @@ OBJE 67                SO0200002402 935          Neubau_Fulenbacherstr._56,58   
 CONT @        
 OBJE 68                SO0200002402 936          Rek._Hodler_Bürgergde.         1  20150311 @         @         \
 CONT @        
-OBJE 69                SO0200002402 938          Parz_GB_642_Nesslergraben      0  20150420 @         @         \
+OBJE 69                SO0200002402 938          Parz_GB_642_Nesslergraben      0  20150608 @         @         \
 CONT @        
 OBJE 70                SO0200002402 940          Parz_GB_111_Immo-Baumanagement 0  20150511 @         @         \
 CONT @        
@@ -63908,7 +63930,7 @@ OBJE 5                 7                 628988.593 238972.033  100.0  1  2 @
 ELIN
 OBJE 6                 8                 629030.269 238951.421  100.0  1  2 @ 
 ELIN
-OBJE 7                 13                628464.663 239322.113  100.0  1  2 @ 
+OBJE 7                 13                628457.560 239316.612  100.0  1  2 @ 
 ELIN
 OBJE 8                 3                 628643.157 239422.046   72.0  1  2 @ 
 ELIN
@@ -63924,7 +63946,7 @@ OBJE 13                11                629118.305 238859.367  100.0  1  2  1
 ELIN
 OBJE 14                12                629062.029 238874.053  100.0  1  2  1
 ELIN
-OBJE 15                14                628489.639 239332.606  100.0  1  2  1
+OBJE 15                14                628492.055 239326.373  100.0  1  2  1
 ELIN
 OBJE 16                16                628502.001 239787.271  100.0  1  2  1
 ELIN
@@ -82957,6 +82979,8 @@ OBJE 86                SO0200002402 PG14-02      GB_988,_Fröschengasse_16       
 OBJE 87                SO0200002402 PG14-03      GB_156,_Lindenweg_5            1 20140715
 OBJE 88                SO0200002402 PG14-04      GB52,_Egerkingerstrasse_2/2a   1 20141103
 OBJE 89                SO0200002402 PG15-01      GB_410,_Bürgerweg_6            1 20150211
+OBJE 90                SO0200002402 PG15-02      GB_994,_Nesslergraben          1 20150608
+OBJE 91                SO0200002402 PG15-03      GB_642,_Nesslergraben          1 20150608
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -88834,6 +88858,10 @@ OBJE 761               89                 17                0 1 0 0 628423.769 2
 CONT @            0
 OBJE 762               89                 38                0 1 0 1 628406.579 239980.328 @    @             0 \
 CONT @          @  
+OBJE 763               90                 56                0 1 0 0 628489.540 239337.414 @     49           0 \
+CONT @            0
+OBJE 764               91                 56                0 1 0 0 628469.190 239324.171 @     51           0 \
+CONT @            0
 ETAB
 TABL HausnummerPos
 OBJE 1                 2                 628260.688 239891.177  170.7  1  4  1
@@ -89497,6 +89525,8 @@ OBJE 658               758               628888.769 239349.511  183.3  1  0  1
 OBJE 659               759               628869.585 239322.414  183.3  1  0  1
 OBJE 660               760               628866.251 239361.728  183.1  1  0  1
 OBJE 661               761               628430.395 239920.408   71.3  1  4  1
+OBJE 662               763               628487.612 239341.184   72.4  1  0  1
+OBJE 663               764               628466.753 239328.220   72.4  1  0  1
 ETAB
 TABL GebaeudeName
 ETAB
