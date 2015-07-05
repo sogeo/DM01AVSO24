@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 28/06/2015  07:17:03
+GeosPro Export 05/07/2015  07:17:04
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -3533,6 +3533,7 @@ OBJE 141               SO0200002404 1394         Neubau,_Fulenbacherstrasse_40  
 OBJE 142               SO0200002404 1395         EWG,_Ausbau_Bifangstr._Ost     1  20150520 @        
 OBJE 143               SO0200002404 PG15-02      GB_1101,Babylonstrasse_13a,13b 1  20150615 @        
 OBJE 144               SO0200002404 PG15-03      GB_1046,_Überbauung_Banacker   1  20150612 @        
+OBJE 145               SO0200002404 PG15-04      GB_78,_Dorfstrasse_52          1  20150703 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 2                
@@ -3803,6 +3804,7 @@ OBJE 13                144               0  0
 OBJE 14                144               0  0
 OBJE 15                144               0  0
 OBJE 16                144               0  0
+OBJE 17                145               0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -3980,6 +3982,15 @@ LIPT 627214.584 238653.826
 LIPT 627218.869 238657.234
 LIPT 627219.553 238656.373
 LIPT 627227.599 238662.772
+ELIN
+OBJE 17                17               
+STPT 626798.417 239019.050
+LIPT 626793.034 239027.162
+LIPT 626784.382 239021.494
+LIPT 626785.263 239020.144
+LIPT 626783.593 239019.019
+LIPT 626787.952 239012.311
+LIPT 626798.417 239019.050
 ELIN
 ETAB
 TABL ProjGebaeudenummer
