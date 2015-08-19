@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 04/08/2015  08:14:23
+GeosPro Export 17/08/2015  08:41:56
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -3534,6 +3534,7 @@ OBJE 142               SO0200002404 1395         EWG,_Ausbau_Bifangstr._Ost     
 OBJE 143               SO0200002404 PG15-02      GB_1101,Babylonstrasse_13a,13b 1  20150615 @        
 OBJE 144               SO0200002404 PG15-03      GB_1046,_Überbauung_Banacker   1  20150612 @        
 OBJE 145               SO0200002404 PG15-04      GB_78,_Dorfstrasse_52          1  20150703 @        
+OBJE 146               SO0200002404 PG15-05      GB_59,_Dorfstrasse_41          1  20150811 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 2                
@@ -3805,6 +3806,7 @@ OBJE 14                144               0  0
 OBJE 15                144               0  0
 OBJE 16                144               0  0
 OBJE 17                145               0  0
+OBJE 18                146               0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -3992,6 +3994,13 @@ LIPT 626783.593 239019.019
 LIPT 626787.952 239012.311
 LIPT 626798.417 239019.050
 ELIN
+OBJE 18                18               
+STPT 626599.277 239026.447
+LIPT 626590.223 239040.122
+LIPT 626578.967 239032.669
+LIPT 626588.021 239018.994
+LIPT 626599.277 239026.447
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 OBJE 1                 1                 1             191167751
@@ -4006,6 +4015,7 @@ OBJE 9                 13                1             191284530
 OBJE 10                12                1             191284532
 OBJE 11                10                1             191284450
 OBJE 12                11                1             191284551
+OBJE 13                18                1             191167770
 ETAB
 TABL ProjGebaeudenummerPos
 OBJE 1                 1                 626956.843 238872.938 100.0  1  2  1
@@ -4020,6 +4030,7 @@ OBJE 9                 9                 627226.800 238627.537 100.0  1  2  1
 OBJE 10                10                627249.991 238645.982 100.0  1  2  1
 OBJE 11                11                627249.701 238685.605 100.0  1  2  1
 OBJE 12                12                627271.968 238663.289 100.0  1  2  1
+OBJE 13                13                626591.153 239028.936 100.0  1  2  1
 ETAB
 TABL ProjObjektname
 ETAB
@@ -102263,6 +102274,7 @@ OBJE 98                SO0200002404 PG14-02      GB_322,_Neustrasse_42          
 OBJE 99                SO0200002404 PG15-01      GB_313,_Industriestrasse_4     1 20150330
 OBJE 100               SO0200002404 PG15-02      GB_1101,Babylonstrasse_13a,13b 1 20150615
 OBJE 101               SO0200002404 PG15-03      GB_1046,_Überbauung_Banacker   1 20150612
+OBJE 102               SO0200002404 PG15-05      GB_59,_Dorfstrasse_41          1 20150811
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -110701,6 +110713,8 @@ OBJE 924               101                8                 0 1 0 0 627249.579 2
 CONT @            0
 OBJE 925               101                8                 0 1 0 0 627270.922 238663.381 @     1            0 \
 CONT @            0
+OBJE 926               102                24                0 1 0 0 626588.746 239029.465 @     41           0 \
+CONT @            0
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 627471.516 238505.906   79.1  1  0  1
@@ -111527,6 +111541,7 @@ OBJE 821               922               627220.182 238636.515   57.2  1  0  1
 OBJE 822               923               627242.487 238654.256   57.2  1  0  1
 OBJE 823               924               627242.997 238692.913   57.2  1  0  1
 OBJE 824               925               627264.795 238671.994   57.2  1  0  1
+OBJE 825               926               626593.485 239022.973   62.8  1  4  1
 ETAB
 TABL GebaeudeName
 ETAB
