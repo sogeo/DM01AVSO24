@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 26/08/2015  12:27:12
+GeosPro Export 02/09/2015  10:00:37
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -1236,7 +1236,7 @@ OBJE z54e7078cc176827b SO0200002585 37956.01     leer                           
 OBJE z54e7078cc176827c SO0200002585 38060.01     leer                           1  20140818 @        
 OBJE z54e7078cc176827d SO0200002585 38120.01     leer                           1  20140905 @        
 OBJE z54e7078cc176827e SO0200002585 37814.04     leer                           1  20150115 @        
-OBJE z54e9f67119a20000 SO0200002585 38350.01     Proj._Geb._-2015               0  20151231 @        
+OBJE z54e9f67119a20000 SO0200002585 38350.01     ProjGeb_-2015                  1  20150828 @        
 OBJE z54edc9f237df016b SO0200002585 99.2015      Pflegemutation_2015            1  20150225 @        
 OBJE z54f031d9bac700f1 SO0200002585 99.2016      Pflegemutation_2016            1  20150227 @        
 OBJE z54f031fdbac700fb SO0200002585 99.2017      Pflegemutation_2017            1  20150227 @        
@@ -76403,7 +76403,7 @@ OBJE z5540bea606430013 SO0200002585 38200.68     AGI                            
 OBJE z5540c893c179001a SO0200002585 38200.69     AGI                            1 20150429
 OBJE z5540d029c1790033 SO0200002585 38200.70     AGI                            1 20150429
 OBJE z55643536eb0e0020 SO0200002585 38200.72     AGI                            1 20150526
-OBJE z54e9f67119a20001 SO0200002585 38350.01     Proj._Geb._-2015               0 20151231
+OBJE z54e9f67119a20001 SO0200002585 38350.01     ProjGeb_-2015                  1 20150828
 OBJE z54feae03aa2c0001 SO0200002585 38380.20     Urs_Hagmann                    1 20150310
 OBJE z54feb3277ac60000 SO0200002585 38380.30     Urs_Hagmann                    1 20150310
 OBJE z55928406d2840002 SO0200002585 38650.01     Einwohnergem.                  1 20150630

@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 26/08/2015  12:26:04
+GeosPro Export 02/09/2015  09:59:24
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -1027,7 +1027,7 @@ OBJE z54e7076fc1764807 SO0200002584 38315.01     rechn_bb_bi                    
 OBJE z54e7076fc1764808 SO0200002584 38340.02     leer                           1  20141218 @        
 OBJE z54e7076fc1764809 SO0200002584 38349.01     leer                           1  20150123 @        
 OBJE z54e7076fc176480a SO0200002584 38417.01     leer                           1  20150210 @        
-OBJE z54e9af374ac20000 SO0200002584 38350.01     Proj._Geb._-2015               0  20151231 @        
+OBJE z54e9af374ac20000 SO0200002584 38350.01     ProjGeb_-2015                  1  20150828 @        
 OBJE z54edc8db37df0143 SO0200002584 99.2015      Pflegemutation_2015            1  20150225 @        
 OBJE z54f02fbebac70088 SO0200002584 99.2016      Pflegemutation_2016            1  20150227 @        
 OBJE z54f02feebac70092 SO0200002584 99.2017      Pflegemutation_2017            1  20150227 @        
@@ -69088,7 +69088,7 @@ OBJE z54e70789c176785d SO0200002584 38270.02     gebadr_bi                      
 OBJE z54e70789c176785c SO0200002584 38272.01     leer                           1 20140926
 OBJE z54e70789c176785e SO0200002584 38349.01     leer                           1 20150123
 OBJE z54e70789c176785f SO0200002584 38349.02     leer                           1 20150123
-OBJE z54e9af374ac20001 SO0200002584 38350.01     Proj._Geb._-2015               0 20151231
+OBJE z54e9af374ac20001 SO0200002584 38350.01     ProjGeb_-2015                  1 20150828
 OBJE z5519569109ff0002 SO0200002584 38389.01     Ladner_Eric                    1 20150331
 OBJE z5549baa68cf60001 SO0200002584 38514.01     EWG_Starrkirch-Wil             1 20150506
 OBJE z55a7b98d9f1e0005 SO0200002584 38536.03     lidar                          1 20150716
