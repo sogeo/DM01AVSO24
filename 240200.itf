@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 20/09/2015  06:19:33
+GeosPro Export 28/09/2015  09:50:47
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -2692,6 +2692,7 @@ OBJE 143               SO0200002402 PG14-04      GB_52,_Egerkingerstr_2/2a      
 OBJE 144               SO0200002402 PG15-01      GB_410,_Bürgerweg_6            1  20150211 @        
 OBJE 145               SO0200002402 PG15-02      GB_994,_Nesslergraben          1  20150608 @        
 OBJE 146               SO0200002402 PG15-03      GB_642,_Nesslergraben          1  20150608 @        
+OBJE 147               SO0200002402 PG15-04      GB_544,_Eichenweg_4            1  20150921 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 OBJE 1                 138              
@@ -2903,6 +2904,7 @@ OBJE 7                 144               0  0
 OBJE 8                 144               0  0
 OBJE 9                 145               0  0
 OBJE 10                146               0  0
+OBJE 11                147               0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -2988,6 +2990,13 @@ LIPT 628473.569 239331.707
 LIPT 628459.685 239325.278
 LIPT 628463.803 239316.385
 LIPT 628477.687 239322.814
+ELIN
+OBJE 11                11               
+STPT 629054.930 238952.995
+LIPT 629040.691 238979.457
+LIPT 629030.388 238973.914
+LIPT 629044.627 238947.451
+LIPT 629054.930 238952.995
 ELIN
 ETAB
 TABL ProjGebaeudenummer
@@ -84512,6 +84521,7 @@ OBJE 89                SO0200002402 PG14-04      GB_52,_Egerkingerstr_2/2a      
 OBJE 90                SO0200002402 PG15-01      GB_410,_Bürgerweg_6            1 20150211
 OBJE 91                SO0200002402 PG15-02      GB_994,_Nesslergraben          1 20150608
 OBJE 92                SO0200002402 PG15-03      GB_642,_Nesslergraben          1 20150608
+OBJE 93                SO0200002402 PG15-04      GB_544,_Eichenweg_4            1 20150921
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -84653,7 +84663,7 @@ OBJE 134               84                0  1071         1 1 1 1 1
 OBJE 135               84                0  1072         1 1 1 1 1
 OBJE 136               84                0  1074         1 1 1 1 1
 OBJE 137               81                0  15           1 0 1 1 1
-OBJE 138               84                0  29           1 0 1 1 1
+OBJE 138               84                3  29           1 0 1 1 1
 OBJE 139               84                0  41           1 0 1 1 1
 OBJE 140               1                 0  1078         1 1 1 1 1
 OBJE 141               81                0  1079         1 1 1 1 1
@@ -90471,6 +90481,8 @@ OBJE 804               83                 52                1 1 1 1 628715.400 2
 CONT @          @  
 OBJE 805               83                 52                1 1 1 1 628729.979 240842.452 @    @             0 \
 CONT @          @  
+OBJE 806               93                 138               0 1 0 0 629043.068 238962.970 @     4            0 \
+CONT @          @  
 ETAB
 TABL HausnummerPos
 OBJE 1                 2                 628260.688 239891.177  170.7  1  4  1
@@ -91138,6 +91150,7 @@ OBJE 662               779               628937.050 238826.216  169.6  1  4 @
 OBJE 663               780               628939.064 238831.346  169.7  1  4 @ 
 OBJE 664               781               628940.159 238827.819  169.6  1  4 @ 
 OBJE 665               762               628383.564 239685.900   63.4  1  4 @ 
+OBJE 666               806               629035.683 238976.424   68.6  1  0  1
 ETAB
 TABL GebaeudeName
 ETAB
