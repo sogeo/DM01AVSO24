@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 20/10/2015  14:29:49
+GeosPro Export 22/10/2015  20:43:46
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -664,12 +664,14 @@ OBJE 13                SO0200002616 373          Dreier_Romeo                   
 OBJE 14                SO0200002616 375          Wohlgemuth_&_Schmidlin         1  20140714 @        
 OBJE 15                SO0200002616 379          Silvia_Hoffmann-Rotzetter      1  20150218 @        
 OBJE 16                SO0200002616 380          Marc_Marti_u._Angelika_Huber   0  20150320 @        
+OBJE 17                SO0200002616 385          Sascha_u._Rebecca_Frischknecht 0 @         @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
 TABL ProjBoFlaeche
 OBJE 1                 12                0  0
 OBJE 2                 16                0  0
+OBJE 3                 17                0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -687,6 +689,22 @@ LIPT 610502.186 249398.951
 LIPT 610496.768 249398.006
 LIPT 610497.842 249391.849
 LIPT 610516.264 249395.061
+ELIN
+OBJE 3                 3                
+STPT 610744.685 249641.412
+LIPT 610748.224 249648.753
+LIPT 610738.766 249653.313
+LIPT 610738.679 249653.133
+LIPT 610733.770 249655.500
+LIPT 610731.360 249650.501
+LIPT 610736.269 249648.133
+LIPT 610735.227 249645.971
+LIPT 610734.641 249644.755
+LIPT 610738.965 249642.671
+LIPT 610738.248 249641.185
+LIPT 610743.202 249638.797
+LIPT 610744.505 249641.499
+LIPT 610744.685 249641.412
 ELIN
 ETAB
 TABL ProjGebaeudenummer
@@ -21018,6 +21036,7 @@ OBJE 11                SO0200002616 370          Klötzli-_Weber_Alexander       
 OBJE 12                SO0200002616 375          Wohlgemuth_&_Schmidlin         1  20140714 @        
 OBJE 13                SO0200002616 379          Silvia_Hoffmann-Rotzetter      1  20150218 @        
 OBJE 14                SO0200002616 380          Marc_Marti_u._Angelika_Huber   0  20150320 @        
+OBJE 15                SO0200002616 385          Sascha_u._Rebecca_Frischknecht 0 @         @        
 ETAB
 TABL EONachfuehrung_Perimeter
 ETAB
@@ -28553,7 +28572,7 @@ OBJE 17                SO0200002616 371          AGI,Solothurn                  
 CONT @        
 OBJE 18                SO0200002616 341          Kreisbauamt_III,_Dornach       0  20120531 @         @         \
 CONT @        
-OBJE 19                SO0200002616 383          AVT,_Solothurn                 0  20151020 @         @         \
+OBJE 19                SO0200002616 383          AVT,_Solothurn                 0  20151022 @         @         \
 CONT @        
 ETAB
 TABL LSNachfuehrung_Perimeter
@@ -35843,7 +35862,7 @@ OBJE 1                 1                 @                  4388
 OBJE 2                 2                 @                  2739
 OBJE 3                 3                 @                  1514
 OBJE 4                 5                 @                   678
-OBJE 5                 4                 @                   340
+OBJE 5                 4                 @                   332
 OBJE 6                 6                 @                   513
 OBJE 7                 7                 @                  1275
 OBJE 8                 8                 @                  3600
@@ -35861,7 +35880,7 @@ OBJE 19                19                @                  1038
 OBJE 20                20                @                  1843
 OBJE 21                21                @                   328
 OBJE 22                22                @                  4936
-OBJE 23                23                @                  4412
+OBJE 23                23                @                  4420
 OBJE 24                24                @                  1590
 OBJE 25                25                @                105094
 OBJE 26                26                @                   392
@@ -36181,7 +36200,6 @@ LIPT 610793.430 249324.083
 LIPT 610777.543 249327.606
 LIPT 610763.860 249330.712
 LIPT 610738.095 249340.146
-LIPT 610730.726 249344.974
 LIPT 610730.051 249343.091
 LIPT 610729.694 249337.788
 LIPT 610762.968 249327.881
@@ -36538,6 +36556,7 @@ LIPT 610707.448 249393.596
 LIPT 610722.538 249352.841
 ARCP 610725.728 249347.966
 LIPT 610730.726 249344.974
+LIPT 610730.051 249343.091
 LIPT 610738.095 249340.146
 LIPT 610763.860 249330.712
 LIPT 610777.543 249327.606
@@ -48787,6 +48806,7 @@ OBJE 10                SO0200002616 372          Fidler_Remo                    
 OBJE 11                SO0200002616 373          Dreier_Romeo                   1 20140710
 OBJE 12                SO0200002616 375          Wohlgemuth_&_Schmidlin         1 20140714
 OBJE 13                SO0200002616 380          Marc_Marti_u._Angelika_Huber   0 20150320
+OBJE 14                SO0200002616 385          Sascha_u._Rebecca_Frischknecht 0 20151020
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -52964,6 +52984,8 @@ OBJE 296               13                 23                0 1 0 0 610508.104 2
 CONT @          @  
 OBJE 297               1                  9                 1 1 1 0 610465.743 249058.512 @     270          0 \
 CONT @            0
+OBJE 298               14                 15                0 1 0 0 610741.985 249650.413 @     289          0 \
+CONT @            0
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 610821.390 249287.636   72.6  1  3  0
@@ -53263,6 +53285,7 @@ OBJE 294               294               610582.700 249688.348   27.4  1  0 @
 OBJE 295               295               610914.573 249483.147   18.0  1  3  0
 OBJE 296               296               610507.646 249406.153   89.0  1  0  0
 OBJE 297               297               610470.201 249053.239  194.9  1  0 @ 
+OBJE 298               298               610742.966 249650.693  128.6  1  0  1
 ETAB
 TABL GebaeudeName
 ETAB
