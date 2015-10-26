@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 18/10/2015  09:32:18
+GeosPro Export 25/10/2015  09:32:17
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -54149,10 +54149,10 @@ OBJE 179               41                0  0
 OBJE 180               41                0  0
 OBJE 181               41                0  0
 OBJE 182               41                0  5
-OBJE 183               41                0  5
-OBJE 184               41                0  5
-OBJE 185               41                0  9
-OBJE 186               41                0  9
+OBJE 183               41                0  9
+OBJE 184               41                0  9
+OBJE 185               41                0  7
+OBJE 186               41                0  7
 OBJE 187               41                0  7
 OBJE 188               41                0  7
 OBJE 189               41                0  7
@@ -54162,8 +54162,8 @@ OBJE 192               41                0  7
 OBJE 193               41                0  7
 OBJE 194               41                0  7
 OBJE 195               41                0  7
-OBJE 196               41                0  7
-OBJE 197               41                0  7
+OBJE 196               41                0 17
+OBJE 197               41                0 17
 OBJE 198               41                0 17
 OBJE 199               41                0 17
 OBJE 200               41                0 17
@@ -54184,8 +54184,8 @@ OBJE 214               41                0 17
 OBJE 215               41                0 17
 OBJE 216               41                0 17
 OBJE 217               41                0 17
-OBJE 218               41                0 17
-OBJE 219               41                0 17
+OBJE 218               41                0  4
+OBJE 219               41                0  4
 OBJE 220               41                0  4
 OBJE 221               41                0  4
 OBJE 222               41                0  4
@@ -54226,13 +54226,13 @@ OBJE 256               41                0  4
 OBJE 257               41                0  4
 OBJE 258               41                0  4
 OBJE 259               41                0  4
-OBJE 260               41                0  4
-OBJE 261               41                0  4
+OBJE 260               41                0 28
+OBJE 261               41                0 28
 OBJE 262               41                0 28
 OBJE 263               41                0 28
 OBJE 264               41                0 28
-OBJE 265               41                0 28
-OBJE 266               41                0 28
+OBJE 265               41                0 27
+OBJE 266               41                0 27
 OBJE 267               41                0 27
 OBJE 268               41                0 27
 OBJE 269               41                0 27
@@ -54253,21 +54253,21 @@ OBJE 283               41                0 27
 OBJE 284               41                0 27
 OBJE 285               41                0 27
 OBJE 286               41                0 27
-OBJE 287               41                0 27
-OBJE 288               41                0 27
+OBJE 287               41                0 30
+OBJE 288               41                0 30
 OBJE 289               41                0 30
 OBJE 290               41                0 30
 OBJE 291               41                0 30
 OBJE 292               41                0 30
 OBJE 293               41                0 30
 OBJE 294               41                0 30
-OBJE 295               41                0 30
-OBJE 296               41                0 30
+OBJE 295               41                0  5
+OBJE 296               41                0  5
 OBJE 297               41                0  5
 OBJE 298               41                0  5
 OBJE 299               41                0  5
-OBJE 300               41                0  5
-OBJE 301               41                0  5
+OBJE 300               2                 0 17
+OBJE 301               2                 0 17
 OBJE 302               2                 0 17
 OBJE 303               2                 0 17
 OBJE 304               2                 0 17
@@ -54275,167 +54275,167 @@ OBJE 305               2                 0 17
 OBJE 306               2                 0 17
 OBJE 307               2                 0 17
 OBJE 308               2                 0 17
-OBJE 309               2                 0 17
-OBJE 310               2                 0 17
-OBJE 311               4                 0 12
-OBJE 312               5                 0 12
-OBJE 313               6                 0 12
-OBJE 314               7                 0  3
-OBJE 315               8                 0  3
-OBJE 316               10                0  3
-OBJE 317               11                0  3
-OBJE 318               1                 0  2
-OBJE 319               13                0  3
+OBJE 309               4                 0 12
+OBJE 310               5                 0 12
+OBJE 311               6                 0 12
+OBJE 312               7                 0  3
+OBJE 313               8                 0  3
+OBJE 314               10                0  3
+OBJE 315               11                0  3
+OBJE 316               1                 0  2
+OBJE 317               13                0  3
+OBJE 318               14                0 12
+OBJE 319               14                0  3
 OBJE 320               14                0 12
-OBJE 321               14                0  3
-OBJE 322               14                0 12
+OBJE 321               40                0  3
+OBJE 322               40                0  3
 OBJE 323               40                0  3
-OBJE 324               40                0  3
-OBJE 325               40                0  3
-OBJE 326               40                0 29
+OBJE 324               40                0 29
+OBJE 325               40                0 12
+OBJE 326               40                0 12
 OBJE 327               40                0 12
-OBJE 328               40                0 12
-OBJE 329               40                0 12
-OBJE 330               40                0  3
-OBJE 331               40                0  0
+OBJE 328               40                0  3
+OBJE 329               40                0  0
+OBJE 330               40                0 12
+OBJE 331               40                0 12
 OBJE 332               40                0 12
 OBJE 333               40                0 12
 OBJE 334               40                0 12
-OBJE 335               40                0 12
+OBJE 335               40                0  3
 OBJE 336               40                0 12
-OBJE 337               40                0  3
-OBJE 338               40                0 12
+OBJE 337               40                0 12
+OBJE 338               40                0  2
 OBJE 339               40                0 12
-OBJE 340               40                0  2
-OBJE 341               40                0 12
-OBJE 342               40                0 29
-OBJE 343               40                0  3
+OBJE 340               40                0 29
+OBJE 341               40                0  3
+OBJE 342               40                0  3
+OBJE 343               40                0 29
 OBJE 344               40                0  3
-OBJE 345               40                0 29
-OBJE 346               40                0  3
+OBJE 345               40                0  3
+OBJE 346               40                0  2
 OBJE 347               40                0  3
-OBJE 348               40                0  2
-OBJE 349               40                0  3
-OBJE 350               40                0  3
-OBJE 351               40                0  7
-OBJE 352               40                0  2
+OBJE 348               40                0  3
+OBJE 349               40                0  7
+OBJE 350               40                0  2
+OBJE 351               40                0  2
+OBJE 352               40                0  3
 OBJE 353               40                0  2
 OBJE 354               40                0  3
-OBJE 355               40                0  2
-OBJE 356               40                0  3
+OBJE 355               40                0  3
+OBJE 356               40                0  2
 OBJE 357               40                0  3
-OBJE 358               40                0  2
+OBJE 358               40                0  3
 OBJE 359               40                0  3
-OBJE 360               40                0  3
-OBJE 361               40                0  3
-OBJE 362               40                0 13
-OBJE 363               40                0 13
+OBJE 360               40                0 13
+OBJE 361               40                0 13
+OBJE 362               40                0  2
+OBJE 363               40                0  2
 OBJE 364               40                0  2
 OBJE 365               40                0  2
-OBJE 366               40                0  2
+OBJE 366               40                0 29
 OBJE 367               40                0  2
-OBJE 368               40                0 29
-OBJE 369               40                0  2
+OBJE 368               40                0  3
+OBJE 369               40                0 29
 OBJE 370               40                0  3
-OBJE 371               40                0 29
+OBJE 371               40                0  2
 OBJE 372               40                0  3
-OBJE 373               40                0  2
-OBJE 374               40                0  3
-OBJE 375               16                0  3
-OBJE 376               40                0 12
-OBJE 377               40                0 29
-OBJE 378               40                0 13
+OBJE 373               16                0  3
+OBJE 374               40                0 12
+OBJE 375               40                0 29
+OBJE 376               40                0 13
+OBJE 377               40                0  2
+OBJE 378               40                0  2
 OBJE 379               40                0  2
-OBJE 380               40                0  2
-OBJE 381               40                0  2
-OBJE 382               40                0 12
-OBJE 383               40                0 28
-OBJE 384               40                0  2
-OBJE 385               40                0 12
+OBJE 380               40                0 12
+OBJE 381               40                0 28
+OBJE 382               40                0  2
+OBJE 383               40                0 12
+OBJE 384               1                 0  3
+OBJE 385               1                 0  2
 OBJE 386               1                 0  3
 OBJE 387               1                 0  2
-OBJE 388               1                 0  3
-OBJE 389               1                 0  2
-OBJE 390               1                 0  2
-OBJE 391               40                0  4
+OBJE 388               1                 0  2
+OBJE 389               40                0  4
+OBJE 390               17                0 12
+OBJE 391               17                0  2
 OBJE 392               17                0 12
-OBJE 393               17                0  2
-OBJE 394               17                0 12
-OBJE 395               18                0 12
-OBJE 396               18                0 12
-OBJE 397               40                0  2
-OBJE 398               40                0  0
-OBJE 399               40                0  3
+OBJE 393               18                0 12
+OBJE 394               18                0 12
+OBJE 395               40                0  2
+OBJE 396               40                0  0
+OBJE 397               40                0  3
+OBJE 398               40                0  3
+OBJE 399               40                0 12
 OBJE 400               40                0  3
 OBJE 401               40                0 12
-OBJE 402               40                0  3
-OBJE 403               40                0 12
-OBJE 404               40                0 12
+OBJE 402               40                0 12
+OBJE 403               40                0  3
+OBJE 404               40                0  3
 OBJE 405               40                0  3
-OBJE 406               40                0  3
-OBJE 407               40                0  3
+OBJE 406               40                0 12
+OBJE 407               40                0 12
 OBJE 408               40                0 12
-OBJE 409               40                0 12
-OBJE 410               40                0 12
+OBJE 409               40                0  2
+OBJE 410               40                0  2
 OBJE 411               40                0  2
-OBJE 412               40                0  2
-OBJE 413               40                0  2
-OBJE 414               40                0 12
+OBJE 412               40                0 12
+OBJE 413               40                0 12
+OBJE 414               40                0  3
 OBJE 415               40                0 12
-OBJE 416               40                0  3
-OBJE 417               40                0 12
+OBJE 416               40                0 12
+OBJE 417               40                0  3
 OBJE 418               40                0 12
 OBJE 419               40                0  3
 OBJE 420               40                0 12
 OBJE 421               40                0  3
-OBJE 422               40                0 12
+OBJE 422               40                0  3
 OBJE 423               40                0  3
-OBJE 424               40                0  3
-OBJE 425               40                0  3
-OBJE 426               40                0  2
-OBJE 427               40                0 12
-OBJE 428               40                0 12
+OBJE 424               40                0  2
+OBJE 425               40                0 12
+OBJE 426               40                0 12
+OBJE 427               40                0  3
+OBJE 428               40                0  3
 OBJE 429               40                0  3
-OBJE 430               40                0  3
-OBJE 431               40                0  3
-OBJE 432               29                0 12
+OBJE 430               29                0 12
+OBJE 431               40                0 12
+OBJE 432               40                0 12
 OBJE 433               40                0 12
 OBJE 434               40                0 12
 OBJE 435               40                0 12
-OBJE 436               40                0 12
-OBJE 437               40                0 12
+OBJE 436               40                0  3
+OBJE 437               40                0  2
 OBJE 438               40                0  3
-OBJE 439               40                0  2
-OBJE 440               40                0  3
-OBJE 441               40                0 12
-OBJE 442               40                0 12
-OBJE 443               40                0  9
-OBJE 444               40                0  9
-OBJE 445               40                0  3
+OBJE 439               40                0 12
+OBJE 440               40                0 12
+OBJE 441               40                0  9
+OBJE 442               40                0  9
+OBJE 443               40                0  3
+OBJE 444               40                0  3
+OBJE 445               40                0 12
 OBJE 446               40                0  3
-OBJE 447               40                0 12
+OBJE 447               40                0  3
 OBJE 448               40                0  3
 OBJE 449               40                0  3
-OBJE 450               40                0  3
+OBJE 450               40                0  2
 OBJE 451               40                0  3
-OBJE 452               40                0  2
-OBJE 453               40                0  3
-OBJE 454               40                0  3
-OBJE 455               40                0 12
-OBJE 456               40                0 12
-OBJE 457               1                 0  0
-OBJE 458               19                0  9
-OBJE 459               20                0 12
+OBJE 452               40                0  3
+OBJE 453               40                0 12
+OBJE 454               40                0 12
+OBJE 455               1                 0  0
+OBJE 456               19                0  9
+OBJE 457               20                0 12
+OBJE 458               40                0 29
+OBJE 459               40                0  7
 OBJE 460               40                0 29
-OBJE 461               40                0  7
-OBJE 462               40                0 29
-OBJE 463               40                0 29
+OBJE 461               40                0 29
+OBJE 462               40                0 28
+OBJE 463               40                0 28
 OBJE 464               40                0 28
-OBJE 465               40                0 28
-OBJE 466               40                0 28
-OBJE 467               40                0 29
+OBJE 465               40                0 29
+OBJE 466               40                0 29
+OBJE 467               40                0 28
 OBJE 468               40                0 29
-OBJE 469               40                0 28
+OBJE 469               40                0 29
 OBJE 470               40                0 29
 OBJE 471               40                0 29
 OBJE 472               40                0 29
@@ -54450,24 +54450,24 @@ OBJE 480               40                0 29
 OBJE 481               40                0 29
 OBJE 482               40                0 29
 OBJE 483               40                0 29
-OBJE 484               40                0 29
+OBJE 484               40                0 42
 OBJE 485               40                0 29
-OBJE 486               40                0 42
+OBJE 486               40                0 29
 OBJE 487               40                0 29
 OBJE 488               40                0 29
 OBJE 489               40                0 29
 OBJE 490               40                0 29
-OBJE 491               40                0 29
-OBJE 492               40                0 29
-OBJE 493               40                0 12
-OBJE 494               40                0  4
-OBJE 495               40                0 42
-OBJE 496               40                0 42
-OBJE 497               40                0 29
+OBJE 491               40                0 12
+OBJE 492               40                0  4
+OBJE 493               40                0 42
+OBJE 494               40                0 42
+OBJE 495               40                0 29
+OBJE 496               40                0 28
+OBJE 497               40                0 28
 OBJE 498               40                0 28
 OBJE 499               40                0 28
-OBJE 500               40                0 28
-OBJE 501               40                0 28
+OBJE 500               40                0 29
+OBJE 501               40                0 29
 OBJE 502               40                0 29
 OBJE 503               40                0 29
 OBJE 504               40                0 29
@@ -54475,15 +54475,15 @@ OBJE 505               40                0 29
 OBJE 506               40                0 29
 OBJE 507               40                0 29
 OBJE 508               40                0 29
-OBJE 509               40                0 29
+OBJE 509               40                0  4
 OBJE 510               40                0 29
-OBJE 511               40                0  4
+OBJE 511               40                0 29
 OBJE 512               40                0 29
 OBJE 513               40                0 29
 OBJE 514               40                0 29
-OBJE 515               40                0 29
+OBJE 515               40                0  7
 OBJE 516               40                0 29
-OBJE 517               40                0  7
+OBJE 517               40                0 29
 OBJE 518               40                0 29
 OBJE 519               40                0 29
 OBJE 520               40                0 29
@@ -54496,58 +54496,58 @@ OBJE 526               40                0 29
 OBJE 527               40                0 29
 OBJE 528               40                0 29
 OBJE 529               40                0 29
-OBJE 530               40                0 29
-OBJE 531               40                0 29
-OBJE 532               22                0 42
-OBJE 533               22                0 42
-OBJE 534               40                0 28
+OBJE 530               22                0 42
+OBJE 531               22                0 42
+OBJE 532               40                0 28
+OBJE 533               40                0 29
+OBJE 534               40                0  4
 OBJE 535               40                0 29
-OBJE 536               40                0  4
+OBJE 536               40                0 28
 OBJE 537               40                0 29
-OBJE 538               40                0 28
+OBJE 538               40                0 29
 OBJE 539               40                0 29
 OBJE 540               40                0 29
 OBJE 541               40                0 29
 OBJE 542               40                0 29
 OBJE 543               40                0 29
-OBJE 544               40                0 29
-OBJE 545               40                0 29
+OBJE 544               40                0 27
+OBJE 545               40                0 28
 OBJE 546               40                0 27
-OBJE 547               40                0 28
-OBJE 548               40                0 27
+OBJE 547               40                0 29
+OBJE 548               40                0 28
 OBJE 549               40                0 29
-OBJE 550               40                0 28
+OBJE 550               40                0 29
 OBJE 551               40                0 29
 OBJE 552               40                0 29
 OBJE 553               40                0 29
-OBJE 554               40                0 29
-OBJE 555               40                0 29
+OBJE 554               40                0  0
+OBJE 555               40                0  2
 OBJE 556               40                0  0
-OBJE 557               40                0  2
+OBJE 557               40                0  0
 OBJE 558               40                0  0
-OBJE 559               40                0  0
-OBJE 560               40                0  0
-OBJE 561               21                0  3
-OBJE 562               1                 0 12
-OBJE 563               1                 0 12
-OBJE 564               1                 0  2
-OBJE 565               1                 0  0
-OBJE 566               1                 0 12
-OBJE 567               1                 0 12
+OBJE 559               21                0  3
+OBJE 560               1                 0 12
+OBJE 561               1                 0 12
+OBJE 562               1                 0  2
+OBJE 563               1                 0  0
+OBJE 564               1                 0 12
+OBJE 565               1                 0 12
+OBJE 566               1                 0  5
+OBJE 567               1                 0  5
 OBJE 568               1                 0  5
 OBJE 569               1                 0  5
 OBJE 570               1                 0  5
-OBJE 571               1                 0  5
-OBJE 572               1                 0  5
-OBJE 573               24                0 12
-OBJE 574               25                0 12
-OBJE 575               35                0  3
-OBJE 576               27                0 12
-OBJE 577               27                0 12
-OBJE 578               1                 0 12
+OBJE 571               24                0 12
+OBJE 572               25                0 12
+OBJE 573               35                0  3
+OBJE 574               27                0 12
+OBJE 575               27                0 12
+OBJE 576               1                 0 12
+OBJE 577               1                 0 12
+OBJE 578               1                 0  3
 OBJE 579               1                 0 12
-OBJE 580               1                 0  3
-OBJE 581               1                 0 12
+OBJE 580               40                0  0
+OBJE 581               40                0  0
 OBJE 582               40                0  0
 OBJE 583               40                0  0
 OBJE 584               40                0  0
@@ -54562,26 +54562,24 @@ OBJE 592               40                0  0
 OBJE 593               40                0  0
 OBJE 594               40                0  0
 OBJE 595               40                0  0
-OBJE 596               40                0  0
-OBJE 597               40                0  0
-OBJE 598               29                0 12
-OBJE 599               29                0 12
-OBJE 600               30                0 12
-OBJE 601               30                0 12
-OBJE 602               31                0 12
-OBJE 603               31                0  3
+OBJE 596               29                0 12
+OBJE 597               29                0 12
+OBJE 598               30                0 12
+OBJE 599               30                0 12
+OBJE 600               31                0 12
+OBJE 601               31                0  3
+OBJE 602               32                0 12
+OBJE 603               32                0 12
 OBJE 604               32                0 12
-OBJE 605               32                0 12
-OBJE 606               32                0 12
-OBJE 607               32                0 45
-OBJE 608               33                0 12
-OBJE 609               34                0 12
-OBJE 610               34                0  3
-OBJE 611               37                0  2
-OBJE 612               38                0  3
-OBJE 613               39                0  3
-OBJE 614               39                0  3
-OBJE 615               39                0  2
+OBJE 605               32                0 45
+OBJE 606               33                0 12
+OBJE 607               34                0 12
+OBJE 608               34                0  3
+OBJE 609               37                0  2
+OBJE 610               38                0  3
+OBJE 611               39                0  3
+OBJE 612               39                0  3
+OBJE 613               39                0  2
 ETAB
 TABL Flaechenelement
 OBJE 1                 1                
@@ -54720,326 +54718,326 @@ OBJE 133               178
 OBJE 134               179              
 OBJE 135               180              
 OBJE 136               181              
-OBJE 137               185              
-OBJE 138               186              
-OBJE 139               187              
-OBJE 140               188              
-OBJE 141               189              
-OBJE 142               190              
-OBJE 143               191              
-OBJE 144               192              
-OBJE 145               193              
-OBJE 146               194              
-OBJE 147               195              
-OBJE 148               196              
-OBJE 149               197              
-OBJE 150               220              
-OBJE 151               221              
-OBJE 152               222              
-OBJE 153               223              
-OBJE 154               224              
-OBJE 155               225              
-OBJE 156               230              
-OBJE 157               231              
-OBJE 158               232              
-OBJE 159               234              
-OBJE 160               235              
-OBJE 161               236              
-OBJE 162               237              
-OBJE 163               238              
-OBJE 164               239              
-OBJE 165               240              
-OBJE 166               241              
-OBJE 167               242              
-OBJE 168               243              
-OBJE 169               244              
-OBJE 170               245              
-OBJE 171               246              
-OBJE 172               250              
-OBJE 173               251              
-OBJE 174               252              
-OBJE 175               253              
-OBJE 176               254              
-OBJE 177               257              
-OBJE 178               258              
-OBJE 179               259              
-OBJE 180               261              
-OBJE 181               297              
-OBJE 182               298              
-OBJE 183               299              
-OBJE 184               300              
-OBJE 185               301              
-OBJE 186               311              
-OBJE 187               312              
-OBJE 188               313              
-OBJE 189               314              
-OBJE 190               315              
-OBJE 191               316              
-OBJE 192               317              
-OBJE 193               318              
-OBJE 194               319              
-OBJE 195               320              
-OBJE 196               321              
-OBJE 197               322              
-OBJE 198               323              
-OBJE 199               324              
-OBJE 200               325              
-OBJE 201               326              
-OBJE 202               327              
-OBJE 203               328              
-OBJE 204               329              
-OBJE 205               330              
-OBJE 206               331              
-OBJE 207               332              
-OBJE 208               333              
-OBJE 209               334              
-OBJE 210               335              
-OBJE 211               336              
-OBJE 212               338              
-OBJE 213               339              
-OBJE 214               340              
-OBJE 215               341              
-OBJE 216               342              
-OBJE 217               343              
-OBJE 218               344              
-OBJE 219               345              
-OBJE 220               347              
-OBJE 221               348              
-OBJE 222               349              
-OBJE 223               351              
-OBJE 224               352              
-OBJE 225               353              
-OBJE 226               355              
-OBJE 227               356              
-OBJE 228               358              
-OBJE 229               359              
-OBJE 230               362              
-OBJE 231               363              
-OBJE 232               364              
-OBJE 233               365              
-OBJE 234               366              
-OBJE 235               367              
-OBJE 236               368              
-OBJE 237               369              
-OBJE 238               370              
-OBJE 239               371              
-OBJE 240               372              
-OBJE 241               373              
-OBJE 242               374              
-OBJE 243               375              
-OBJE 244               376              
-OBJE 245               377              
-OBJE 246               378              
-OBJE 247               379              
-OBJE 248               380              
-OBJE 249               381              
-OBJE 250               382              
-OBJE 251               384              
-OBJE 252               385              
-OBJE 253               386              
-OBJE 254               387              
-OBJE 255               389              
-OBJE 256               390              
-OBJE 257               391              
-OBJE 258               392              
-OBJE 259               393              
-OBJE 260               394              
-OBJE 261               395              
-OBJE 262               396              
-OBJE 263               397              
-OBJE 264               398              
-OBJE 265               399              
-OBJE 266               400              
-OBJE 267               401              
-OBJE 268               403              
-OBJE 269               404              
-OBJE 270               408              
-OBJE 271               409              
-OBJE 272               410              
-OBJE 273               411              
-OBJE 274               412              
-OBJE 275               413              
-OBJE 276               414              
-OBJE 277               415              
-OBJE 278               417              
-OBJE 279               418              
-OBJE 280               420              
-OBJE 281               421              
-OBJE 282               422              
-OBJE 283               423              
-OBJE 284               425              
-OBJE 285               426              
-OBJE 286               427              
-OBJE 287               428              
-OBJE 288               431              
-OBJE 289               432              
-OBJE 290               433              
-OBJE 291               434              
-OBJE 292               435              
-OBJE 293               436              
-OBJE 294               437              
-OBJE 295               438              
-OBJE 296               439              
-OBJE 297               441              
-OBJE 298               442              
-OBJE 299               443              
-OBJE 300               444              
-OBJE 301               445              
-OBJE 302               446              
-OBJE 303               447              
-OBJE 304               448              
-OBJE 305               449              
-OBJE 306               450              
-OBJE 307               452              
-OBJE 308               453              
-OBJE 309               454              
-OBJE 310               455              
-OBJE 311               456              
-OBJE 312               457              
-OBJE 313               458              
-OBJE 314               459              
-OBJE 315               460              
-OBJE 316               461              
-OBJE 317               462              
-OBJE 318               463              
-OBJE 319               467              
-OBJE 320               468              
-OBJE 321               470              
-OBJE 322               471              
-OBJE 323               472              
-OBJE 324               473              
-OBJE 325               474              
-OBJE 326               475              
-OBJE 327               476              
-OBJE 328               477              
-OBJE 329               478              
-OBJE 330               479              
-OBJE 331               480              
-OBJE 332               481              
-OBJE 333               482              
-OBJE 334               483              
-OBJE 335               484              
-OBJE 336               485              
-OBJE 337               487              
-OBJE 338               488              
-OBJE 339               489              
-OBJE 340               490              
-OBJE 341               491              
-OBJE 342               492              
-OBJE 343               493              
-OBJE 344               255              
-OBJE 345               494              
-OBJE 346               497              
-OBJE 347               502              
-OBJE 348               503              
-OBJE 349               504              
-OBJE 350               505              
-OBJE 351               506              
-OBJE 352               507              
-OBJE 353               508              
-OBJE 354               509              
-OBJE 355               510              
-OBJE 356               511              
-OBJE 357               512              
-OBJE 358               513              
-OBJE 359               514              
-OBJE 360               515              
-OBJE 361               516              
-OBJE 362               517              
-OBJE 363               518              
-OBJE 364               519              
-OBJE 365               520              
-OBJE 366               521              
-OBJE 367               522              
-OBJE 368               523              
-OBJE 369               524              
-OBJE 370               525              
-OBJE 371               526              
-OBJE 372               527              
-OBJE 373               528              
-OBJE 374               529              
-OBJE 375               247              
-OBJE 376               248              
-OBJE 377               530              
-OBJE 378               531              
-OBJE 379               535              
-OBJE 380               229              
-OBJE 381               536              
-OBJE 382               537              
-OBJE 383               539              
-OBJE 384               540              
-OBJE 385               541              
-OBJE 386               542              
-OBJE 387               543              
-OBJE 388               544              
-OBJE 389               545              
-OBJE 390               228              
-OBJE 391               233              
-OBJE 392               227              
-OBJE 393               549              
-OBJE 394               551              
-OBJE 395               552              
-OBJE 396               553              
-OBJE 397               554              
-OBJE 398               555              
-OBJE 399               556              
-OBJE 400               557              
-OBJE 401               558              
-OBJE 402               559              
-OBJE 403               560              
-OBJE 404               562              
-OBJE 405               563              
-OBJE 406               564              
-OBJE 407               565              
-OBJE 408               566              
-OBJE 409               567              
-OBJE 410               568              
-OBJE 411               569              
-OBJE 412               570              
-OBJE 413               571              
-OBJE 414               572              
-OBJE 415               573              
-OBJE 416               574              
-OBJE 417               575              
-OBJE 418               576              
-OBJE 419               577              
-OBJE 420               578              
-OBJE 421               579              
-OBJE 422               580              
-OBJE 423               581              
-OBJE 424               582              
-OBJE 425               583              
-OBJE 426               584              
-OBJE 427               585              
-OBJE 428               586              
-OBJE 429               587              
-OBJE 430               588              
-OBJE 431               589              
-OBJE 432               590              
-OBJE 433               591              
-OBJE 434               592              
-OBJE 435               593              
-OBJE 436               594              
-OBJE 437               595              
-OBJE 438               596              
-OBJE 439               597              
-OBJE 440               598              
-OBJE 441               599              
-OBJE 442               600              
-OBJE 443               601              
-OBJE 444               602              
-OBJE 445               603              
-OBJE 446               604              
-OBJE 447               605              
-OBJE 448               606              
-OBJE 449               607              
-OBJE 450               608              
-OBJE 451               609              
-OBJE 452               610              
-OBJE 453               611              
-OBJE 454               612              
-OBJE 455               613              
-OBJE 456               615              
+OBJE 137               183              
+OBJE 138               184              
+OBJE 139               185              
+OBJE 140               186              
+OBJE 141               187              
+OBJE 142               188              
+OBJE 143               189              
+OBJE 144               190              
+OBJE 145               191              
+OBJE 146               192              
+OBJE 147               193              
+OBJE 148               194              
+OBJE 149               195              
+OBJE 150               218              
+OBJE 151               219              
+OBJE 152               220              
+OBJE 153               221              
+OBJE 154               222              
+OBJE 155               223              
+OBJE 156               228              
+OBJE 157               229              
+OBJE 158               230              
+OBJE 159               232              
+OBJE 160               233              
+OBJE 161               234              
+OBJE 162               235              
+OBJE 163               236              
+OBJE 164               237              
+OBJE 165               238              
+OBJE 166               239              
+OBJE 167               240              
+OBJE 168               241              
+OBJE 169               242              
+OBJE 170               243              
+OBJE 171               244              
+OBJE 172               248              
+OBJE 173               249              
+OBJE 174               250              
+OBJE 175               251              
+OBJE 176               252              
+OBJE 177               255              
+OBJE 178               256              
+OBJE 179               257              
+OBJE 180               259              
+OBJE 181               295              
+OBJE 182               296              
+OBJE 183               297              
+OBJE 184               298              
+OBJE 185               299              
+OBJE 186               309              
+OBJE 187               310              
+OBJE 188               311              
+OBJE 189               312              
+OBJE 190               313              
+OBJE 191               314              
+OBJE 192               315              
+OBJE 193               316              
+OBJE 194               317              
+OBJE 195               318              
+OBJE 196               319              
+OBJE 197               320              
+OBJE 198               321              
+OBJE 199               322              
+OBJE 200               323              
+OBJE 201               324              
+OBJE 202               325              
+OBJE 203               326              
+OBJE 204               327              
+OBJE 205               328              
+OBJE 206               329              
+OBJE 207               330              
+OBJE 208               331              
+OBJE 209               332              
+OBJE 210               333              
+OBJE 211               334              
+OBJE 212               336              
+OBJE 213               337              
+OBJE 214               338              
+OBJE 215               339              
+OBJE 216               340              
+OBJE 217               341              
+OBJE 218               342              
+OBJE 219               343              
+OBJE 220               345              
+OBJE 221               346              
+OBJE 222               347              
+OBJE 223               349              
+OBJE 224               350              
+OBJE 225               351              
+OBJE 226               353              
+OBJE 227               354              
+OBJE 228               356              
+OBJE 229               357              
+OBJE 230               360              
+OBJE 231               361              
+OBJE 232               362              
+OBJE 233               363              
+OBJE 234               364              
+OBJE 235               365              
+OBJE 236               366              
+OBJE 237               367              
+OBJE 238               368              
+OBJE 239               369              
+OBJE 240               370              
+OBJE 241               371              
+OBJE 242               372              
+OBJE 243               373              
+OBJE 244               374              
+OBJE 245               375              
+OBJE 246               376              
+OBJE 247               377              
+OBJE 248               378              
+OBJE 249               379              
+OBJE 250               380              
+OBJE 251               382              
+OBJE 252               383              
+OBJE 253               384              
+OBJE 254               385              
+OBJE 255               387              
+OBJE 256               388              
+OBJE 257               389              
+OBJE 258               390              
+OBJE 259               391              
+OBJE 260               392              
+OBJE 261               393              
+OBJE 262               394              
+OBJE 263               395              
+OBJE 264               396              
+OBJE 265               397              
+OBJE 266               398              
+OBJE 267               399              
+OBJE 268               401              
+OBJE 269               402              
+OBJE 270               406              
+OBJE 271               407              
+OBJE 272               408              
+OBJE 273               409              
+OBJE 274               410              
+OBJE 275               411              
+OBJE 276               412              
+OBJE 277               413              
+OBJE 278               415              
+OBJE 279               416              
+OBJE 280               418              
+OBJE 281               419              
+OBJE 282               420              
+OBJE 283               421              
+OBJE 284               423              
+OBJE 285               424              
+OBJE 286               425              
+OBJE 287               426              
+OBJE 288               429              
+OBJE 289               430              
+OBJE 290               431              
+OBJE 291               432              
+OBJE 292               433              
+OBJE 293               434              
+OBJE 294               435              
+OBJE 295               436              
+OBJE 296               437              
+OBJE 297               439              
+OBJE 298               440              
+OBJE 299               441              
+OBJE 300               442              
+OBJE 301               443              
+OBJE 302               444              
+OBJE 303               445              
+OBJE 304               446              
+OBJE 305               447              
+OBJE 306               448              
+OBJE 307               450              
+OBJE 308               451              
+OBJE 309               452              
+OBJE 310               453              
+OBJE 311               454              
+OBJE 312               455              
+OBJE 313               456              
+OBJE 314               457              
+OBJE 315               458              
+OBJE 316               459              
+OBJE 317               460              
+OBJE 318               461              
+OBJE 319               465              
+OBJE 320               466              
+OBJE 321               468              
+OBJE 322               469              
+OBJE 323               470              
+OBJE 324               471              
+OBJE 325               472              
+OBJE 326               473              
+OBJE 327               474              
+OBJE 328               475              
+OBJE 329               476              
+OBJE 330               477              
+OBJE 331               478              
+OBJE 332               479              
+OBJE 333               480              
+OBJE 334               481              
+OBJE 335               482              
+OBJE 336               483              
+OBJE 337               485              
+OBJE 338               486              
+OBJE 339               487              
+OBJE 340               488              
+OBJE 341               489              
+OBJE 342               490              
+OBJE 343               491              
+OBJE 344               253              
+OBJE 345               492              
+OBJE 346               495              
+OBJE 347               500              
+OBJE 348               501              
+OBJE 349               502              
+OBJE 350               503              
+OBJE 351               504              
+OBJE 352               505              
+OBJE 353               506              
+OBJE 354               507              
+OBJE 355               508              
+OBJE 356               509              
+OBJE 357               510              
+OBJE 358               511              
+OBJE 359               512              
+OBJE 360               513              
+OBJE 361               514              
+OBJE 362               515              
+OBJE 363               516              
+OBJE 364               517              
+OBJE 365               518              
+OBJE 366               519              
+OBJE 367               520              
+OBJE 368               521              
+OBJE 369               522              
+OBJE 370               523              
+OBJE 371               524              
+OBJE 372               525              
+OBJE 373               526              
+OBJE 374               527              
+OBJE 375               245              
+OBJE 376               246              
+OBJE 377               528              
+OBJE 378               529              
+OBJE 379               533              
+OBJE 380               227              
+OBJE 381               534              
+OBJE 382               535              
+OBJE 383               537              
+OBJE 384               538              
+OBJE 385               539              
+OBJE 386               540              
+OBJE 387               541              
+OBJE 388               542              
+OBJE 389               543              
+OBJE 390               226              
+OBJE 391               231              
+OBJE 392               225              
+OBJE 393               547              
+OBJE 394               549              
+OBJE 395               550              
+OBJE 396               551              
+OBJE 397               552              
+OBJE 398               553              
+OBJE 399               554              
+OBJE 400               555              
+OBJE 401               556              
+OBJE 402               557              
+OBJE 403               558              
+OBJE 404               560              
+OBJE 405               561              
+OBJE 406               562              
+OBJE 407               563              
+OBJE 408               564              
+OBJE 409               565              
+OBJE 410               566              
+OBJE 411               567              
+OBJE 412               568              
+OBJE 413               569              
+OBJE 414               570              
+OBJE 415               571              
+OBJE 416               572              
+OBJE 417               573              
+OBJE 418               574              
+OBJE 419               575              
+OBJE 420               576              
+OBJE 421               577              
+OBJE 422               578              
+OBJE 423               579              
+OBJE 424               580              
+OBJE 425               581              
+OBJE 426               582              
+OBJE 427               583              
+OBJE 428               584              
+OBJE 429               585              
+OBJE 430               586              
+OBJE 431               587              
+OBJE 432               588              
+OBJE 433               589              
+OBJE 434               590              
+OBJE 435               591              
+OBJE 436               592              
+OBJE 437               593              
+OBJE 438               594              
+OBJE 439               595              
+OBJE 440               596              
+OBJE 441               597              
+OBJE 442               598              
+OBJE 443               599              
+OBJE 444               600              
+OBJE 445               601              
+OBJE 446               602              
+OBJE 447               603              
+OBJE 448               604              
+OBJE 449               605              
+OBJE 450               606              
+OBJE 451               607              
+OBJE 452               608              
+OBJE 453               609              
+OBJE 454               610              
+OBJE 455               611              
+OBJE 456               613              
 ETAB
 TABL Flaechenelement_Geometrie
 OBJE 1                 1                
@@ -62791,157 +62789,149 @@ STPT 612724.186 239357.370
 LIPT 612724.120 239357.679
 LIPT 612724.057 239357.983
 ELIN
-OBJE 44                183              
-STPT 612724.448 239356.190
-LIPT 612726.931 239356.655
-ELIN
-OBJE 45                184              
-STPT 612724.538 239355.693
-LIPT 612727.496 239356.260
-ELIN
-OBJE 46                198              
+OBJE 44                196              
 STPT 612653.378 238883.647
 LIPT 612647.870 238885.808
 LIPT 612655.801 238889.567
 LIPT 612650.294 238891.728
 ELIN
-OBJE 47                199              
+OBJE 45                197              
 STPT 611649.838 239304.197
 LIPT 611655.639 239301.867
 LIPT 611647.480 239298.511
 LIPT 611653.280 239296.181
 ELIN
-OBJE 48                200              
+OBJE 46                198              
 STPT 610513.384 240043.857
 LIPT 610510.210 240048.949
 LIPT 610518.476 240047.031
 LIPT 610515.302 240052.123
 ELIN
-OBJE 49                201              
+OBJE 47                199              
 STPT 609941.251 241476.362
 LIPT 609939.654 241482.145
 LIPT 609947.034 241477.959
 LIPT 609945.437 241483.742
 ELIN
-OBJE 50                202              
+OBJE 48                200              
 STPT 609789.845 241479.517
 LIPT 609788.204 241485.288
 LIPT 609795.616 241481.158
 LIPT 609793.975 241486.929
 ELIN
-OBJE 51                204              
+OBJE 49                202              
 STPT 610060.511 240625.242
 LIPT 610059.485 240631.154
 LIPT 610066.423 240626.268
 LIPT 610065.397 240632.180
 ELIN
-OBJE 52                205              
+OBJE 50                203              
 STPT 610079.404 240478.500
 LIPT 610077.929 240484.315
 LIPT 610085.219 240479.975
 LIPT 610083.744 240485.790
 ELIN
-OBJE 53                206              
+OBJE 51                204              
 STPT 610156.421 240173.143
 LIPT 610158.738 240167.608
 LIPT 610161.956 240175.460
 LIPT 610164.273 240169.925
 ELIN
-OBJE 54                207              
+OBJE 52                205              
 STPT 612884.603 238798.654
 LIPT 612891.995 238791.365
 LIPT 612877.417 238791.367
 LIPT 612884.810 238784.077
 ELIN
-OBJE 55                208              
+OBJE 53                206              
 STPT 612331.470 239023.259
 LIPT 612337.590 239020.766
 LIPT 612329.034 239017.217
 LIPT 612335.154 239014.723
 ELIN
-OBJE 56                209              
+OBJE 54                207              
 STPT 612022.106 239143.861
 LIPT 612024.675 239149.821
 LIPT 612016.042 239146.322
 LIPT 612018.612 239152.282
 ELIN
-OBJE 57                210              
+OBJE 55                208              
 STPT 610177.461 240640.348
 LIPT 610179.772 240634.811
 LIPT 610171.924 240638.037
 LIPT 610174.235 240632.500
 ELIN
-OBJE 58                211              
+OBJE 56                209              
 STPT 610048.264 241087.575
 LIPT 610053.982 241088.979
 LIPT 610049.899 241081.822
 LIPT 610055.691 241083.309
 ELIN
-OBJE 59                212              
+OBJE 57                210              
 STPT 609909.277 241611.330
 LIPT 609910.144 241611.569
 LIPT 609911.741 241605.786
 LIPT 609905.958 241604.189
 LIPT 609905.130 241607.188
 ELIN
-OBJE 60                213              
+OBJE 58                211              
 STPT 609807.257 241491.028
 LIPT 609813.004 241492.753
 LIPT 609808.982 241485.281
 LIPT 609814.729 241487.006
 ELIN
-OBJE 61                214              
+OBJE 59                212              
 STPT 609923.340 241010.235
 LIPT 609929.132 241011.801
 LIPT 609924.906 241004.443
 LIPT 609930.698 241006.009
 ELIN
-OBJE 62                215              
+OBJE 60                213              
 STPT 609947.449 241024.115
 LIPT 609953.246 241025.666
 LIPT 609949.000 241018.318
 LIPT 609954.797 241019.869
 ELIN
-OBJE 63                216              
+OBJE 61                214              
 STPT 609969.276 241038.636
 LIPT 609975.072 241040.190
 LIPT 609970.830 241032.840
 LIPT 609976.626 241034.394
 ELIN
-OBJE 64                217              
+OBJE 62                215              
 STPT 610042.398 240621.477
 LIPT 610048.223 240622.918
 LIPT 610043.839 240615.652
 LIPT 610049.664 240617.093
 ELIN
-OBJE 65                218              
+OBJE 63                216              
 STPT 610120.603 240340.148
 LIPT 610114.788 240338.671
 LIPT 610122.080 240334.333
 LIPT 610116.265 240332.856
 ELIN
-OBJE 66                219              
+OBJE 64                217              
 STPT 610031.646 240612.729
 LIPT 610027.101 240615.022
 ELIN
-OBJE 67                226              
+OBJE 65                224              
 STPT 608998.465 240464.767
 LIPT 608995.127 240459.915
 ELIN
-OBJE 68                249              
+OBJE 66                247              
 STPT 611552.252 240718.745
 LIPT 611565.648 240719.794
 ELIN
-OBJE 69                256              
+OBJE 67                254              
 STPT 612186.470 242097.270
 LIPT 612154.662 242120.742
 ELIN
-OBJE 70                260              
+OBJE 68                258              
 STPT 610646.309 239844.969
 LIPT 610649.882 239842.505
 LIPT 610651.147 239841.633
 ELIN
-OBJE 71                262              
+OBJE 69                260              
 STPT 610758.260 241328.030
 LIPT 610759.501 241333.228
 LIPT 610763.394 241349.501
@@ -62974,7 +62964,7 @@ LIPT 610470.130 241616.540
 LIPT 610463.420 241618.570
 LIPT 610442.989 241625.974
 ELIN
-OBJE 72                263              
+OBJE 70                261              
 STPT 611144.988 241032.531
 LIPT 611141.920 241034.790
 LIPT 611124.180 241054.150
@@ -62995,7 +62985,7 @@ LIPT 611115.941 241294.759
 LIPT 611113.790 241317.909
 LIPT 611113.641 241320.456
 ELIN
-OBJE 73                264              
+OBJE 71                262              
 STPT 610398.082 240935.270
 LIPT 610394.629 240931.607
 LIPT 610369.083 240910.110
@@ -63031,7 +63021,7 @@ LIPT 609782.400 240350.150
 LIPT 609761.410 240336.660
 LIPT 609760.161 240335.367
 ELIN
-OBJE 74                265              
+OBJE 72                263              
 STPT 612621.109 240440.235
 LIPT 612622.112 240435.915
 LIPT 612618.737 240420.917
@@ -63048,7 +63038,7 @@ LIPT 612715.313 240388.213
 LIPT 612772.466 240394.813
 LIPT 612777.927 240394.538
 ELIN
-OBJE 75                266              
+OBJE 73                264              
 STPT 608808.022 241070.274
 LIPT 608807.641 241068.945
 LIPT 608804.210 241056.990
@@ -63066,7 +63056,7 @@ LIPT 608680.990 240852.830
 LIPT 608677.210 240846.570
 LIPT 608673.560 240832.290
 ELIN
-OBJE 76                267              
+OBJE 74                265              
 STPT 612370.680 242206.860
 LIPT 612356.040 242211.450
 LIPT 612331.430 242223.330
@@ -63074,7 +63064,7 @@ LIPT 612322.230 242223.810
 LIPT 612309.970 242234.900
 LIPT 612301.710 242240.001
 ELIN
-OBJE 77                268              
+OBJE 75                266              
 STPT 612264.510 241915.830
 LIPT 612260.790 241925.650
 LIPT 612250.230 241937.120
@@ -63092,7 +63082,7 @@ LIPT 612219.720 242076.140
 LIPT 612215.430 242081.810
 LIPT 612186.470 242097.270
 ELIN
-OBJE 78                269              
+OBJE 76                267              
 STPT 612076.650 242446.300
 LIPT 612040.680 242446.470
 LIPT 611967.673 242462.351
@@ -63117,7 +63107,7 @@ LIPT 611908.071 242499.446
 LIPT 611908.047 242500.318
 LIPT 611906.344 242501.435
 ELIN
-OBJE 79                270              
+OBJE 77                268              
 STPT 611611.020 241840.000
 LIPT 611617.360 241834.690
 LIPT 611627.530 241832.251
@@ -63169,7 +63159,7 @@ LIPT 611709.713 241823.410
 LIPT 611712.879 241823.042
 LIPT 611719.681 241823.009
 ELIN
-OBJE 80                271              
+OBJE 78                269              
 STPT 611478.750 241676.620
 LIPT 611491.290 241686.690
 LIPT 611507.430 241705.490
@@ -63196,7 +63186,7 @@ LIPT 611627.739 241923.094
 LIPT 611630.592 241940.096
 LIPT 611631.769 241958.466
 ELIN
-OBJE 81                272              
+OBJE 79                270              
 STPT 611179.640 241884.490
 LIPT 611186.150 241881.410
 LIPT 611190.420 241882.600
@@ -63238,7 +63228,7 @@ LIPT 611621.241 241945.187
 LIPT 611624.851 241952.840
 LIPT 611631.769 241958.466
 ELIN
-OBJE 82                273              
+OBJE 80                271              
 STPT 611209.390 241802.760
 LIPT 611220.670 241801.950
 LIPT 611231.120 241803.750
@@ -63252,7 +63242,7 @@ LIPT 611292.970 241830.760
 LIPT 611311.060 241833.480
 LIPT 611317.040 241829.460
 ELIN
-OBJE 83                274              
+OBJE 81                272              
 STPT 611138.480 241638.470
 LIPT 611169.690 241655.570
 LIPT 611260.020 241715.670
@@ -63262,7 +63252,7 @@ LIPT 611332.970 241788.640
 LIPT 611339.520 241820.520
 LIPT 611342.980 241825.030
 ELIN
-OBJE 84                275              
+OBJE 82                273              
 STPT 610576.550 241802.750
 LIPT 610586.450 241815.780
 LIPT 610600.400 241826.330
@@ -63272,7 +63262,7 @@ LIPT 610637.630 241858.010
 LIPT 610657.070 241872.580
 LIPT 610663.404 241885.933
 ELIN
-OBJE 85                276              
+OBJE 83                274              
 STPT 611289.739 240690.414
 LIPT 611294.814 240693.632
 LIPT 611296.022 240695.894
@@ -63320,7 +63310,7 @@ LIPT 611539.920 240717.684
 LIPT 611544.188 240718.776
 LIPT 611552.252 240718.745
 ELIN
-OBJE 86                277              
+OBJE 84                275              
 STPT 610240.819 239999.884
 LIPT 610244.550 240001.110
 LIPT 610251.430 240001.400
@@ -63355,7 +63345,7 @@ LIPT 610636.510 239860.650
 LIPT 610645.730 239845.370
 LIPT 610646.309 239844.969
 ELIN
-OBJE 87                278              
+OBJE 85                276              
 STPT 609731.810 241104.010
 LIPT 609724.030 241100.780
 LIPT 609716.310 241100.690
@@ -63572,7 +63562,7 @@ LIPT 609306.207 240720.505
 LIPT 609304.026 240720.367
 LIPT 609301.799 240720.372
 ELIN
-OBJE 88                279              
+OBJE 86                277              
 STPT 610132.340 240765.150
 LIPT 610121.570 240766.750
 LIPT 610111.970 240765.330
@@ -63583,7 +63573,7 @@ LIPT 610004.500 240777.730
 LIPT 609982.560 240780.760
 LIPT 609980.382 240782.168
 ELIN
-OBJE 89                280              
+OBJE 87                278              
 STPT 611202.580 241762.350
 LIPT 611213.990 241764.370
 LIPT 611235.630 241787.840
@@ -63592,13 +63582,13 @@ LIPT 611244.810 241803.510
 LIPT 611247.420 241805.590
 LIPT 611249.200 241811.720
 ELIN
-OBJE 90                281              
+OBJE 88                279              
 STPT 611964.959 239413.393
 LIPT 611975.988 239405.877
 LIPT 611989.784 239392.136
 LIPT 611994.231 239367.573
 ELIN
-OBJE 91                282              
+OBJE 89                280              
 STPT 610268.290 240142.820
 LIPT 610265.690 240134.950
 LIPT 610264.930 240132.560
@@ -63625,7 +63615,7 @@ LIPT 610259.600 240014.950
 LIPT 610263.510 240012.960
 LIPT 610264.210 240008.690
 ELIN
-OBJE 92                283              
+OBJE 90                281              
 STPT 609141.524 240126.505
 LIPT 609136.220 240135.830
 LIPT 609117.750 240139.970
@@ -63651,7 +63641,7 @@ LIPT 609023.709 240302.281
 LIPT 609016.833 240315.238
 LIPT 609012.382 240324.070
 ELIN
-OBJE 93                284              
+OBJE 91                282              
 STPT 608998.465 240464.767
 LIPT 609001.514 240467.016
 LIPT 609002.945 240467.517
@@ -63765,14 +63755,14 @@ LIPT 609214.869 240636.337
 LIPT 609215.999 240639.810
 LIPT 609217.255 240641.809
 ELIN
-OBJE 94                285              
+OBJE 92                283              
 STPT 610057.470 240806.960
 LIPT 610034.840 240805.950
 LIPT 609992.960 240798.130
 LIPT 609986.840 240797.970
 LIPT 609976.771 240793.577
 ELIN
-OBJE 95                286              
+OBJE 93                284              
 STPT 610095.070 240956.650
 LIPT 610038.280 240925.740
 LIPT 610008.290 240915.670
@@ -63782,7 +63772,7 @@ LIPT 609983.540 240886.150
 LIPT 609961.190 240877.820
 LIPT 609952.391 240872.945
 ELIN
-OBJE 96                287              
+OBJE 94                285              
 STPT 610651.147 239841.633
 LIPT 610652.310 239840.830
 LIPT 610661.150 239836.230
@@ -63799,7 +63789,7 @@ LIPT 610750.380 239769.620
 LIPT 610757.130 239766.620
 LIPT 610765.670 239765.850
 ELIN
-OBJE 97                288              
+OBJE 95                286              
 STPT 610780.201 239764.942
 LIPT 610797.200 239763.880
 LIPT 610812.100 239755.650
@@ -63819,13 +63809,13 @@ LIPT 610906.490 239730.740
 LIPT 610918.430 239708.660
 LIPT 610919.215 239708.387
 ELIN
-OBJE 98                289              
+OBJE 96                287              
 STPT 610081.574 240482.145
 LIPT 610118.434 240336.502
 LIPT 610160.347 240171.534
 LIPT 610277.021 239979.728
 ELIN
-OBJE 99                290              
+OBJE 97                288              
 STPT 612083.474 238046.547
 LIPT 612117.547 237935.110
 LIPT 612163.001 237787.477
@@ -63833,26 +63823,26 @@ LIPT 612211.298 237629.894
 LIPT 612266.036 237453.681
 LIPT 612283.260 237397.251
 ELIN
-OBJE 100               291              
+OBJE 98                289              
 STPT 610027.704 240615.241
 LIPT 610027.858 240614.640
 LIPT 610081.574 240482.145
 ELIN
-OBJE 101               292              
+OBJE 99                290              
 STPT 610081.574 240482.145
 LIPT 610046.031 240619.285
 LIPT 609951.123 241021.992
 LIPT 609810.993 241489.017
 LIPT 609809.954 241495.741
 ELIN
-OBJE 102               293              
+OBJE 100               291              
 STPT 610081.574 240482.145
 LIPT 610062.954 240628.711
 LIPT 609972.951 241036.515
 LIPT 609826.113 241500.167
 LIPT 609825.478 241501.687
 ELIN
-OBJE 103               294              
+OBJE 101               292              
 STPT 613385.694 237387.316
 LIPT 613329.590 237546.810
 LIPT 613264.420 237727.300
@@ -63867,7 +63857,7 @@ LIPT 611744.643 239261.794
 LIPT 611651.558 239300.188
 LIPT 611618.313 239313.901
 ELIN
-OBJE 104               295              
+OBJE 102               293              
 STPT 610622.612 239874.247
 LIPT 610514.343 240047.990
 LIPT 610264.355 240482.425
@@ -63877,398 +63867,398 @@ LIPT 609943.344 241480.052
 LIPT 609908.051 241607.879
 LIPT 609907.572 241609.625
 ELIN
-OBJE 105               296              
+OBJE 103               294              
 STPT 610004.638 240705.527
 LIPT 609927.019 241008.122
 LIPT 609791.910 241483.223
 LIPT 609792.448 241489.037
 ELIN
-OBJE 106               297              
+OBJE 104               295              
 STPT 612929.352 239345.347
 LIPT 612926.413 239344.271
 ELIN
-OBJE 107               297              
+OBJE 105               295              
 STPT 612929.167 239345.854
 LIPT 612926.227 239344.778
 ELIN
-OBJE 108               298              
+OBJE 106               296              
 STPT 613066.014 239301.213
 LIPT 613070.477 239303.422
 ELIN
-OBJE 109               298              
+OBJE 107               296              
 STPT 613066.201 239300.835
 LIPT 613070.665 239303.044
 ELIN
-OBJE 110               298              
+OBJE 108               296              
 STPT 613066.389 239300.456
 LIPT 613070.852 239302.665
 ELIN
-OBJE 111               298              
+OBJE 109               296              
 STPT 613066.576 239300.078
 LIPT 613071.039 239302.287
 ELIN
-OBJE 112               299              
+OBJE 110               297              
 STPT 613086.809 239315.863
 LIPT 613084.597 239314.784
 ELIN
-OBJE 113               299              
+OBJE 111               297              
 STPT 613086.427 239316.645
 LIPT 613084.216 239315.566
 ELIN
-OBJE 114               299              
+OBJE 112               297              
 STPT 613086.046 239317.427
 LIPT 613083.834 239316.347
 ELIN
-OBJE 115               299              
+OBJE 113               297              
 STPT 613087.000 239315.472
 LIPT 613084.788 239314.393
 ELIN
-OBJE 116               299              
+OBJE 114               297              
 STPT 613086.618 239316.254
 LIPT 613084.407 239315.175
 ELIN
-OBJE 117               299              
+OBJE 115               297              
 STPT 613086.237 239317.036
 LIPT 613084.025 239315.957
 ELIN
-OBJE 118               299              
+OBJE 116               297              
 STPT 613085.855 239317.818
 LIPT 613083.643 239316.738
 ELIN
-OBJE 119               301              
+OBJE 117               299              
 STPT 612942.383 239403.148
 LIPT 612941.208 239402.720
 ELIN
-OBJE 120               301              
+OBJE 118               299              
 STPT 612941.981 239404.253
 LIPT 612940.806 239403.826
 ELIN
-OBJE 121               301              
+OBJE 119               299              
 STPT 612941.579 239405.359
 LIPT 612940.404 239404.932
 ELIN
-OBJE 122               301              
+OBJE 120               299              
 STPT 612941.177 239406.464
 LIPT 612940.002 239406.037
 ELIN
-OBJE 123               301              
+OBJE 121               299              
 STPT 612942.584 239402.595
 LIPT 612941.409 239402.168
 ELIN
-OBJE 124               301              
+OBJE 122               299              
 STPT 612942.182 239403.700
 LIPT 612941.007 239403.273
 ELIN
-OBJE 125               301              
+OBJE 123               299              
 STPT 612941.780 239404.806
 LIPT 612940.605 239404.379
 ELIN
-OBJE 126               301              
+OBJE 124               299              
 STPT 612941.378 239405.912
 LIPT 612940.203 239405.484
 ELIN
-OBJE 127               301              
+OBJE 125               299              
 STPT 612940.976 239407.017
 LIPT 612939.801 239406.590
 ELIN
-OBJE 128               208              
+OBJE 126               206              
 STPT 612337.590 239020.766
 LIPT 612335.154 239014.723
 LIPT 612331.470 239023.259
 LIPT 612329.034 239017.217
 ELIN
-OBJE 129               198              
+OBJE 127               196              
 STPT 612655.801 238889.567
 LIPT 612653.378 238883.647
 LIPT 612650.294 238891.728
 LIPT 612647.870 238885.808
 ELIN
-OBJE 130               207              
+OBJE 128               205              
 STPT 612891.995 238791.365
 LIPT 612884.810 238784.077
 LIPT 612884.603 238798.654
 LIPT 612877.417 238791.367
 ELIN
-OBJE 131               203              
+OBJE 129               201              
 STPT 609824.157 241501.182
 LIPT 609829.879 241498.213
 ELIN
-OBJE 132               203              
+OBJE 130               201              
 STPT 609824.159 241496.401
 LIPT 609827.255 241502.368
 ELIN
-OBJE 133               203              
+OBJE 131               201              
 STPT 609822.808 241500.665
 LIPT 609824.159 241496.401
 LIPT 609829.879 241498.213
 LIPT 609828.421 241502.815
 ELIN
-OBJE 134               213              
+OBJE 132               211              
 STPT 609808.982 241485.281
 LIPT 609807.293 241491.009
 LIPT 609814.729 241487.006
 LIPT 609813.004 241492.753
 ELIN
-OBJE 135               202              
+OBJE 133               200              
 STPT 609795.616 241481.158
 LIPT 609789.845 241479.517
 LIPT 609793.975 241486.929
 LIPT 609788.204 241485.288
 ELIN
-OBJE 136               214              
+OBJE 134               212              
 STPT 609924.906 241004.443
 LIPT 609923.340 241010.235
 LIPT 609930.698 241006.009
 LIPT 609929.132 241011.801
 ELIN
-OBJE 137               215              
+OBJE 135               213              
 STPT 609949.000 241018.318
 LIPT 609947.449 241024.115
 LIPT 609954.797 241019.869
 LIPT 609953.246 241025.666
 ELIN
-OBJE 138               216              
+OBJE 136               214              
 STPT 609970.830 241032.840
 LIPT 609969.276 241038.636
 LIPT 609976.626 241034.394
 LIPT 609975.072 241040.190
 ELIN
-OBJE 139               219              
+OBJE 137               217              
 STPT 610024.844 240614.200
 LIPT 610025.947 240610.852
 LIPT 610031.646 240612.729
 LIPT 610030.485 240616.256
 ELIN
-OBJE 140               217              
+OBJE 138               215              
 STPT 610043.839 240615.652
 LIPT 610042.398 240621.477
 LIPT 610049.664 240617.093
 LIPT 610048.223 240622.918
 ELIN
-OBJE 141               204              
+OBJE 139               202              
 STPT 610066.423 240626.268
 LIPT 610060.511 240625.242
 LIPT 610065.397 240632.180
 LIPT 610059.485 240631.154
 ELIN
-OBJE 142               205              
+OBJE 140               203              
 STPT 610077.929 240484.315
 LIPT 610083.744 240485.790
 LIPT 610079.404 240478.500
 LIPT 610085.219 240479.975
 ELIN
-OBJE 143               218              
+OBJE 141               216              
 STPT 610114.788 240338.671
 LIPT 610116.265 240332.856
 LIPT 610120.603 240340.148
 LIPT 610122.080 240334.333
 ELIN
-OBJE 144               206              
+OBJE 142               204              
 STPT 610161.956 240175.460
 LIPT 610156.421 240173.143
 LIPT 610164.273 240169.925
 LIPT 610158.738 240167.608
 ELIN
-OBJE 145               200              
+OBJE 143               198              
 STPT 610510.210 240048.949
 LIPT 610515.302 240052.123
 LIPT 610513.384 240043.857
 LIPT 610518.476 240047.031
 ELIN
-OBJE 146               302              
+OBJE 144               300              
 STPT 610263.249 240478.329
 LIPT 610260.259 240483.531
 LIPT 610268.451 240481.319
 LIPT 610265.461 240486.521
 ELIN
-OBJE 147               302              
+OBJE 145               300              
 STPT 610260.259 240483.531
 LIPT 610265.461 240486.521
 LIPT 610263.249 240478.329
 LIPT 610268.451 240481.319
 ELIN
-OBJE 148               199              
+OBJE 146               197              
 STPT 611647.480 239298.511
 LIPT 611649.838 239304.197
 LIPT 611653.280 239296.181
 LIPT 611655.639 239301.867
 ELIN
-OBJE 149               209              
+OBJE 147               207              
 STPT 612016.042 239146.322
 LIPT 612022.106 239143.861
 LIPT 612018.612 239152.282
 LIPT 612024.675 239149.821
 ELIN
-OBJE 150               211              
+OBJE 148               209              
 STPT 610049.899 241081.822
 LIPT 610048.264 241087.575
 LIPT 610055.691 241083.309
 LIPT 610053.982 241088.979
 ELIN
-OBJE 151               212              
+OBJE 149               210              
 STPT 609910.144 241611.569
 LIPT 609905.958 241604.189
 ELIN
-OBJE 152               212              
+OBJE 150               210              
 STPT 609906.629 241608.685
 LIPT 609911.741 241605.786
 ELIN
-OBJE 153               201              
+OBJE 151               199              
 STPT 609947.034 241477.959
 LIPT 609941.251 241476.362
 LIPT 609945.437 241483.742
 LIPT 609939.654 241482.145
 ELIN
-OBJE 154               210              
+OBJE 152               208              
 STPT 610171.924 240638.037
 LIPT 610177.461 240640.348
 LIPT 610174.235 240632.500
 LIPT 610179.772 240634.811
 ELIN
-OBJE 155               303              
+OBJE 153               301              
 STPT 612268.011 237457.436
 LIPT 612269.791 237451.706
 LIPT 612262.281 237455.656
 LIPT 612264.061 237449.926
 ELIN
-OBJE 156               303              
+OBJE 154               301              
 STPT 612262.281 237455.656
 LIPT 612268.011 237457.436
 LIPT 612264.061 237449.926
 LIPT 612269.791 237451.706
 ELIN
-OBJE 157               304              
+OBJE 155               302              
 STPT 612213.287 237633.641
 LIPT 612215.045 237627.905
 LIPT 612207.551 237631.883
 LIPT 612209.309 237626.147
 ELIN
-OBJE 158               304              
+OBJE 156               302              
 STPT 612207.551 237631.883
 LIPT 612213.287 237633.641
 LIPT 612209.309 237626.147
 LIPT 612215.045 237627.905
 ELIN
-OBJE 159               305              
+OBJE 157               303              
 STPT 612164.985 237791.227
 LIPT 612166.751 237785.493
 LIPT 612159.251 237789.461
 LIPT 612161.017 237783.727
 ELIN
-OBJE 160               305              
+OBJE 158               303              
 STPT 612159.251 237789.461
 LIPT 612164.985 237791.227
 LIPT 612161.017 237783.727
 LIPT 612166.751 237785.493
 ELIN
-OBJE 161               306              
+OBJE 159               304              
 STPT 612121.293 237933.118
 LIPT 612115.555 237931.364
 LIPT 612119.539 237938.856
 LIPT 612113.801 237937.102
 ELIN
-OBJE 162               306              
+OBJE 160               304              
 STPT 612119.539 237938.856
 LIPT 612121.293 237933.118
 LIPT 612113.801 237937.102
 LIPT 612115.555 237931.364
 ELIN
-OBJE 163               307              
+OBJE 161               305              
 STPT 613074.797 238267.534
 LIPT 613076.814 238261.883
 LIPT 613069.146 238265.517
 LIPT 613071.163 238259.866
 ELIN
-OBJE 164               307              
+OBJE 162               305              
 STPT 613069.146 238265.517
 LIPT 613074.797 238267.534
 LIPT 613071.163 238259.866
 LIPT 613076.814 238261.883
 ELIN
-OBJE 165               308              
+OBJE 163               306              
 STPT 613154.979 238041.329
 LIPT 613156.984 238035.674
 LIPT 613149.324 238039.324
 LIPT 613151.329 238033.669
 ELIN
-OBJE 166               308              
+OBJE 164               306              
 STPT 613149.324 238039.324
 LIPT 613154.979 238041.329
 LIPT 613151.329 238033.669
 LIPT 613156.984 238035.674
 ELIN
-OBJE 167               309              
+OBJE 165               307              
 STPT 613266.231 237731.137
 LIPT 613268.257 237725.489
 LIPT 613260.583 237729.111
 LIPT 613262.609 237723.463
 ELIN
-OBJE 168               309              
+OBJE 166               307              
 STPT 613260.583 237729.111
 LIPT 613266.231 237731.137
 LIPT 613262.609 237723.463
 LIPT 613268.257 237725.489
 ELIN
-OBJE 169               310              
+OBJE 167               308              
 STPT 613331.393 237550.651
 LIPT 613333.431 237545.007
 LIPT 613325.749 237548.613
 LIPT 613327.787 237542.969
 ELIN
-OBJE 170               310              
+OBJE 168               308              
 STPT 613325.749 237548.613
 LIPT 613331.393 237550.651
 LIPT 613327.787 237542.969
 LIPT 613333.431 237545.007
 ELIN
-OBJE 171               337              
+OBJE 169               335              
 STPT 612695.769 240716.339
 LIPT 612698.763 240706.666
 LIPT 612700.640 240707.196
 ELIN
-OBJE 172               99               
+OBJE 170               99               
 STPT 612077.183 239693.552
 LIPT 612069.657 239683.772
 ELIN
-OBJE 173               346              
+OBJE 171               344              
 STPT 613474.321 239465.097
 LIPT 613469.042 239465.383
 LIPT 613468.257 239450.915
 ELIN
-OBJE 174               350              
+OBJE 172               348              
 STPT 613199.100 238727.432
 LIPT 613192.671 238739.046
 ELIN
-OBJE 175               354              
+OBJE 173               352              
 STPT 612784.918 238974.049
 LIPT 612781.423 238973.842
 LIPT 612781.640 238970.172
 LIPT 612785.134 238970.379
 ELIN
-OBJE 176               357              
+OBJE 174               355              
 STPT 613088.978 240091.182
 LIPT 613087.090 240102.074
 ELIN
-OBJE 177               360              
+OBJE 175               358              
 STPT 612221.717 242197.260
 LIPT 612222.675 242190.344
 LIPT 612220.832 242190.089
 LIPT 612217.716 242193.614
 ELIN
-OBJE 178               361              
+OBJE 176               359              
 STPT 612205.536 242169.724
 LIPT 612202.866 242172.756
 LIPT 612199.788 242170.046
 ELIN
-OBJE 179               98               
+OBJE 177               98               
 STPT 612278.502 239810.474
 LIPT 612276.745 239797.816
 ELIN
-OBJE 180               109              
+OBJE 178               109              
 STPT 612860.539 239912.428
 LIPT 612871.058 239917.991
 ELIN
-OBJE 181               383              
+OBJE 179               381              
 STPT 612807.120 240234.405
 LIPT 612809.631 240242.534
 LIPT 612811.225 240246.467
@@ -64281,66 +64271,66 @@ LIPT 612833.304 240289.572
 LIPT 612833.713 240299.252
 LIPT 612835.689 240312.799
 ELIN
-OBJE 182               388              
+OBJE 180               386              
 STPT 612157.583 239600.107
 LIPT 612156.074 239604.566
 LIPT 612163.652 239607.130
 ELIN
-OBJE 183               402              
+OBJE 181               400              
 STPT 612727.243 239413.589
 LIPT 612732.467 239406.994
 ELIN
-OBJE 184               405              
+OBJE 182               403              
 STPT 612550.879 239391.248
 LIPT 612550.424 239385.707
 LIPT 612549.419 239385.790
 ELIN
-OBJE 185               406              
+OBJE 183               404              
 STPT 612556.843 239416.869
 LIPT 612559.342 239416.774
 LIPT 612559.395 239418.173
 ELIN
-OBJE 186               407              
+OBJE 184               405              
 STPT 612406.917 239458.162
 LIPT 612415.888 239458.275
 ELIN
-OBJE 187               416              
+OBJE 185               414              
 STPT 612731.271 239850.157
 LIPT 612727.254 239849.760
 LIPT 612727.372 239848.566
 ELIN
-OBJE 188               419              
+OBJE 186               417              
 STPT 612712.509 239815.409
 LIPT 612708.452 239814.533
 LIPT 612709.345 239810.398
 LIPT 612710.666 239810.672
 LIPT 612711.329 239806.598
 ELIN
-OBJE 189               424              
+OBJE 187               422              
 STPT 613264.993 239180.975
 LIPT 613266.426 239177.622
 LIPT 613265.073 239177.044
 LIPT 613263.640 239180.399
 ELIN
-OBJE 190               429              
+OBJE 188               427              
 STPT 613028.056 239380.876
 LIPT 613021.379 239390.544
 ELIN
-OBJE 191               430              
+OBJE 189               428              
 STPT 613029.318 239394.692
 LIPT 613035.094 239385.721
 ELIN
-OBJE 192               440              
+OBJE 190               438              
 STPT 613020.246 239588.644
 LIPT 613016.873 239588.677
 LIPT 613016.856 239585.795
 ELIN
-OBJE 193               451              
+OBJE 191               449              
 STPT 612713.687 239392.118
 LIPT 612708.736 239398.402
 LIPT 612704.892 239395.336
 ELIN
-OBJE 194               464              
+OBJE 192               462              
 STPT 613068.823 237613.951
 LIPT 613064.601 237605.859
 LIPT 613049.953 237592.732
@@ -64354,7 +64344,7 @@ LIPT 612956.174 237508.625
 LIPT 612949.688 237502.100
 LIPT 612949.367 237501.777
 ELIN
-OBJE 195               465              
+OBJE 193               463              
 STPT 613070.407 237616.762
 LIPT 613081.626 237633.074
 LIPT 613089.907 237643.746
@@ -64370,7 +64360,7 @@ LIPT 613175.229 237727.388
 LIPT 613184.950 237733.686
 LIPT 613191.523 237739.187
 ELIN
-OBJE 196               466              
+OBJE 194               464              
 STPT 613404.480 237875.276
 LIPT 613406.124 237875.796
 LIPT 613419.117 237883.902
@@ -64379,7 +64369,7 @@ LIPT 613436.589 237891.820
 LIPT 613442.105 237897.678
 LIPT 613459.563 237904.552
 ELIN
-OBJE 197               469              
+OBJE 195               467              
 STPT 612829.453 237241.838
 LIPT 612825.409 237241.984
 LIPT 612820.284 237242.684
@@ -64393,7 +64383,7 @@ LIPT 612822.503 237248.432
 LIPT 612825.997 237249.200
 LIPT 612831.361 237252.361
 ELIN
-OBJE 198               498              
+OBJE 196               496              
 STPT 611926.656 241633.618
 LIPT 611926.566 241633.390
 LIPT 611924.297 241626.679
@@ -64419,7 +64409,7 @@ LIPT 612597.809 241756.124
 LIPT 612585.387 241770.032
 LIPT 612584.500 241770.948
 ELIN
-OBJE 199               499              
+OBJE 197               497              
 STPT 611183.380 241327.399
 LIPT 611187.737 241325.950
 LIPT 611194.566 241316.893
@@ -64449,7 +64439,7 @@ LIPT 611710.481 241542.755
 LIPT 611712.448 241552.669
 LIPT 611712.849 241553.429
 ELIN
-OBJE 200               500              
+OBJE 198               498              
 STPT 610750.461 241321.335
 LIPT 610749.825 241320.221
 LIPT 610733.192 241291.159
@@ -64459,12 +64449,12 @@ LIPT 610695.371 241259.094
 LIPT 610684.942 241253.155
 LIPT 610670.864 241245.961
 ELIN
-OBJE 201               501              
+OBJE 199               499              
 STPT 609866.504 241543.205
 LIPT 609872.237 241542.284
 LIPT 609878.231 241543.857
 ELIN
-OBJE 202               534              
+OBJE 200               532              
 STPT 612015.953 240493.316
 LIPT 612020.148 240496.926
 LIPT 612024.323 240501.440
@@ -64521,7 +64511,7 @@ LIPT 612339.968 240668.573
 LIPT 612343.579 240668.799
 LIPT 612345.728 240668.273
 ELIN
-OBJE 203               538              
+OBJE 201               536              
 STPT 612807.000 240232.008
 LIPT 612804.565 240223.466
 LIPT 612802.163 240213.592
@@ -64529,7 +64519,7 @@ LIPT 612800.131 240200.526
 LIPT 612799.041 240191.923
 LIPT 612798.765 240181.132
 ELIN
-OBJE 204               546              
+OBJE 202               544              
 STPT 611700.407 241825.653
 LIPT 611704.280 241826.634
 LIPT 611707.598 241827.741
@@ -64541,7 +64531,7 @@ LIPT 611719.151 241829.844
 LIPT 611722.158 241830.126
 LIPT 611723.900 241830.144
 ELIN
-OBJE 205               547              
+OBJE 203               545              
 STPT 611361.039 240890.507
 LIPT 611361.503 240889.763
 LIPT 611360.362 240873.762
@@ -64573,7 +64563,7 @@ LIPT 611585.355 240862.259
 LIPT 611613.153 240873.020
 LIPT 611624.399 240872.253
 ELIN
-OBJE 206               548              
+OBJE 204               546              
 STPT 611291.354 240661.924
 LIPT 611298.109 240670.112
 LIPT 611299.559 240676.207
@@ -64583,7 +64573,7 @@ LIPT 611307.873 240692.024
 LIPT 611310.180 240695.133
 LIPT 611312.208 240699.392
 ELIN
-OBJE 207               550              
+OBJE 205               548              
 STPT 611111.956 241029.977
 LIPT 611121.393 241013.670
 LIPT 611132.497 241000.662
@@ -64602,179 +64592,179 @@ LIPT 611372.665 240932.768
 LIPT 611371.714 240919.125
 LIPT 611370.228 240912.591
 ELIN
-OBJE 208               561              
+OBJE 206               559              
 STPT 612478.675 239454.826
 LIPT 612477.297 239447.548
 LIPT 612479.822 239447.066
 ELIN
-OBJE 209               568              
+OBJE 207               566              
 STPT 612723.955 239358.605
 LIPT 612725.735 239358.943
 ELIN
-OBJE 210               568              
+OBJE 208               566              
 STPT 612724.006 239358.294
 LIPT 612725.793 239358.634
 ELIN
-OBJE 211               568              
+OBJE 209               566              
 STPT 612724.057 239357.983
 LIPT 612725.851 239358.324
 ELIN
-OBJE 212               568              
+OBJE 210               566              
 STPT 612724.120 239357.679
 LIPT 612725.920 239357.962
 ELIN
-OBJE 213               568              
+OBJE 211               566              
 STPT 612724.186 239357.370
 LIPT 612726.221 239357.690
 ELIN
-OBJE 214               568              
+OBJE 212               566              
 STPT 612724.403 239356.439
 LIPT 612726.649 239356.853
 ELIN
-OBJE 215               568              
+OBJE 213               566              
 STPT 612724.448 239356.190
 LIPT 612726.931 239356.655
 ELIN
-OBJE 216               568              
+OBJE 214               566              
 STPT 612724.493 239355.942
 LIPT 612727.214 239356.458
 ELIN
-OBJE 217               568              
+OBJE 215               566              
 STPT 612724.538 239355.693
 LIPT 612727.496 239356.260
 ELIN
-OBJE 218               568              
+OBJE 216               566              
 STPT 612724.583 239355.444
 LIPT 612727.329 239355.970
 ELIN
-OBJE 219               568              
+OBJE 217               566              
 STPT 612724.640 239355.136
 LIPT 612727.383 239355.661
 ELIN
-OBJE 220               569              
+OBJE 218               567              
 STPT 612726.883 239369.116
 LIPT 612728.126 239362.656
 ELIN
-OBJE 221               569              
+OBJE 219               567              
 STPT 612727.277 239369.187
 LIPT 612728.520 239362.726
 ELIN
-OBJE 222               569              
+OBJE 220               567              
 STPT 612727.671 239369.258
 LIPT 612728.960 239362.558
 ELIN
-OBJE 223               569              
+OBJE 221               567              
 STPT 612728.064 239369.330
 LIPT 612729.431 239362.225
 ELIN
-OBJE 224               569              
+OBJE 222               567              
 STPT 612729.206 239369.506
 LIPT 612730.608 239362.187
 ELIN
-OBJE 225               569              
+OBJE 223               567              
 STPT 612729.645 239369.514
 LIPT 612731.025 239362.173
 ELIN
-OBJE 226               569              
+OBJE 224               567              
 STPT 612730.085 239369.523
 LIPT 612731.441 239362.160
 ELIN
-OBJE 227               569              
+OBJE 225               567              
 STPT 612730.524 239369.531
 LIPT 612731.858 239362.146
 ELIN
-OBJE 228               570              
+OBJE 226               568              
 STPT 612735.836 239366.331
 LIPT 612736.638 239361.760
 ELIN
-OBJE 229               570              
+OBJE 227               568              
 STPT 612736.295 239366.338
 LIPT 612737.068 239361.927
 ELIN
-OBJE 230               570              
+OBJE 228               568              
 STPT 612736.753 239366.344
 LIPT 612737.499 239362.093
 ELIN
-OBJE 231               571              
+OBJE 229               569              
 STPT 612743.865 239367.085
 LIPT 612744.358 239364.167
 ELIN
-OBJE 232               571              
+OBJE 230               569              
 STPT 612744.239 239367.149
 LIPT 612744.732 239364.231
 ELIN
-OBJE 233               572              
+OBJE 231               570              
 STPT 612751.852 239368.444
 LIPT 612752.320 239365.514
 ELIN
-OBJE 234               572              
+OBJE 232               570              
 STPT 612752.227 239368.504
 LIPT 612752.695 239365.574
 ELIN
-OBJE 235               219              
+OBJE 233               217              
 STPT 610025.947 240610.852
 LIPT 610028.262 240615.445
 ELIN
-OBJE 236               614              
+OBJE 234               612              
 STPT 613426.286 238626.622
 LIPT 613431.678 238615.421
 ELIN
 ETAB
 TABL LinienelementSymbol
-OBJE 1                 92                609051.379 240225.764 355.0
-OBJE 2                 76                612316.921 242229.320 346.8
-OBJE 3                 77                612243.042 242035.559 380.0
-OBJE 4                 78                611994.414 242457.659 313.6
-OBJE 5                 79                611657.210 241830.035 312.2
-OBJE 6                 80                611598.805 241810.258  25.0
-OBJE 7                 81                611454.396 241897.778 100.0
-OBJE 8                 82                611271.897 241824.342  85.0
-OBJE 9                 83                611321.388 241771.527  30.0
-OBJE 10                84                610635.185 241849.176  43.5
-OBJE 11                85                611472.524 240710.120 105.0
-OBJE 12                86                610340.127 239967.653 138.0
-OBJE 13                87                609489.041 240898.212 236.0
-OBJE 14                88                610061.015 240766.103 301.0
-OBJE 15                89                611226.023 241778.468 250.0
-OBJE 16                90                611983.522 239399.410 149.0
-OBJE 17                91                610244.076 240093.459 245.0
-OBJE 18                93                609076.875 240506.126 257.0
-OBJE 19                94                610015.683 240799.919 285.0
-OBJE 20                95                610024.173 240922.209 280.0
-OBJE 21                96                610687.634 239802.163 110.7
-OBJE 22                97                610891.099 239733.569 106.2
-OBJE 23                206               611299.364 240673.069  14.9
+OBJE 1                 90                609051.379 240225.764 355.0
+OBJE 2                 74                612316.921 242229.320 346.8
+OBJE 3                 75                612243.042 242035.559 380.0
+OBJE 4                 76                611994.414 242457.659 313.6
+OBJE 5                 77                611657.210 241830.035 312.2
+OBJE 6                 78                611598.805 241810.258  25.0
+OBJE 7                 79                611454.396 241897.778 100.0
+OBJE 8                 80                611271.897 241824.342  85.0
+OBJE 9                 81                611321.388 241771.527  30.0
+OBJE 10                82                610635.185 241849.176  43.5
+OBJE 11                83                611472.524 240710.120 105.0
+OBJE 12                84                610340.127 239967.653 138.0
+OBJE 13                85                609489.041 240898.212 236.0
+OBJE 14                86                610061.015 240766.103 301.0
+OBJE 15                87                611226.023 241778.468 250.0
+OBJE 16                88                611983.522 239399.410 149.0
+OBJE 17                89                610244.076 240093.459 245.0
+OBJE 18                91                609076.875 240506.126 257.0
+OBJE 19                92                610015.683 240799.919 285.0
+OBJE 20                93                610024.173 240922.209 280.0
+OBJE 21                94                610687.634 239802.163 110.7
+OBJE 22                95                610891.099 239733.569 106.2
+OBJE 23                204               611299.364 240673.069  14.9
 ETAB
 TABL Punktelement
-OBJE 1                 486               613242.739 239496.894   0.0
-OBJE 2                 495               610770.820 241564.613   0.0
-OBJE 3                 496               612135.371 241588.430   0.0
-OBJE 4                 532               612939.461 239331.934   0.0
-OBJE 5                 533               612851.636 239399.021   0.0
+OBJE 1                 484               613242.739 239496.894   0.0
+OBJE 2                 493               610770.820 241564.613   0.0
+OBJE 3                 494               612135.371 241588.430   0.0
+OBJE 4                 530               612939.461 239331.934   0.0
+OBJE 5                 531               612851.636 239399.021   0.0
 ETAB
 TABL Objektname
-OBJE 1                 271               Güggellochgraben              
-OBJE 2                 277               Büttengraben                  
-OBJE 3                 284               Seehofbach                    
-OBJE 4                 285               Schwangbach                   
-OBJE 5                 289               IWB                           
-OBJE 6                 290               IWB                           
-OBJE 7                 292               IWB                           
-OBJE 8                 293               IWB                           
-OBJE 9                 294               BKW                           
-OBJE 10                294               BKW                           
-OBJE 11                294               BKW                           
-OBJE 12                294               BKW                           
-OBJE 13                294               BKW                           
-OBJE 14                294               BKW                           
-OBJE 15                294               BKW                           
-OBJE 16                272               Güggellochgraben              
-OBJE 17                278               Seehofbach                    
-OBJE 18                549               Kellenflueweg                 
-OBJE 19                543               Äbeweg                        
-OBJE 20                276               Meisenbach                    
-OBJE 21                296               IWB                           
-OBJE 22                564               Scheibenstand                 
+OBJE 1                 269               Güggellochgraben              
+OBJE 2                 275               Büttengraben                  
+OBJE 3                 282               Seehofbach                    
+OBJE 4                 283               Schwangbach                   
+OBJE 5                 287               IWB                           
+OBJE 6                 288               IWB                           
+OBJE 7                 290               IWB                           
+OBJE 8                 291               IWB                           
+OBJE 9                 292               BKW                           
+OBJE 10                292               BKW                           
+OBJE 11                292               BKW                           
+OBJE 12                292               BKW                           
+OBJE 13                292               BKW                           
+OBJE 14                292               BKW                           
+OBJE 15                292               BKW                           
+OBJE 16                270               Güggellochgraben              
+OBJE 17                276               Seehofbach                    
+OBJE 18                547               Kellenflueweg                 
+OBJE 19                541               Äbeweg                        
+OBJE 20                274               Meisenbach                    
+OBJE 21                294               IWB                           
+OBJE 22                562               Scheibenstand                 
 ETAB
 TABL ObjektnamePos
 OBJE 1                 1                 611541.894 241735.529  47.3  1  4 @ 
