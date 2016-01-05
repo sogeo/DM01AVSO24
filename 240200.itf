@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 20/12/2015  06:17:39
+GeosPro Export 03/01/2016  06:18:11
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -1294,7 +1294,7 @@ OBJE 407               23                SO0200002402 24043033     628914.030 23
 CONT 1
 OBJE 408               23                SO0200002402 24043208     628022.120 239679.040   432.950   2.0 0    2.0  0 0 \
 CONT 1
-OBJE 409               23                SO0200002402 24043210     627870.500 239799.060   433.370   2.0 0    2.0  0 0 \
+OBJE 409               23                SO0200002402 24043210     627870.500 239799.060   433.340   2.0 0    2.0  0 0 \
 CONT 1
 OBJE 410               23                SO0200002402 24043393     627997.870 239358.330   434.190   2.0 0    2.0  0 0 \
 CONT 1
@@ -54739,9 +54739,9 @@ OBJE 71                SO0200002402 944          Parz_GB_835_Aeschlimatt        
 CONT @        
 OBJE 72                SO0200002402 945          Ausbau_A1,_6_Spuren,_BoBe/EO   1  20150908 @         @         \
 CONT @        
-OBJE 73                SO0200002402 950          Ausbau_A1,_Grenzänderungen     0  20151209 @         @         \
+OBJE 73                SO0200002402 950          Ausbau_A1,_Grenzänderungen     0  20151223 @         @         \
 CONT @        
-OBJE 74                SO0200002402 955          AVT,_Ausbau_Gunzgerstrasse     0  20151217 @         @         \
+OBJE 74                SO0200002402 955          AVT,_Ausbau_Gunzgerstrasse     0  20151223 @         @         \
 CONT @        
 OBJE 75                SO0200002402 956          AVT,_Ausbau_Hauptgasse         0  20151217 @         @         \
 CONT @        
