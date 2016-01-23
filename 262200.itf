@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 15/01/2016  07:38:14
+GeosPro Export 22/01/2016  07:58:47
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -791,6 +791,7 @@ OBJE 15                SO0200002622 339          Kreisforstamt_Dorneck,_Roth    
 OBJE 16                SO0200002622 335          Simon_Stingelin-Moser          1  20151207 @        
 OBJE 17                SO0200002622 334          Willi_Hänggi                   1  20151207 @        
 OBJE 18                SO0200002622 345          Thomas_Mislin                  0  20160106 @        
+OBJE 19                SO0200002622 347          Marc_u._Tamara_Hänggi          0  20160115 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
@@ -802,6 +803,7 @@ OBJE 4                 12                0  0
 OBJE 5                 13                0  0
 OBJE 6                 14                0  0
 OBJE 7                 18                0  0
+OBJE 8                 19                0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -865,6 +867,17 @@ LIPT 612305.509 248739.049
 LIPT 612304.043 248734.227
 LIPT 612309.554 248732.551
 ELIN
+OBJE 8                 8                
+STPT 612422.197 249117.192
+LIPT 612422.594 249124.681
+LIPT 612410.541 249125.321
+LIPT 612410.499 249124.522
+LIPT 612407.463 249124.683
+LIPT 612407.150 249118.791
+LIPT 612410.186 249118.630
+LIPT 612410.144 249117.831
+LIPT 612422.197 249117.192
+ELIN
 ETAB
 TABL ProjGebaeudenummer
 OBJE 1                 1                 1             191220410
@@ -872,6 +885,7 @@ OBJE 2                 2                 1             191251911
 OBJE 3                 3                 1             191158331
 OBJE 4                 4                 1             191377271
 OBJE 5                 5                 1             191347817
+OBJE 6                 8                 1             191495431
 ETAB
 TABL ProjGebaeudenummerPos
 ETAB
@@ -33347,6 +33361,7 @@ OBJE 9                 SO0200002622 333          Roger_u._Annelies_Schnoz       
 OBJE 10                SO0200002622 335          Simon_Stingelin-Moser          1  20151207 @        
 OBJE 11                SO0200002622 334          Willi_Hänggi                   1  20151207 @        
 OBJE 12                SO0200002622 345          Thomas_Mislin                  0  20160106 @        
+OBJE 13                SO0200002622 347          Marc_u._Tamara_Hänggi          0  20160115 @        
 ETAB
 TABL EONachfuehrung_Perimeter
 ETAB
@@ -77951,6 +77966,7 @@ OBJE 13                SO0200002622 328          Zweckverband_ARA_Mel._Zull.    
 OBJE 14                SO0200002622 335          Simon_Stingelin-Moser          1 20151207
 OBJE 15                SO0200002622 334          Willi_Hänggi                   1 20151207
 OBJE 16                SO0200002622 345          Thomas_Mislin                  0 20160106
+OBJE 17                SO0200002622 347          Marc_u._Tamara_Hänggi          0 20160115
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB

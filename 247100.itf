@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 14/01/2016  18:03:10
+GeosPro Export 21/01/2016  18:03:11
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -1052,12 +1052,14 @@ OBJE 30                SO0200002471 452          GN_ANbau_GB_1055               
 OBJE 31                SO0200002471 454          GN_Anbau_GB_423,247            1  20150702 @        
 OBJE 32                SO0200002471 450          GN_Anbau_GB_905                1  20150707 @        
 OBJE 33                SO0200002471 453          GN_Anbau_GB_946                1  20151222 @        
+OBJE 34                SO0200002471 456          proj_Geb_Neubau_GB_808         0  20160115 @        
 ETAB
 TABL BBNachfuehrung_Perimeter
 ETAB
 TABL ProjBoFlaeche
 OBJE 1                 10                0  0
 OBJE 2                 21                0  0
+OBJE 3                 34                0  0
 ETAB
 TABL ProjBoFlaeche_Geometrie
 OBJE 1                 1                
@@ -1074,8 +1076,18 @@ LIPT 605796.013 260444.766
 LIPT 605795.157 260404.775
 LIPT 605807.135 260404.511
 ELIN
+OBJE 3                 3                
+STPT 605375.014 259724.013
+LIPT 605376.104 259734.356
+LIPT 605367.283 259735.286
+LIPT 605366.764 259730.363
+LIPT 605365.073 259730.541
+LIPT 605364.502 259725.121
+LIPT 605375.014 259724.013
+ELIN
 ETAB
 TABL ProjGebaeudenummer
+OBJE 1                 3                 1             191444438
 ETAB
 TABL ProjGebaeudenummerPos
 ETAB
@@ -28069,6 +28081,7 @@ OBJE 377               479               1                339107
 OBJE 378               1356              1             191116312
 OBJE 379               1359              1             191242690
 OBJE 380               1362              1             191242692
+OBJE 381               1375              1             191316550
 ETAB
 TABL GebaeudenummerPos
 ETAB
@@ -49246,7 +49259,7 @@ OBJE 154               154               605225.411 259837.519 @       1  3 @
 ELIN
 OBJE 155               155               605203.242 259821.394 @       1  3 @ 
 ELIN
-OBJE 156               156               605372.537 259723.009 @       1  3 @ 
+OBJE 156               156               605360.547 259728.641 @       1  3 @ 
 ELIN
 OBJE 157               157               605374.859 259744.492 @       1  3 @ 
 ELIN
@@ -62849,6 +62862,7 @@ OBJE 13                SO0200002471 442          GN_Neubau_GB_1171              
 OBJE 14                SO0200002471 445.1        BLT_Doppelspur_2014            1 20141126
 OBJE 15                SO0200002471 444          GN_Umbau_GB_5027               1 20150407
 OBJE 16                SO0200002471 449          GN_Anbau_GB_820                1 20150701
+OBJE 17                SO0200002471 456          proj_Geb_Neubau_GB_808         1 20160115
 ETAB
 TABL GEBNachfuehrung_Perimeter
 ETAB
@@ -69089,6 +69103,8 @@ OBJE 615               1                  34                1 1 1 0 605318.494 2
 CONT @          @  
 OBJE 616               13                 31                1 1 1 0 605254.096 259775.430 @     16a          0 \
 CONT @            0
+OBJE 617               17                 7                 0 1 0 0 605369.998 259728.368 @     25           0 \
+CONT @            0
 ETAB
 TABL HausnummerPos
 OBJE 1                 1                 605435.799 261297.672   94.4  1  0  0
@@ -69632,6 +69648,7 @@ OBJE 538               613               605163.030 260039.691   88.0  1  3 @
 OBJE 539               614               605230.127 259814.617  110.5  1  3 @ 
 OBJE 540               615               605318.494 259885.399  163.9  1  0 @ 
 OBJE 541               616               605254.949 259775.289  110.4  1  1 @ 
+OBJE 542               617               605369.397 259725.724  106.7  1  3 @ 
 ETAB
 TABL GebaeudeName
 ETAB
