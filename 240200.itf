@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 17/01/2016  06:17:58
+GeosPro Export 24/01/2016  06:17:43
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -2229,11 +2229,12 @@ OBJE 100               SO0200002402 949          Neubau,_Lischmatt_23           
 OBJE 101               SO0200002402 955          Grenzänd._Ausbau_Gunzgerstr.    20151203  20151112
 OBJE 102               SO0200002402 956          Grenzänd._Ausbau_Hauptgasse     20151203  20151202
 OBJE 103               SO0200002402 957          Grenzänd._GB_47_Hauptgasse      20151123  20151117
-OBJE 104               SO0200002402 Ing0038      Überwachung_Z60A                20110330  20110330
-OBJE 105               SO0200002402 NF1          Ersterhebung/NF_bis_Mai_2008    19990101  19990101
+OBJE 104               SO0200002402 961          Parz._GB_47_Hauptgasse          20160121  20160119
+OBJE 105               SO0200002402 Ing0038      Überwachung_Z60A                20110330  20110330
+OBJE 106               SO0200002402 NF1          Ersterhebung/NF_bis_Mai_2008    19990101  19990101
 ETAB
 TABL HilfsFPNachfuehrung_Perimeter
-OBJE 1                 105              
+OBJE 1                 106              
 STPT 629933.750 239297.970
 LIPT 629923.800 239325.440
 LIPT 629902.600 239391.840
@@ -54748,7 +54749,7 @@ OBJE 75                SO0200002402 956          Grenzänd._Ausbau_Hauptgasse    
 CONT @        
 OBJE 76                SO0200002402 957          Grenzänd._GB_47_Hauptgasse     0  20151125 @         @         \
 CONT @        
-OBJE 77                SO0200002402 961          Parz._GB_47_Hauptgasse         0 @         @         @         \
+OBJE 77                SO0200002402 961          Parz._GB_47_Hauptgasse         0  20160121 @         @         \
 CONT @        
 OBJE 78                SO0200002402 EN3          Erneuerung_DM93_nach_DM01      1  20120320 @         @         \
 CONT @        
@@ -64902,10 +64903,11 @@ OBJE 34                75                SO0200002402 52           @            
 OBJE 35                75                SO0200002402 90010        @               0 0 0 @         
 OBJE 36                75                SO0200002402 90024        @               0 0 0 @         
 OBJE 37                75                SO0200002402 96           @               0 0 0 @         
-OBJE 38                77                SO0200002402 47           @               0 0 0 @         
+OBJE 38                77                SO0200002402 1000         @               0 0 0 @         
+OBJE 39                77                SO0200002402 47           @               0 0 0 @         
 ETAB
 TABL ProjGrundstueckPos
-OBJE 1                 38                628617.783 239886.029  100.0  1  2 @ 
+OBJE 1                 39                628617.783 239886.029  100.0  1  2 @ 
 ELIN
 OBJE 2                 34                628723.662 239928.245  100.0  1  2 @ 
 ELIN
@@ -64983,11 +64985,13 @@ OBJE 38                21                628876.516 240153.627  100.0  1  2  1
 ELIN
 OBJE 39                21                629440.289 240017.304  100.0  1  2  1
 ELIN
-OBJE 40                33                628617.783 239886.029  100.0  1  2 @ 
+OBJE 40                38                628606.346 239919.726  100.0  1  2  1
+ELIN
+OBJE 41                33                628617.783 239886.029  100.0  1  2 @ 
 ELIN
 ETAB
 TABL ProjLiegenschaft
-OBJE 1                 38                @                  1654
+OBJE 1                 39                @                   815
 OBJE 2                 34                @                  1354
 OBJE 3                 6                 @                  3898
 OBJE 4                 25                @                  1578
@@ -65024,16 +65028,13 @@ OBJE 34                32                @                   672
 OBJE 35                22                @                   359
 OBJE 36                24                @                   434
 OBJE 37                23                @                   383
-OBJE 38                33                @                  1654
+OBJE 38                38                @                   839
+OBJE 39                33                @                  1654
 ETAB
 TABL ProjLiegenschaft_Geometrie
 OBJE 1                 1                 @ 
 STPT 628635.270 239884.680
 LIPT 628623.654 239910.026
-LIPT 628608.560 239942.960
-LIPT 628601.290 239939.590
-LIPT 628595.850 239937.130
-LIPT 628594.690 239901.410
 LIPT 628596.725 239896.938
 LIPT 628608.230 239871.660
 LIPT 628613.802 239874.600
@@ -66123,6 +66124,15 @@ LIPT 628937.325 240160.354
 LIPT 628943.480 240165.280
 ELIN
 OBJE 38                38                @ 
+STPT 628623.654 239910.026
+LIPT 628608.560 239942.960
+LIPT 628601.290 239939.590
+LIPT 628595.850 239937.130
+LIPT 628594.690 239901.410
+LIPT 628596.725 239896.938
+LIPT 628623.654 239910.026
+ELIN
+OBJE 39                39                @ 
 STPT 628635.270 239884.680
 LIPT 628623.654 239910.026
 LIPT 628608.560 239942.960
