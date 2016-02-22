@@ -1,5 +1,5 @@
 SCNT
-GeosPro Export 14/02/2016  07:47:16
+GeosPro Export 21/02/2016  07:47:07
 ////
 MTID INTERLIS1
 MODL DM01AVSO24
@@ -42661,7 +42661,7 @@ OBJE 36                SO0200002405 611          Parz._GB_949                   
 CONT @        
 OBJE 37                SO0200002405 614          Grenzänd._GB_1246_Schäferacker 0  20160118 @         @         \
 CONT @        
-OBJE 38                SO0200002405 615          Grenzänd._GB_871,_963_Dorfstr  0  20160211 @         @         \
+OBJE 38                SO0200002405 615          Grenzänd._GB_871,_963_Dorfstr  0  20160218 @         @         \
 CONT @        
 OBJE 39                SO0200002405 EN3_LS_GEM   EN3_Liegenschaft_Hoheitsgrenze 1  20100512 @         @         \
 CONT @        
@@ -53037,7 +53037,7 @@ OBJE 632               621               624996.172 238786.853  100.0  1  2  1
 ELIN
 OBJE 633               622               626086.116 237837.817 @      @  @  @ 
 ELIN
-OBJE 634               623               625040.033 238768.577  100.0  1  2  1
+OBJE 634               623               625037.515 238761.337  100.0  1  2  1
 ELIN
 OBJE 635               624               625969.059 237747.978 @      @  @  @ 
 ELIN
